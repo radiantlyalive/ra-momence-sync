@@ -25,13 +25,11 @@ jobs:
       - name: Fetch sessions from Momence
         run: node scripts/fetch-sessions.mjs
         env:
-          MOMENCE_CLIENT_ID: ${{ secrets.MOMENCE_CLIENT_ID }}
-          MOMENCE_CLIENT_SECRET: ${{ secrets.MOMENCE_CLIENT_SECRET }}
-          MOMENCE_USERNAME: ${{ secrets.MOMENCE_USERNAME }}
-          MOMENCE_PASSWORD: ${{ secrets.MOMENCE_PASSWORD }}
+          MOMENCE_HOST_ID: ${{ secrets.MOMENCE_HOST_ID }}
+          MOMENCE_TOKEN: ${{ secrets.MOMENCE_TOKEN }}
           SESSION_TYPES: ${{ vars.SESSION_TYPES }}
           DAYS_AHEAD: ${{ vars.DAYS_AHEAD }}
-          LOCATION_ID: ${{ vars.LOCATION_ID }}
+          LOCATION: ${{ vars.LOCATION }}
 
       - name: Commit if changed
         run: |
