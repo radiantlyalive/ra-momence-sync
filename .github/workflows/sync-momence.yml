@@ -1,0 +1,46 @@
+name: Sync Momence sessions
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 min (GitHub may delay a few minutes)
+  workflow_dispatch:         # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-momence
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch sessions from Momence
+        run: node scripts/fetch-sessions.mjs
+        env:
+          MOMENCE_CLIENT_ID: ${{ secrets.MOMENCE_CLIENT_ID }}
+          MOMENCE_CLIENT_SECRET: ${{ secrets.MOMENCE_CLIENT_SECRET }}
+          MOMENCE_USERNAME: ${{ secrets.MOMENCE_USERNAME }}
+          MOMENCE_PASSWORD: ${{ secrets.MOMENCE_PASSWORD }}
+          SESSION_TYPES: ${{ vars.SESSION_TYPES }}
+          DAYS_AHEAD: ${{ vars.DAYS_AHEAD }}
+          LOCATION_ID: ${{ vars.LOCATION_ID }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "momence-sync"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/sessions.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: sync Momence sessions"
+            git push
+          fi
