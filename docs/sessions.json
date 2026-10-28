@@ -1,5 +1,63 @@
 {
- "generatedAt": "2026-10-28T02:53:33.452Z",
- "count": 0,
- "sessions": []
+ "generatedAt": "2026-10-28T02:55:58.999Z",
+ "count": 3,
+ "sessions": [
+  {
+   "id": 144119861,
+   "name": "Workshop | Breathwork: Somatic Breath",
+   "type": "Workshop",
+   "description": "<p>Somatic Breath is a powerful breathing practice that focuses on releasing trauma by gently unwinding the acute and chronic tensions held in the body. Over time, chronic patterns of tension dampen life force, suppress emotional expression, alter perception, compromise movement, and eventually lead to disease. The focus of this modality is on completing the interrupted fight-and-flight responses stored deep within our nervous system and cellular memory.</p><p>In this workshop, we will explore self-help techniques by actively participating in our own healing process. Using conscious, connected breathing, movement, vocal expression, and self-applied touch, we support the body in releasing stored tension. Rather than focusing on the problem, we learn to follow the expressions of health.</p><p>By learning to monitor our own levels of activation, we take charge of our healing. We deepen our experience by connecting with the felt sense, using it to self-regulate the nervous system and attune to the subtle ways the body lets go.</p><p>The body can only release when it is ready. We never over-activate or force the process. This approach is safe and gentle, promoting a deep connection with ourselves in an open and loving way. We surrender the mind to the body’s innate intelligence.</p><p>DATE &amp; TIME<br>October 22 | 14:00 - 16:30</p><p>PRICE<br>350.000 IDR</p><p>ABOUT NIRMOHA<br>With decades of experience in embodied approaches to healing trauma, Nirmoha offers profound and effective support for individuals and groups seeking release and transformation. Through her expertise, she guides participants into a deep exploration of the breath, enabling them to access and release stored tensions and traumas. With skillful techniques and compassionate guidance, Nirmoha empowers people from all walks of life to experience deep healing and lasting positive change.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-10-29T06:00:00.000Z",
+   "endsAt": "2026-10-29T08:30:00.000Z",
+   "durationInMinutes": 150,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Nirmoha Sironic",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/2842-picture.jpg?t=1662692665"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/d5ca714f-1298-42e8-9caa-bb791148bead.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/144119861"
+  },
+  {
+   "id": 144289192,
+   "name": "Sound Healing | Gong Yoga Nidra",
+   "type": "Workshop",
+   "description": "<p>Gong Yoga Nidra, or yogic sleep, combines guided awareness with the deep vibrations of the Gong to create profound relaxation and heightened awareness. It can help reset the nervous system, release habitual patterns, integrate change, and support healing.</p><p>In this 75-minute session, we will move through guided physical sensations, breath, and focused attention, allowing the body and mind to enter a deeply relaxed and receptive state.</p><p>DATE &amp; TIME<br>October 30 | 12:30 - 13:45</p><p>PRICE<br>IDR 200,000</p><p>ABOUT NALYA RAJ<br>Nalya Raj is a certified Level 1 &amp; 2 Kundalini Yoga instructor from the Kundalini Research Institute, as well as a Gong Sound Healing Therapy and Gong Yoga Nidra practitioner.</p><p>Holding a PhD in Biomedical Sciences, Nalya integrates her knowledge of physiology and anatomy into her yoga teachings and sound healing sessions, creating practices that bridge scientific understanding with the deeper dimensions of yoga and sound.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-10-30T04:30:00.000Z",
+   "endsAt": "2026-10-30T05:45:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 30,
+   "teacher": {
+    "name": "Nalya Raj",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/141253-picture.jpg?t=1738810439149"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/d3d8dc71-5a40-473c-ad1b-925034e2f20e.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/144289192"
+  },
+  {
+   "id": 144591581,
+   "name": "Sound Healing | Tibetan Sound Healing",
+   "type": "Workshop",
+   "description": "<p>Imagine lying down, your body cradled by the earth, as the ancient, resonant tones of Tibetan singing bowls wash over you. This is not merely a listening experience; it is a deep, cellular immersion. Using the profound principles of traditional Tibetan sound healing, we invite you to journey inward, where the vibrations work on multiple layers of your being—physical, mental, and energetic.</p><p>The soothing vibrations, rich with harmonic overtones, resonate through every cell, every tissue, and every subtle channel of your body. This is a therapeutic process that bypasses the analytical mind, speaking directly to the body&#39;s innate wisdom. You will feel tension melt away, stress dissolve, and a profound sense of inner peace begin to emerge.</p><p>This is a practice of conscious choice. In this sacred space, you actively choose:<br>• Stillness over rush: Allowing the vibrations to slow your racing thoughts and anchor you in the present moment.<br>• Gratitude over worry: Creating a shift in your emotional frequency, opening your heart to peace and appreciation.<br>• Presence over distraction: Turning your awareness inward, away from the noise of the outside world, and connecting with your truest self.</p><p>DATE &amp; TIME<br>October 31 | 13:00 - 14:15</p><p>PRICE<br>Regular Price: 250.000 IDR<br>Early Bird Price: 200.000 IDR | Valid until October 26</p><p>ABOUT RICARDO<br>Ricardo is a Yoga Alliance Registered Teacher (RYT 500+ hours) who brings unique expertise to his global yoga practice. Teaching in diverse settings, he offers a multicultural learning experience. His deep understanding of the body–mind connection enhances transformative yoga experiences for students of all levels.</p><p>Committed to dynamic and somatic self-exploration, he fosters a holistic approach to well-being, guiding students through a meaningful and transformative journey. Ricardo creates enriching and empowering yoga experiences.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-10-31T05:00:00.000Z",
+   "endsAt": "2026-10-31T06:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Ricardo Roestenburg",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/293348-picture.jpg?t=1767154373620"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/5d0de352-0235-43d5-a5cd-f659201f4f5a.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/144591581"
+  }
+ ]
 }
