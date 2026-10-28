@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T05:56:44.625Z",
+ "generatedAt": "2026-10-28T06:44:22.654Z",
  "count": 10,
  "sessions": [
   {
@@ -70,7 +70,7 @@
    "spotsLeft": 60,
    "teacher": {
     "name": "Bali Meditation Center",
-    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/c77b7c88-0765-4f67-aadb-20149ebc193b.jpeg"
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/a99acf62-7cdc-469f-b23c-feba2254ad98.jpg"
    },
    "location": "Radiantly Alive Ubud",
    "isInPerson": true,
@@ -112,7 +112,7 @@
    },
    "location": "Radiantly Alive Ubud",
    "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/150c3819-7e2f-407e-b4df-034977d1a96a.jpeg",
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/d43db9a5-5c8f-45e3-9718-c384adf5222d.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/146162742"
   },
