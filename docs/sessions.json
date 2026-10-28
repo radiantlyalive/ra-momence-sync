@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-28T02:55:58.999Z",
- "count": 3,
+ "generatedAt": "2026-10-28T05:12:40.962Z",
+ "count": 10,
  "sessions": [
   {
    "id": 144119861,
@@ -58,6 +58,139 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/5d0de352-0235-43d5-a5cd-f659201f4f5a.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/144591581"
+  },
+  {
+   "id": 146162883,
+   "name": "Community | Monk Meditation and Mantra Chanting",
+   "type": "Workshop",
+   "description": "<p>Immerse yourself in a unique blend of Monk Meditation and Mantra Chanting at Radiantly Alive. This free event invites you to experience deep inner peace and spiritual awakening through traditional practices, guided by an experienced facilitator. Whether you&#39;re a seasoned practitioner or new to meditation, this session offers a welcoming space to explore and rejuvenate. Donations are appreciated to support future events.</p><p>Attendees will experience reduced stress, improved focus, and a deeper sense of inner calm through guided meditation and mantra chanting.</p><p>What to Prepare: <br>Comfortable clothing that covers the shoulders, long loose pants, and an open mind.</p><p>Schedule:<br>17:00: Arrival and Introduction<br>17:15: Mantra Singing for Deep Connection to Yourself<br>17:30: Guided Monk Meditation<br>18:15: Weekly Wisdom for Spiritual Living / Closing and Reflections<br>18:30: End</p><p>DATE &amp; TIME<br>Every Monday | 17:00 - 18:30</p><p>PRICE<br>By Donation | Donation is donated to yayasan Bali Meditation Center</p><p>ABOUT MONKS FROM THAILAND<br>This meditation session will be led by experienced monks from Thailand, offering an authentic and deeply rooted practice. Participants will have the unique opportunity to learn traditional techniques directly from the monks, allowing for a more profound spiritual experience.</p>",
+   "startsAt": "2026-11-02T09:00:00.000Z",
+   "endsAt": "2026-11-02T10:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 60,
+   "teacher": {
+    "name": "Bali Meditation Center",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/c77b7c88-0765-4f67-aadb-20149ebc193b.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/765af3a6-4ce0-4121-8ee9-1f641b6f19ac.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146162883"
+  },
+  {
+   "id": 146163054,
+   "name": "Community | Men's Circle",
+   "type": "Workshop",
+   "description": "<p>Men’s Circle is a dedicated space for men to come together, slow down, and explore the deeper dimensions of being a man in today’s world.</p><p>Modern life can leave little room for men to openly express emotions, acknowledge vulnerability, or simply be witnessed without the pressure to perform, solve, or have the answers. This circle creates a supportive environment where participants can step away from those expectations and reconnect with themselves and others.</p><p>Through guided sharing, conscious listening, reflection, embodied practices, and meaningful conversation, we explore the experiences that shape us — from relationships and emotional expression to identity, purpose, boundaries, intimacy, responsibility, and personal growth.</p><p>The circle is not about giving advice or fixing one another. Instead, it is an opportunity to listen without judgment, speak from personal experience, and create connection through authenticity and presence.</p><p>Participants are encouraged to share only what feels appropriate for them. There is no expectation to speak, and confidentiality and respectful listening are fundamental to the space.</p><p>DATE &amp; TIME<br>Every Tuesday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-11-03T09:00:00.000Z",
+   "endsAt": "2026-11-03T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/b23c5bd7-a53e-48c0-b511-8edaef951d0d.JPEG"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/c05ab3d2-c3a4-48c0-8fce-1c53a4afa0fd.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146163054"
+  },
+  {
+   "id": 146162742,
+   "name": "Workshop | Breathwork: Somatic Breath",
+   "type": "Workshop",
+   "description": "<p>Somatic Breath is a powerful breathing practice that focuses on releasing trauma by gently unwinding the acute and chronic tensions held in the body. Over time, chronic patterns of tension dampen life force, suppress emotional expression, alter perception, compromise movement, and eventually lead to disease. The focus of this modality is on completing the interrupted fight-and-flight responses stored deep within our nervous system and cellular memory.</p><p>In this workshop, we will explore self-help techniques by actively participating in our own healing process. Using conscious, connected breathing, movement, vocal expression, and self-applied touch, we support the body in releasing stored tension. Rather than focusing on the problem, we learn to follow the expressions of health.</p><p>By learning to monitor our own levels of activation, we take charge of our healing. We deepen our experience by connecting with the felt sense, using it to self-regulate the nervous system and attune to the subtle ways the body lets go.</p><p>The body can only release when it is ready. We never over-activate or force the process. This approach is safe and gentle, promoting a deep connection with ourselves in an open and loving way. We surrender the mind to the body’s innate intelligence.</p><p>DATE &amp; TIME<br>November 5 | 14:00 - 16:30</p><p>PRICE<br>350.000 IDR</p><p>ABOUT NIRMOHA<br>With decades of experience in embodied approaches to healing trauma, Nirmoha offers profound and effective support for individuals and groups seeking release and transformation. Through her expertise, she guides participants into a deep exploration of the breath, enabling them to access and release stored tensions and traumas. With skillful techniques and compassionate guidance, Nirmoha empowers people from all walks of life to experience deep healing and lasting positive change.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-11-05T06:00:00.000Z",
+   "endsAt": "2026-11-05T08:30:00.000Z",
+   "durationInMinutes": 150,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Nirmoha Sironic",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/2842-picture.jpg?t=1662692665"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/150c3819-7e2f-407e-b4df-034977d1a96a.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146162742"
+  },
+  {
+   "id": 146163433,
+   "name": "Event | Vocal Edging: A Living Laboratory at the Frontier of the Inexpressible",
+   "type": "Workshop",
+   "description": "<p>In this immersive group experience, you&#39;ll enter a safe space of exploration where your voice becomes both the instrument and the teacher. Rather than only learning how to sing, you’ll meet yourself where your frequency becomes a medium for emotional integration, nervous system regulation, creativity, and authentic expression.</p><p>Through playful vocal exploration, guided experiments, and key pieces of awareness,<br>you&#39;ll stretch your comfort zone, flirt with your emotions, give a voice to inner tension, and discover how your voice naturally blossoms when judgment gives away to curiosity and innocence.</p><p>Each exercise is an invitation to observe, feel, and explore, where every sound becomes<br>valuable information and every emotion becomes creative fuel. There is nothing to<br>perform and nothing to get right, only an opportunity to discover new layers of confidence, creativity, and authentic expression.</p><p>No singing experience is needed, only a willingness to explore.</p><p>You may experience:<br>● Emotional release and greater inner freedom<br>● An expanded and more resonant vocal range<br>● Increased confidence in self-expression<br>● A deeper sense of presence and embodiment<br>● Practical tools to continue exploring your voice beyond the session</p><p>DATE &amp; TIME<br>November 7 | 17:00 - 19:00</p><p>PRICE<br>Regular Price: 400.000 IDR<br>Early Bird Price: 330.000 IDR | Valid until November 6</p><p>ABOUT MYSTICLIO<br>Mysticlio is a Vocal Alchemist, Sound Healer, Artist, and Transformational Facilitator who has spent the past decade exploring the connection between voice, consciousness, and human potential. Through his signature methodology, Vocal Alchemy, he guides immersive experiences blending vocal expression, sound healing, embodiment, meditation, and emotional integration. Using the human voice as a catalyst for healing and authentic expression, he supports individuals and groups in reconnecting with their true voice, releasing emotional barriers, and cultivating confidence, presence, and inner freedom. Having facilitated workshops, retreats, private sessions, sound journeys, and performances internationally, he has empowered hundreds of people to experience profound personal transformation.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-11-07T09:00:00.000Z",
+   "endsAt": "2026-11-07T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": 18,
+   "teacher": {
+    "name": "Lionel Martinez (Mysticlio)",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/a792a413-9f5e-4f19-af3e-b1e83637d07c.JPEG"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/17c88f8d-f990-4045-b20b-929f6e4cb571.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146163433"
+  },
+  {
+   "id": 146163055,
+   "name": "Community | Men's Circle",
+   "type": "Workshop",
+   "description": "<p>Men’s Circle is a dedicated space for men to come together, slow down, and explore the deeper dimensions of being a man in today’s world.</p><p>Modern life can leave little room for men to openly express emotions, acknowledge vulnerability, or simply be witnessed without the pressure to perform, solve, or have the answers. This circle creates a supportive environment where participants can step away from those expectations and reconnect with themselves and others.</p><p>Through guided sharing, conscious listening, reflection, embodied practices, and meaningful conversation, we explore the experiences that shape us — from relationships and emotional expression to identity, purpose, boundaries, intimacy, responsibility, and personal growth.</p><p>The circle is not about giving advice or fixing one another. Instead, it is an opportunity to listen without judgment, speak from personal experience, and create connection through authenticity and presence.</p><p>Participants are encouraged to share only what feels appropriate for them. There is no expectation to speak, and confidentiality and respectful listening are fundamental to the space.</p><p>DATE &amp; TIME<br>Every Tuesday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-11-10T09:00:00.000Z",
+   "endsAt": "2026-11-10T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/142c4163-928e-474d-b48f-aa6119f12df3.JPEG"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/c05ab3d2-c3a4-48c0-8fce-1c53a4afa0fd.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146163055"
+  },
+  {
+   "id": 146163111,
+   "name": "Community | Men's Circle",
+   "type": "Workshop",
+   "description": "<p>Men’s Circle is a dedicated space for men to come together, slow down, and explore the deeper dimensions of being a man in today’s world.</p><p>Modern life can leave little room for men to openly express emotions, acknowledge vulnerability, or simply be witnessed without the pressure to perform, solve, or have the answers. This circle creates a supportive environment where participants can step away from those expectations and reconnect with themselves and others.</p><p>Through guided sharing, conscious listening, reflection, embodied practices, and meaningful conversation, we explore the experiences that shape us — from relationships and emotional expression to identity, purpose, boundaries, intimacy, responsibility, and personal growth.</p><p>The circle is not about giving advice or fixing one another. Instead, it is an opportunity to listen without judgment, speak from personal experience, and create connection through authenticity and presence.</p><p>Participants are encouraged to share only what feels appropriate for them. There is no expectation to speak, and confidentiality and respectful listening are fundamental to the space.</p><p>DATE &amp; TIME<br>Every Tuesday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-11-17T09:00:00.000Z",
+   "endsAt": "2026-11-17T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/0c0bdc2c-73fd-4460-920a-6e01f87d5e2f.JPEG"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/c05ab3d2-c3a4-48c0-8fce-1c53a4afa0fd.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146163111"
+  },
+  {
+   "id": 146163112,
+   "name": "Community | Men's Circle",
+   "type": "Workshop",
+   "description": "<p>Men’s Circle is a dedicated space for men to come together, slow down, and explore the deeper dimensions of being a man in today’s world.</p><p>Modern life can leave little room for men to openly express emotions, acknowledge vulnerability, or simply be witnessed without the pressure to perform, solve, or have the answers. This circle creates a supportive environment where participants can step away from those expectations and reconnect with themselves and others.</p><p>Through guided sharing, conscious listening, reflection, embodied practices, and meaningful conversation, we explore the experiences that shape us — from relationships and emotional expression to identity, purpose, boundaries, intimacy, responsibility, and personal growth.</p><p>The circle is not about giving advice or fixing one another. Instead, it is an opportunity to listen without judgment, speak from personal experience, and create connection through authenticity and presence.</p><p>Participants are encouraged to share only what feels appropriate for them. There is no expectation to speak, and confidentiality and respectful listening are fundamental to the space.</p><p>DATE &amp; TIME<br>Every Tuesday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-11-24T09:00:00.000Z",
+   "endsAt": "2026-11-24T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/b2d9a990-e1b9-44f2-bc94-234a7846a150.JPEG"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/c05ab3d2-c3a4-48c0-8fce-1c53a4afa0fd.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146163112"
   }
  ]
 }
