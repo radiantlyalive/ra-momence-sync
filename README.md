@@ -15,20 +15,17 @@ Passwords and keys stay in GitHub Secrets. Nothing sensitive is in this repo or 
 
 ## What gets published
 
-`sessions.json` holds, per event: id, name, type, description, start and end, duration, spots left, teacher name and photo, location, image, tags and the Momence booking link. Capacity and booking counts are not published.
+`sessions.json` holds, per event: id, name, type, description, start and end, duration, spots left, teacher name and photo, location, image, tags and the Momence booking link. Capacity and booking counts are not published. Momence sends descriptions as plain text; the script turns them into paragraphs.
 
 The file is rewritten only when the events change, or when it is more than 7 days old. The weekly rewrite keeps the repo active so GitHub does not auto-disable the schedule after 60 days without activity (check the Actions tab after 60 days to confirm).
 
 ## Setup
 
-### 1. Momence: staff account and API client
+### 1. Momence: host id and token
 
-Owner: someone with admin access to Momence.
+In the Momence dashboard, open the **Legacy API** page. It shows a host id and an API token, e.g. `{hostId: 5617, token: ...}`. That is all the sync needs: no staff user or OAuth client.
 
-1. Create a staff user just for this, e.g. `website-sync@radiantlyalive.com`, with the lowest role that can still view the schedule. Do not reuse anyone's personal login.
-2. Log in as that user once to confirm the password works and accept any terms.
-3. Momence, Profile, Public API clients: create an API client named `Website sync`.
-4. Copy the Client ID and Client Secret. The secret is shown only once; store it in the team password manager.
+The token is the one Momence's own website plugins use, and it only reads schedule data that is already public. It still goes in a secret, not in this repo.
 
 ### 2. GitHub: secrets and variables
 
@@ -36,18 +33,16 @@ Settings, Secrets and variables, Actions, New repository secret:
 
 | Secret | Value |
 |---|---|
-| `MOMENCE_CLIENT_ID` | Client ID from the API client |
-| `MOMENCE_CLIENT_SECRET` | Client Secret from the API client |
-| `MOMENCE_USERNAME` | The sync staff user's email |
-| `MOMENCE_PASSWORD` | That user's password |
+| `MOMENCE_HOST_ID` | Host id from the Legacy API page (`5617`) |
+| `MOMENCE_TOKEN` | API token from the Legacy API page |
 
 Optional, same page, Variables tab. Only add these to change the defaults:
 
 | Variable | Default | Use |
 |---|---|---|
-| `SESSION_TYPES` | `special-event,special-event-new` | Momence session types to show. Others: `fitness`, `course`, `course-class`, `retreat`, `private` |
+| `SESSION_TYPES` | `Workshop` | Momence session types to show, comma separated. The other type in use is `Regular` (weekly classes) |
 | `DAYS_AHEAD` | `120` | How far ahead to list events |
-| `LOCATION_ID` | (none) | Only show one Momence location |
+| `LOCATION` | (none) | Only show one location, by name, e.g. `Radiantly Alive Ubud` |
 
 ### 3. GitHub Pages and first run
 
@@ -64,11 +59,11 @@ The code block is not kept here. Its source and review file live in the `radiant
 
 ## Checks before going live
 
-- [ ] `sessions.json` lists the events you expect. If some are missing, they are probably another session type: add it to `SESSION_TYPES` and re-run the workflow.
-- [ ] Every event has an `imageUrl`. If it is `null`, set the event banner in Momence.
+- [ ] `sessions.json` lists the events you expect. If some are missing, they are probably another session type (in Momence, the event must be created as a workshop/event, not a class): add the type to `SESSION_TYPES` and re-run the workflow.
+- [ ] Every event has an `imageUrl`. If it is `null`, set the event banner in Momence (without one, the teacher's photo is used).
 - [ ] Descriptions render cleanly (paragraphs, bold, bullets, links). Anything else is stripped on purpose.
 - [ ] Book now opens the correct event on Momence.
 - [ ] The page looks right on a phone (cards stack into one column).
-- [ ] The Actions tab shows green runs every 15 minutes or so. If the sync user's password changes, update `MOMENCE_PASSWORD`.
+- [ ] The Actions tab shows green runs every 15 minutes or so. If the Legacy API token is regenerated in Momence, update `MOMENCE_TOKEN`.
 
 If the sync breaks later, the page shows "We couldn't load the schedule just now" with a link to Momence, so visitors are never stuck.
