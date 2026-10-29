@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-29T06:00:38.333Z",
- "count": 9,
+ "generatedAt": "2026-10-29T09:04:44.990Z",
+ "count": 8,
  "sessions": [
   {
    "id": 144289192,
@@ -58,25 +58,6 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/eab0c834-2abd-478c-ade4-304265cef980.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/146162883"
-  },
-  {
-   "id": 146163054,
-   "name": "Community | Men's Circle",
-   "type": "Workshop",
-   "description": "<p>Men’s Circle is a dedicated space for men to come together, slow down, and explore the deeper dimensions of being a man in today’s world.</p><p>Modern life can leave little room for men to openly express emotions, acknowledge vulnerability, or simply be witnessed without the pressure to perform, solve, or have the answers. This circle creates a supportive environment where participants can step away from those expectations and reconnect with themselves and others.</p><p>Through guided sharing, conscious listening, reflection, embodied practices, and meaningful conversation, we explore the experiences that shape us — from relationships and emotional expression to identity, purpose, boundaries, intimacy, responsibility, and personal growth.</p><p>The circle is not about giving advice or fixing one another. Instead, it is an opportunity to listen without judgment, speak from personal experience, and create connection through authenticity and presence.</p><p>Participants are encouraged to share only what feels appropriate for them. There is no expectation to speak, and confidentiality and respectful listening are fundamental to the space.</p><p>DATE &amp; TIME<br>Every Tuesday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
-   "startsAt": "2026-11-03T09:00:00.000Z",
-   "endsAt": "2026-11-03T11:00:00.000Z",
-   "durationInMinutes": 120,
-   "spotsLeft": null,
-   "teacher": {
-    "name": "Radiantly Alive",
-    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/b23c5bd7-a53e-48c0-b511-8edaef951d0d.JPEG"
-   },
-   "location": "Radiantly Alive Ubud",
-   "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/d9d172bb-0ebb-4013-897b-f182407c6b87.jpeg",
-   "tags": [],
-   "bookUrl": "https://momence.com/s/146163054"
   },
   {
    "id": 146162742,
