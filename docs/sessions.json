@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T09:04:44.990Z",
+ "generatedAt": "2026-10-29T17:30:28.964Z",
  "count": 8,
  "sessions": [
   {
@@ -10,7 +10,7 @@
    "startsAt": "2026-10-30T04:30:00.000Z",
    "endsAt": "2026-10-30T05:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 30,
+   "spotsLeft": 29,
    "teacher": {
     "name": "Nalya Raj",
     "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/141253-picture.jpg?t=1738810439149"
