@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-30T08:11:25.868Z",
- "count": 9,
+ "generatedAt": "2026-10-30T09:04:57.389Z",
+ "count": 11,
  "sessions": [
   {
    "id": 144591581,
@@ -117,6 +117,25 @@
    "bookUrl": "https://momence.com/s/146282407"
   },
   {
+   "id": 146283084,
+   "name": "Community | Women's Circle",
+   "type": "Workshop",
+   "description": "<p>Women’s Circle is a space for women to gather in community, slow down, and reconnect with themselves and one another.</p><p>Throughout different stages of life, women experience continual changes in their bodies, relationships, identities, responsibilities, and aspirations. Yet there are often few spaces where these experiences can be explored openly and honestly.</p><p>This circle offers an opportunity to step away from the demands of everyday life and create space for reflection, connection, and authentic expression.</p><p>Through guided sharing, conscious listening, embodiment, reflection, and meaningful conversation, we explore themes such as self-worth, relationships, boundaries, emotional expression, feminine identity, life transitions, purpose, and personal growth.</p><p>The intention is not to provide answers or fix what is perceived as a problem. Instead, the circle invites each woman to listen inwardly, share from her own experience, and be witnessed by a supportive community.</p><p>Participants are welcome to share only what feels comfortable for them. There is no requirement to speak, and confidentiality, respect, and compassionate listening are central to the circle.</p><p>DATE &amp; TIME<br>Every Sunday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-11-15T09:00:00.000Z",
+   "endsAt": "2026-11-15T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/80e16807-1394-4b1a-a94e-c81e4b494d5c.JPEG"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146283084"
+  },
+  {
    "id": 146163111,
    "name": "Community | Men's Circle",
    "type": "Workshop",
@@ -153,6 +172,25 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/00e53e96-6e2e-496d-a9b4-e8a7a872acd7.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/146282408"
+  },
+  {
+   "id": 146283110,
+   "name": "Community | Women's Circle",
+   "type": "Workshop",
+   "description": "<p>Women’s Circle is a space for women to gather in community, slow down, and reconnect with themselves and one another.</p><p>Throughout different stages of life, women experience continual changes in their bodies, relationships, identities, responsibilities, and aspirations. Yet there are often few spaces where these experiences can be explored openly and honestly.</p><p>This circle offers an opportunity to step away from the demands of everyday life and create space for reflection, connection, and authentic expression.</p><p>Through guided sharing, conscious listening, embodiment, reflection, and meaningful conversation, we explore themes such as self-worth, relationships, boundaries, emotional expression, feminine identity, life transitions, purpose, and personal growth.</p><p>The intention is not to provide answers or fix what is perceived as a problem. Instead, the circle invites each woman to listen inwardly, share from her own experience, and be witnessed by a supportive community.</p><p>Participants are welcome to share only what feels comfortable for them. There is no requirement to speak, and confidentiality, respect, and compassionate listening are central to the circle.</p><p>DATE &amp; TIME<br>Every Sunday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-11-22T09:00:00.000Z",
+   "endsAt": "2026-11-22T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/8b9edbcc-1fdd-4cdd-badc-4d917919b2b3.JPEG"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146283110"
   },
   {
    "id": 146163112,
