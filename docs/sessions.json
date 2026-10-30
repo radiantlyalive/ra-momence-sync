@@ -1,26 +1,7 @@
 {
- "generatedAt": "2026-10-30T01:42:27.515Z",
- "count": 8,
+ "generatedAt": "2026-10-30T05:13:57.415Z",
+ "count": 7,
  "sessions": [
-  {
-   "id": 144289192,
-   "name": "Sound Healing | Gong Yoga Nidra",
-   "type": "Workshop",
-   "description": "<p>Gong Yoga Nidra, or yogic sleep, combines guided awareness with the deep vibrations of the Gong to create profound relaxation and heightened awareness. It can help reset the nervous system, release habitual patterns, integrate change, and support healing.</p><p>In this 75-minute session, we will move through guided physical sensations, breath, and focused attention, allowing the body and mind to enter a deeply relaxed and receptive state.</p><p>DATE &amp; TIME<br>October 30 | 12:30 - 13:45</p><p>PRICE<br>IDR 200,000</p><p>ABOUT NALYA RAJ<br>Nalya Raj is a certified Level 1 &amp; 2 Kundalini Yoga instructor from the Kundalini Research Institute, as well as a Gong Sound Healing Therapy and Gong Yoga Nidra practitioner.</p><p>Holding a PhD in Biomedical Sciences, Nalya integrates her knowledge of physiology and anatomy into her yoga teachings and sound healing sessions, creating practices that bridge scientific understanding with the deeper dimensions of yoga and sound.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
-   "startsAt": "2026-10-30T04:30:00.000Z",
-   "endsAt": "2026-10-30T05:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 28,
-   "teacher": {
-    "name": "Nalya Raj",
-    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/141253-picture.jpg?t=1738810439149"
-   },
-   "location": "Radiantly Alive Ubud",
-   "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/d3d8dc71-5a40-473c-ad1b-925034e2f20e.jpeg",
-   "tags": [],
-   "bookUrl": "https://momence.com/s/144289192"
-  },
   {
    "id": 144591581,
    "name": "Sound Healing | Tibetan Sound Healing",
