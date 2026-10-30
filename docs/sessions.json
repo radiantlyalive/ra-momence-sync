@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T05:13:57.415Z",
+ "generatedAt": "2026-10-30T07:10:14.901Z",
  "count": 7,
  "sessions": [
   {
@@ -67,7 +67,7 @@
    "startsAt": "2026-11-07T09:00:00.000Z",
    "endsAt": "2026-11-07T11:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 17,
+   "spotsLeft": 16,
    "teacher": {
     "name": "Lionel Martinez (Mysticlio)",
     "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/a792a413-9f5e-4f19-af3e-b1e83637d07c.JPEG"
