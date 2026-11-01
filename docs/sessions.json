@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T05:00:10.208Z",
+ "generatedAt": "2026-11-01T04:11:17.717Z",
  "count": 10,
  "sessions": [
   {
@@ -10,7 +10,7 @@
    "startsAt": "2026-11-02T09:00:00.000Z",
    "endsAt": "2026-11-02T10:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 60,
+   "spotsLeft": 58,
    "teacher": {
     "name": "Bali Meditation Center",
     "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/a99acf62-7cdc-469f-b23c-feba2254ad98.jpg"
