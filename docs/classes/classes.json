@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-02T08:22:08.278Z",
- "count": 12,
+ "generatedAt": "2026-11-02T09:34:10.216Z",
+ "count": 11,
  "sessions": [
-  {
-   "id": 146276553,
-   "name": "Class | Ashtanga Inspired",
-   "startsAt": "2026-11-02T09:00:00.000Z",
-   "endsAt": "2026-11-02T10:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 50,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276553"
-  },
   {
    "id": 146276773,
    "name": "Class | Slow Flow",
    "startsAt": "2026-11-02T10:00:00.000Z",
    "endsAt": "2026-11-02T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 42,
    "teacher": "Corinne Winterberg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276773"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-02T23:30:00.000Z",
    "endsAt": "2026-11-03T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 46,
+   "spotsLeft": 47,
    "teacher": "Alexandra McRobert",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275475"
@@ -63,7 +52,7 @@
    "startsAt": "2026-11-03T02:30:00.000Z",
    "endsAt": "2026-11-03T04:00:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276142"

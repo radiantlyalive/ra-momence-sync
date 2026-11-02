@@ -1,26 +1,7 @@
 {
- "generatedAt": "2026-11-02T08:02:41.720Z",
- "count": 10,
+ "generatedAt": "2026-11-02T09:34:09.868Z",
+ "count": 9,
  "sessions": [
-  {
-   "id": 146162883,
-   "name": "Community | Monk Meditation and Mantra Chanting",
-   "type": "Workshop",
-   "description": "<p>Immerse yourself in a unique blend of Monk Meditation and Mantra Chanting at Radiantly Alive. This free event invites you to experience deep inner peace and spiritual awakening through traditional practices, guided by an experienced facilitator. Whether you&#39;re a seasoned practitioner or new to meditation, this session offers a welcoming space to explore and rejuvenate. Donations are appreciated to support future events.</p><p>Attendees will experience reduced stress, improved focus, and a deeper sense of inner calm through guided meditation and mantra chanting.</p><p>What to Prepare: <br>Comfortable clothing that covers the shoulders, long loose pants, and an open mind.</p><p>Schedule:<br>17:00: Arrival and Introduction<br>17:15: Mantra Singing for Deep Connection to Yourself<br>17:30: Guided Monk Meditation<br>18:15: Weekly Wisdom for Spiritual Living / Closing and Reflections<br>18:30: End</p><p>DATE &amp; TIME<br>Every Monday | 17:00 - 18:30</p><p>PRICE<br>By Donation | Donation is donated to yayasan Bali Meditation Center</p><p>ABOUT MONKS FROM THAILAND<br>This meditation session will be led by experienced monks from Thailand, offering an authentic and deeply rooted practice. Participants will have the unique opportunity to learn traditional techniques directly from the monks, allowing for a more profound spiritual experience.</p>",
-   "startsAt": "2026-11-02T09:00:00.000Z",
-   "endsAt": "2026-11-02T10:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 53,
-   "teacher": {
-    "name": "Bali Meditation Center",
-    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/a99acf62-7cdc-469f-b23c-feba2254ad98.jpg"
-   },
-   "location": "Radiantly Alive Ubud",
-   "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/eab0c834-2abd-478c-ade4-304265cef980.jpeg",
-   "tags": [],
-   "bookUrl": "https://momence.com/s/146162883"
-  },
   {
    "id": 146162742,
    "name": "Workshop | Breathwork: Somatic Breath",
