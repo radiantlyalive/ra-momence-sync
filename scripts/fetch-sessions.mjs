@@ -1,5 +1,7 @@
-// Runs in GitHub Actions (Node 20+). Pulls upcoming events from Momence
-// and writes docs/sessions.json for GitHub Pages to serve.
+// Runs in GitHub Actions (Node 20+). Pulls from Momence and writes two files
+// for GitHub Pages to serve:
+//   docs/sessions.json  upcoming events (Workshops & Events page)
+//   docs/classes.json   classes from now to the end of tomorrow, Bali time
 //
 // Secrets (Settings > Secrets and variables > Actions):
 //   MOMENCE_CLIENT_ID, MOMENCE_CLIENT_SECRET, MOMENCE_USERNAME, MOMENCE_PASSWORD
@@ -7,6 +9,7 @@
 //   SESSION_TYPES   default "special-event,special-event-new"
 //   DAYS_AHEAD      default 120
 //   LOCATION_ID     optional numeric Momence location id
+//   CLASS_TYPES     default "fitness" (Momence type for regular classes)
 //
 // Changes from the first version:
 //   1. The file is only rewritten when the sessions actually changed, or when
@@ -20,7 +23,7 @@
 import { writeFile, readFile, mkdir } from "node:fs/promises";
 
 const API = "https://api.momence.com";
-const OUT = "docs/sessions.json";
+const BALI_OFFSET_MS = 8 * 3_600_000; // Asia/Makassar, UTC+8, no daylight saving
 const REFRESH_MS = 7 * 86_400_000;
 const env = (k, d) => process.env[k] || d; // || not ??: Actions passes unset vars as ""
 const need = (k) => { const v = process.env[k]; if (!v) throw new Error(`Missing secret ${k}`); return v; };
@@ -61,27 +64,36 @@ function publicShape(s) {
     isInPerson: s.isInPerson,
     imageUrl: s.bannerImageUrl || s.hostPhotoUrl || null,
     tags: (s.tags || []).map((t) => ({ name: t.name, color: t.badgeColor })),
-    bookUrl: `https://momence.com/Radiantly-Alive/${encodeURIComponent(slugify(s.name))}/${s.id}?skipPreview=true`,
+    bookUrl: bookUrl(s),
   };
 }
 
-async function readPrevious() {
-  try { return JSON.parse(await readFile(OUT, "utf8")); } catch { return null; }
+// Classes need less than events: no description, image or tags.
+function classShape(s) {
+  return {
+    id: s.id,
+    name: s.name,
+    startsAt: s.startsAt,
+    endsAt: s.endsAt,
+    durationInMinutes: s.durationInMinutes,
+    spotsLeft: s.capacity == null ? null : Math.max(0, s.capacity - s.bookingCount),
+    teacher: s.teacher ? `${s.teacher.firstName || ""} ${s.teacher.lastName || ""}`.trim() : null,
+    location: s.inPersonLocation?.name || null,
+    bookUrl: bookUrl(s),
+  };
 }
 
-async function main() {
-  const token = await getToken();
-  const days = Number(env("DAYS_AHEAD", 120));
-  const types = env("SESSION_TYPES", "special-event,special-event-new").split(",").map((t) => t.trim()).filter(Boolean);
-  const now = new Date();
-  const until = new Date(now.getTime() + days * 86_400_000);
+function bookUrl(s) {
+  return `https://momence.com/Radiantly-Alive/${encodeURIComponent(slugify(s.name))}/${s.id}?skipPreview=true`;
+}
 
+async function fetchSessions(token, types, from, until) {
   const all = [];
   for (let page = 0; page < 10; page++) {
     const qs = new URLSearchParams({
       page: String(page), pageSize: "200",
       sortBy: "startsAt", sortOrder: "ASC",
-      startAfter: now.toISOString(), startBefore: until.toISOString(),
+      startAfter: from.toISOString(), startBefore: until.toISOString(),
       includeCancelled: "false",
     });
     types.forEach((t) => qs.append("types", t));
@@ -94,21 +106,45 @@ async function main() {
     const { totalCount, pageSize } = json.pagination || {};
     if (!totalCount || (page + 1) * pageSize >= totalCount) break;
   }
+  return all.filter((s) => !s.isDraft && !s.isCancelled);
+}
 
-  const sessions = all.filter((s) => !s.isDraft && !s.isCancelled).map(publicShape);
+async function readPrevious(path) {
+  try { return JSON.parse(await readFile(path, "utf8")); } catch { return null; }
+}
 
-  const prev = await readPrevious();
+async function writeIfChanged(path, sessions) {
+  const prev = await readPrevious(path);
   const same = prev && JSON.stringify(prev.sessions) === JSON.stringify(sessions);
   const fresh = prev && Date.now() - Date.parse(prev.generatedAt) < REFRESH_MS;
   if (same && fresh) {
-    console.log(`No change (${sessions.length} sessions), file left as is`);
+    console.log(`${path}: no change (${sessions.length}), file left as is`);
     return;
   }
-
   const out = { generatedAt: new Date().toISOString(), count: sessions.length, sessions };
   await mkdir("docs", { recursive: true });
-  await writeFile(OUT, JSON.stringify(out, null, 1));
-  console.log(`Wrote ${sessions.length} sessions`);
+  await writeFile(path, JSON.stringify(out, null, 1));
+  console.log(`${path}: wrote ${sessions.length}`);
+}
+
+// Midnight at the end of tomorrow, Bali time, as a UTC Date.
+function endOfTomorrowBali(now) {
+  const bali = new Date(now.getTime() + BALI_OFFSET_MS);
+  return new Date(Date.UTC(bali.getUTCFullYear(), bali.getUTCMonth(), bali.getUTCDate() + 2) - BALI_OFFSET_MS);
+}
+
+const list = (v) => v.split(",").map((t) => t.trim()).filter(Boolean);
+
+async function main() {
+  const token = await getToken();
+  const now = new Date();
+
+  const days = Number(env("DAYS_AHEAD", 120));
+  const events = await fetchSessions(token, list(env("SESSION_TYPES", "special-event,special-event-new")), now, new Date(now.getTime() + days * 86_400_000));
+  await writeIfChanged("docs/sessions.json", events.map(publicShape));
+
+  const classes = await fetchSessions(token, list(env("CLASS_TYPES", "fitness")), now, endOfTomorrowBali(now));
+  await writeIfChanged("docs/classes.json", classes.map(classShape));
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

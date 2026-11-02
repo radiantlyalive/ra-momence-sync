@@ -2,11 +2,11 @@
 
 Feeds the Workshops & Events list on www.radiantlyalive.com from Momence.
 
-Momence's API needs a login, so the website can't call it directly. A GitHub Actions workflow logs in every 15 minutes, saves upcoming events to a public file (`docs/sessions.json`), and a Squarespace code block reads that file. Booking still happens on Momence.
+Momence's API needs a login, so the website can't call it directly. A GitHub Actions workflow logs in every 15 minutes, saves upcoming events to `docs/sessions.json` and today's and tomorrow's classes to `docs/classes.json`, and Squarespace code blocks read those files. Booking still happens on Momence.
 
 | Part | Where it lives | What it does |
 |---|---|---|
-| Fetch script | `scripts/fetch-sessions.mjs` | Logs into Momence, pulls upcoming events, writes `docs/sessions.json` |
+| Fetch script | `scripts/fetch-sessions.mjs` | Logs into Momence, writes `docs/sessions.json` (events) and `docs/classes.json` (classes, now to end of tomorrow, Bali time) |
 | Workflow | `.github/workflows/sync-momence.yml` | Runs the script every 15 minutes, commits only when the file changed |
 | GitHub Pages | `docs/` folder on `main` | Serves `sessions.json` at a public URL |
 | Code block | Squarespace, Workshops & Events page | Reads the file and lists events with image, description, time, teacher and Book now |
@@ -16,6 +16,8 @@ Passwords and keys stay in GitHub Secrets. Nothing sensitive is in this repo or 
 ## What gets published
 
 `sessions.json` holds, per event: id, name, type, description, start and end, duration, spots left, teacher name and photo, location, image, tags and the Momence booking link. Capacity and booking counts are not published.
+
+`classes.json` holds less per class: id, name, start and end, duration, spots left, teacher name, location and the booking link. It covers classes that have not started yet, up to midnight at the end of tomorrow, Bali time.
 
 The file is rewritten only when the events change, or when it is more than 7 days old. The weekly rewrite keeps the repo active so GitHub does not auto-disable the schedule after 60 days without activity (check the Actions tab after 60 days to confirm).
 
@@ -48,6 +50,7 @@ Optional, same page, Variables tab. Only add these to change the defaults:
 | `SESSION_TYPES` | `special-event,special-event-new` | Momence session types to show. Others: `fitness`, `course`, `course-class`, `retreat`, `private` |
 | `DAYS_AHEAD` | `120` | How far ahead to list events |
 | `LOCATION_ID` | (none) | Only show one Momence location |
+| `CLASS_TYPES` | `fitness` | Momence session types that count as classes in `classes.json` |
 
 ### 3. GitHub Pages and first run
 
