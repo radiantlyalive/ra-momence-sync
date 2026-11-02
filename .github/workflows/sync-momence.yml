@@ -30,12 +30,13 @@ jobs:
           SESSION_TYPES: ${{ vars.SESSION_TYPES }}
           DAYS_AHEAD: ${{ vars.DAYS_AHEAD }}
           LOCATION: ${{ vars.LOCATION }}
+          CLASS_TYPES: ${{ vars.CLASS_TYPES }}
 
       - name: Commit if changed
         run: |
           git config user.name "momence-sync"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/sessions.json
+          git add docs/sessions.json docs/classes.json
           if git diff --cached --quiet; then
             echo "No changes"
           else
