@@ -4,6 +4,8 @@ Feeds the Workshops & Events list on www.radiantlyalive.com from Momence.
 
 Momence's API needs a login, so the website can't call it directly. A GitHub Actions workflow logs in every 15 minutes, saves upcoming events to a public file (`docs/sessions.json`), and a Squarespace code block reads that file. Booking still happens on Momence.
 
+> **Note: classes live in their own folder.** Today's and tomorrow's classes are a separate sync: script `classes/fetch-classes.mjs`, output `docs/classes/classes.json`, public URL `https://radiantlyalive.github.io/ra-momence-sync/classes/classes.json`. See [`classes/README.md`](classes/README.md). The events sync below is unchanged by it.
+
 | Part | Where it lives | What it does |
 |---|---|---|
 | Fetch script | `scripts/fetch-sessions.mjs` | Logs into Momence, pulls upcoming events, writes `docs/sessions.json` |
@@ -42,7 +44,8 @@ Optional, same page, Variables tab. Only add these to change the defaults:
 |---|---|---|
 | `SESSION_TYPES` | `Workshop` | Momence session types to show, comma separated. The other type in use is `Regular` (weekly classes) |
 | `DAYS_AHEAD` | `120` | How far ahead to list events |
-| `LOCATION` | (none) | Only show one location, by name, e.g. `Radiantly Alive Ubud` |
+| `LOCATION` | (none) | Only show one location, by name, e.g. `Radiantly Alive Ubud` (applies to classes too) |
+| `CLASS_TYPES` | `Regular` | Momence types for the classes file (see `classes/README.md`) |
 
 ### 3. GitHub Pages and first run
 
