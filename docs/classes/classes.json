@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T17:34:07.877Z",
+ "generatedAt": "2026-11-03T23:02:21.352Z",
  "count": 21,
  "sessions": [
   {
@@ -74,7 +74,7 @@
    "startsAt": "2026-11-04T06:00:00.000Z",
    "endsAt": "2026-11-04T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 27,
+   "spotsLeft": 26,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276865"
