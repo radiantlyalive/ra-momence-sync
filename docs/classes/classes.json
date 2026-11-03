@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-03T01:37:34.629Z",
- "count": 17,
+ "generatedAt": "2026-11-03T02:30:00.182Z",
+ "count": 16,
  "sessions": [
-  {
-   "id": 146276142,
-   "name": "Class | Hatha",
-   "startsAt": "2026-11-03T02:30:00.000Z",
-   "endsAt": "2026-11-03T04:00:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 42,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276142"
-  },
   {
    "id": 146276796,
    "name": "Class | Beginner Ashtanga",
