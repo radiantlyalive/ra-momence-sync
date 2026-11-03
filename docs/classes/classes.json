@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-03T15:43:29.726Z",
- "count": 10,
+ "generatedAt": "2026-11-03T16:35:46.179Z",
+ "count": 21,
  "sessions": [
   {
    "id": 146275476,
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-04T01:00:00.000Z",
    "endsAt": "2026-11-04T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275952"
@@ -111,6 +111,127 @@
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276770"
+  },
+  {
+   "id": 146275478,
+   "name": "Class | Gentle Flow",
+   "startsAt": "2026-11-04T23:30:00.000Z",
+   "endsAt": "2026-11-05T00:45:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 48,
+   "teacher": "Corinne Winterberg",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146275478"
+  },
+  {
+   "id": 146276780,
+   "name": "Class | Mindfulness & Meditation",
+   "startsAt": "2026-11-05T00:00:00.000Z",
+   "endsAt": "2026-11-05T01:00:00.000Z",
+   "durationInMinutes": 60,
+   "spotsLeft": 50,
+   "teacher": "Michael Green",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276780"
+  },
+  {
+   "id": 146275953,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-05T01:00:00.000Z",
+   "endsAt": "2026-11-05T02:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 48,
+   "teacher": "Denise De La Torre",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146275953"
+  },
+  {
+   "id": 146276146,
+   "name": "Class | Hatha",
+   "startsAt": "2026-11-05T02:30:00.000Z",
+   "endsAt": "2026-11-05T04:00:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Niko Kisic",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276146"
+  },
+  {
+   "id": 146276802,
+   "name": "Class | Beginner Ashtanga",
+   "startsAt": "2026-11-05T03:00:00.000Z",
+   "endsAt": "2026-11-05T04:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Sari Dewi",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276802"
+  },
+  {
+   "id": 146276790,
+   "name": "Class | Inside Flow",
+   "startsAt": "2026-11-05T03:00:00.000Z",
+   "endsAt": "2026-11-05T04:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Dominika Kerekešová",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276790"
+  },
+  {
+   "id": 146276487,
+   "name": "Class | Fly High Yoga",
+   "startsAt": "2026-11-05T05:00:00.000Z",
+   "endsAt": "2026-11-05T06:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 16,
+   "teacher": "Ricardo Roestenburg",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276487"
+  },
+  {
+   "id": 146281646,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-05T08:00:00.000Z",
+   "endsAt": "2026-11-05T09:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Corinne Winterberg",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146281646"
+  },
+  {
+   "id": 146276875,
+   "name": "Class | Beginner Yoga",
+   "startsAt": "2026-11-05T09:00:00.000Z",
+   "endsAt": "2026-11-05T10:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 50,
+   "teacher": "Sari Dewi",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276875"
+  },
+  {
+   "id": 146276811,
+   "name": "Class | Sound Healing",
+   "startsAt": "2026-11-05T10:00:00.000Z",
+   "endsAt": "2026-11-05T11:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 49,
+   "teacher": "Constanza Quintana",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276811"
+  },
+  {
+   "id": 146276775,
+   "name": "Class | Slow Flow",
+   "startsAt": "2026-11-05T10:00:00.000Z",
+   "endsAt": "2026-11-05T11:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 50,
+   "teacher": "Niken Ismoyo",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276775"
   }
  ]
 }
