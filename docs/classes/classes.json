@@ -1,29 +1,7 @@
 {
- "generatedAt": "2026-11-03T02:30:00.182Z",
- "count": 16,
+ "generatedAt": "2026-11-03T03:25:07.944Z",
+ "count": 14,
  "sessions": [
-  {
-   "id": 146276796,
-   "name": "Class | Beginner Ashtanga",
-   "startsAt": "2026-11-03T03:00:00.000Z",
-   "endsAt": "2026-11-03T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 50,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276796"
-  },
-  {
-   "id": 146276378,
-   "name": "Class | Vinyasa Krama",
-   "startsAt": "2026-11-03T03:00:00.000Z",
-   "endsAt": "2026-11-03T04:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 47,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276378"
-  },
   {
    "id": 146276536,
    "name": "Class | RA Vinyasa",
