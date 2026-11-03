@@ -1,29 +1,7 @@
 {
- "generatedAt": "2026-11-03T09:34:30.319Z",
- "count": 12,
+ "generatedAt": "2026-11-03T10:38:26.090Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 146276769,
-   "name": "Class | Yin",
-   "startsAt": "2026-11-03T10:00:00.000Z",
-   "endsAt": "2026-11-03T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 37,
-   "teacher": "Lucinda Rose Muldoon",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276769"
-  },
-  {
-   "id": 146276809,
-   "name": "Class | Sound Healing",
-   "startsAt": "2026-11-03T10:00:00.000Z",
-   "endsAt": "2026-11-03T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 44,
-   "teacher": "Constanza Quintana",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276809"
-  },
   {
    "id": 146275476,
    "name": "Class | Gentle Flow",
@@ -41,7 +19,7 @@
    "startsAt": "2026-11-04T01:00:00.000Z",
    "endsAt": "2026-11-04T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 49,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275952"
