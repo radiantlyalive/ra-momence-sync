@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T12:59:52.471Z",
+ "generatedAt": "2026-11-04T14:16:07.326Z",
  "count": 11,
  "sessions": [
   {
@@ -30,7 +30,7 @@
    "startsAt": "2026-11-05T01:00:00.000Z",
    "endsAt": "2026-11-05T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 44,
+   "spotsLeft": 43,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275953"
@@ -41,7 +41,7 @@
    "startsAt": "2026-11-05T02:30:00.000Z",
    "endsAt": "2026-11-05T04:00:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276146"
@@ -107,7 +107,7 @@
    "startsAt": "2026-11-05T10:00:00.000Z",
    "endsAt": "2026-11-05T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 49,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276811"
