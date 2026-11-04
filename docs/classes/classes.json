@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-04T00:47:04.687Z",
- "count": 20,
+ "generatedAt": "2026-11-04T01:52:36.209Z",
+ "count": 19,
  "sessions": [
-  {
-   "id": 146275952,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-04T01:00:00.000Z",
-   "endsAt": "2026-11-04T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 41,
-   "teacher": "Denise De La Torre",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146275952"
-  },
   {
    "id": 146276145,
    "name": "Class | Hatha",
    "startsAt": "2026-11-04T02:30:00.000Z",
    "endsAt": "2026-11-04T04:00:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276145"
@@ -63,7 +52,7 @@
    "startsAt": "2026-11-04T06:00:00.000Z",
    "endsAt": "2026-11-04T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 23,
+   "spotsLeft": 24,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276865"
@@ -107,7 +96,7 @@
    "startsAt": "2026-11-04T23:30:00.000Z",
    "endsAt": "2026-11-05T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 48,
    "teacher": "Corinne Winterberg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275478"
