@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-04T08:55:45.996Z",
- "count": 13,
+ "generatedAt": "2026-11-04T09:54:38.009Z",
+ "count": 12,
  "sessions": [
-  {
-   "id": 146276554,
-   "name": "Class | Ashtanga Inspired",
-   "startsAt": "2026-11-04T09:00:00.000Z",
-   "endsAt": "2026-11-04T10:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 43,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276554"
-  },
   {
    "id": 146276770,
    "name": "Class | Yin",
    "startsAt": "2026-11-04T10:00:00.000Z",
    "endsAt": "2026-11-04T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 39,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276770"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-04T23:30:00.000Z",
    "endsAt": "2026-11-05T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Corinne Winterberg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275478"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-05T00:00:00.000Z",
    "endsAt": "2026-11-05T01:00:00.000Z",
    "durationInMinutes": 60,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Michael Green",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276780"
@@ -129,7 +118,7 @@
    "startsAt": "2026-11-05T10:00:00.000Z",
    "endsAt": "2026-11-05T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276811"
