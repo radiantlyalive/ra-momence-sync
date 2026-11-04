@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-04T15:19:12.377Z",
- "count": 11,
+ "generatedAt": "2026-11-04T16:23:15.860Z",
+ "count": 21,
  "sessions": [
   {
    "id": 146275478,
@@ -85,7 +85,7 @@
    "startsAt": "2026-11-05T08:00:00.000Z",
    "endsAt": "2026-11-05T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 47,
    "teacher": "Corinne Winterberg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146281646"
@@ -122,6 +122,116 @@
    "teacher": "Niken Ismoyo",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276775"
+  },
+  {
+   "id": 146275481,
+   "name": "Class | Gentle Flow",
+   "startsAt": "2026-11-05T23:30:00.000Z",
+   "endsAt": "2026-11-06T00:45:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 49,
+   "teacher": "Corinne Winterberg",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146275481"
+  },
+  {
+   "id": 146275955,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-06T01:00:00.000Z",
+   "endsAt": "2026-11-06T02:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Niko Kisic",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146275955"
+  },
+  {
+   "id": 146276890,
+   "name": "Class | Black Lotus Vinyasa",
+   "startsAt": "2026-11-06T02:00:00.000Z",
+   "endsAt": "2026-11-06T03:45:00.000Z",
+   "durationInMinutes": 105,
+   "spotsLeft": 49,
+   "teacher": "Laila Elidrissi",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276890"
+  },
+  {
+   "id": 146276151,
+   "name": "Class | Hatha",
+   "startsAt": "2026-11-06T02:30:00.000Z",
+   "endsAt": "2026-11-06T04:00:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Maximilien Pierre Leullieux",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276151"
+  },
+  {
+   "id": 146276431,
+   "name": "Class | Vinyasa Krama",
+   "startsAt": "2026-11-06T03:00:00.000Z",
+   "endsAt": "2026-11-06T04:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 47,
+   "teacher": "Nitin Bartwal",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276431"
+  },
+  {
+   "id": 146276819,
+   "name": "Class | Yin & TCM",
+   "startsAt": "2026-11-06T05:00:00.000Z",
+   "endsAt": "2026-11-06T06:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Lucinda Rose Muldoon",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276819"
+  },
+  {
+   "id": 146276869,
+   "name": "Class | Biomagnetism & Sound Healing",
+   "startsAt": "2026-11-06T06:00:00.000Z",
+   "endsAt": "2026-11-06T07:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 28,
+   "teacher": "Constanza Quintana",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276869"
+  },
+  {
+   "id": 146276547,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-06T08:00:00.000Z",
+   "endsAt": "2026-11-06T09:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Niko Kisic",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276547"
+  },
+  {
+   "id": 146276555,
+   "name": "Class | Ashtanga Inspired",
+   "startsAt": "2026-11-06T09:00:00.000Z",
+   "endsAt": "2026-11-06T10:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Ade Adinata",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276555"
+  },
+  {
+   "id": 146276771,
+   "name": "Class | Yin",
+   "startsAt": "2026-11-06T10:00:00.000Z",
+   "endsAt": "2026-11-06T11:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 49,
+   "teacher": "Maximilien Pierre Leullieux",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276771"
   }
  ]
 }
