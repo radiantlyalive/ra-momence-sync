@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-04T07:59:58.427Z",
- "count": 14,
+ "generatedAt": "2026-11-04T08:55:45.996Z",
+ "count": 13,
  "sessions": [
-  {
-   "id": 146276537,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-04T08:00:00.000Z",
-   "endsAt": "2026-11-04T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 43,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276537"
-  },
   {
    "id": 146276554,
    "name": "Class | Ashtanga Inspired",
    "startsAt": "2026-11-04T09:00:00.000Z",
    "endsAt": "2026-11-04T10:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 45,
+   "spotsLeft": 43,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276554"
