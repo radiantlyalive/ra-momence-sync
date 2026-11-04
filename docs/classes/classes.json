@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T16:23:15.860Z",
+ "generatedAt": "2026-11-04T18:18:54.985Z",
  "count": 21,
  "sessions": [
   {
@@ -30,7 +30,7 @@
    "startsAt": "2026-11-05T01:00:00.000Z",
    "endsAt": "2026-11-05T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 43,
+   "spotsLeft": 41,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275953"
@@ -63,7 +63,7 @@
    "startsAt": "2026-11-05T03:00:00.000Z",
    "endsAt": "2026-11-05T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276802"
