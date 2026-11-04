@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-04T05:39:16.251Z",
- "count": 15,
+ "generatedAt": "2026-11-04T06:43:18.712Z",
+ "count": 14,
  "sessions": [
-  {
-   "id": 146276865,
-   "name": "Class | Biomagnetism & Sound Healing",
-   "startsAt": "2026-11-04T06:00:00.000Z",
-   "endsAt": "2026-11-04T07:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 22,
-   "teacher": "Constanza Quintana",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276865"
-  },
   {
    "id": 146276537,
    "name": "Class | RA Vinyasa",
