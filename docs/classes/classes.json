@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T03:30:32.814Z",
+ "generatedAt": "2026-11-04T04:36:58.690Z",
  "count": 16,
  "sessions": [
   {
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-04T06:00:00.000Z",
    "endsAt": "2026-11-04T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 24,
+   "spotsLeft": 22,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276865"
@@ -102,17 +102,6 @@
    "bookUrl": "https://momence.com/s/146276146"
   },
   {
-   "id": 146276802,
-   "name": "Class | Beginner Ashtanga",
-   "startsAt": "2026-11-05T03:00:00.000Z",
-   "endsAt": "2026-11-05T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 50,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276802"
-  },
-  {
    "id": 146276790,
    "name": "Class | Inside Flow",
    "startsAt": "2026-11-05T03:00:00.000Z",
@@ -122,6 +111,17 @@
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276790"
+  },
+  {
+   "id": 146276802,
+   "name": "Class | Beginner Ashtanga",
+   "startsAt": "2026-11-05T03:00:00.000Z",
+   "endsAt": "2026-11-05T04:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Nitin Bartwal",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146276802"
   },
   {
    "id": 146276487,
