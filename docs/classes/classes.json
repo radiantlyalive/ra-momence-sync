@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T18:18:54.985Z",
+ "generatedAt": "2026-11-04T23:14:26.078Z",
  "count": 21,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-04T23:30:00.000Z",
    "endsAt": "2026-11-05T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 44,
+   "spotsLeft": 43,
    "teacher": "Corinne Winterberg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275478"
@@ -30,7 +30,7 @@
    "startsAt": "2026-11-05T01:00:00.000Z",
    "endsAt": "2026-11-05T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 41,
+   "spotsLeft": 38,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275953"
