@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T10:42:22.896Z",
+ "generatedAt": "2026-11-05T11:38:34.694Z",
  "count": 10,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-05T23:30:00.000Z",
    "endsAt": "2026-11-06T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 49,
+   "spotsLeft": 47,
    "teacher": "Corinne Winterberg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275481"
@@ -74,7 +74,7 @@
    "startsAt": "2026-11-06T06:00:00.000Z",
    "endsAt": "2026-11-06T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 27,
+   "spotsLeft": 28,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276869"
