@@ -1,29 +1,7 @@
 {
- "generatedAt": "2026-11-05T09:30:18.025Z",
- "count": 12,
+ "generatedAt": "2026-11-05T10:42:22.896Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 146276811,
-   "name": "Class | Sound Healing",
-   "startsAt": "2026-11-05T10:00:00.000Z",
-   "endsAt": "2026-11-05T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 45,
-   "teacher": "Constanza Quintana",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276811"
-  },
-  {
-   "id": 146276775,
-   "name": "Class | Slow Flow",
-   "startsAt": "2026-11-05T10:00:00.000Z",
-   "endsAt": "2026-11-05T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 45,
-   "teacher": "Niken Ismoyo",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276775"
-  },
   {
    "id": 146275481,
    "name": "Class | Gentle Flow",
@@ -41,7 +19,7 @@
    "startsAt": "2026-11-06T01:00:00.000Z",
    "endsAt": "2026-11-06T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 46,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275955"
