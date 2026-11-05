@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-04T23:56:50.706Z",
- "count": 20,
+ "generatedAt": "2026-11-05T00:55:45.522Z",
+ "count": 19,
  "sessions": [
-  {
-   "id": 146276780,
-   "name": "Class | Mindfulness & Meditation",
-   "startsAt": "2026-11-05T00:00:00.000Z",
-   "endsAt": "2026-11-05T01:00:00.000Z",
-   "durationInMinutes": 60,
-   "spotsLeft": 48,
-   "teacher": "Michael Green",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276780"
-  },
   {
    "id": 146275953,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-05T01:00:00.000Z",
    "endsAt": "2026-11-05T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 37,
+   "spotsLeft": 31,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275953"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-05T02:30:00.000Z",
    "endsAt": "2026-11-05T04:00:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 45,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276146"
@@ -85,7 +74,7 @@
    "startsAt": "2026-11-05T09:00:00.000Z",
    "endsAt": "2026-11-05T10:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276875"
