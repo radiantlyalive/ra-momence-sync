@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-05T04:52:33.903Z",
- "count": 15,
+ "generatedAt": "2026-11-05T05:53:56.590Z",
+ "count": 14,
  "sessions": [
-  {
-   "id": 146276487,
-   "name": "Class | Fly High Yoga",
-   "startsAt": "2026-11-05T05:00:00.000Z",
-   "endsAt": "2026-11-05T06:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 13,
-   "teacher": "Ricardo Roestenburg",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276487"
-  },
   {
    "id": 146281646,
    "name": "Class | RA Vinyasa",
