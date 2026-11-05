@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-05T07:02:00.629Z",
- "count": 14,
+ "generatedAt": "2026-11-05T08:26:55.109Z",
+ "count": 13,
  "sessions": [
-  {
-   "id": 146281646,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-05T08:00:00.000Z",
-   "endsAt": "2026-11-05T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 45,
-   "teacher": "Corinne Winterberg",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146281646"
-  },
   {
    "id": 146276875,
    "name": "Class | Beginner Yoga",
    "startsAt": "2026-11-05T09:00:00.000Z",
    "endsAt": "2026-11-05T10:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 45,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276875"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-05T10:00:00.000Z",
    "endsAt": "2026-11-05T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 46,
    "teacher": "Niken Ismoyo",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276775"
@@ -151,7 +140,7 @@
    "startsAt": "2026-11-06T10:00:00.000Z",
    "endsAt": "2026-11-06T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276771"
