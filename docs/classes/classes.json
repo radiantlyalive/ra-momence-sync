@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-05T23:13:09.555Z",
- "count": 18,
+ "generatedAt": "2026-11-05T23:56:09.419Z",
+ "count": 17,
  "sessions": [
-  {
-   "id": 146275481,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-05T23:30:00.000Z",
-   "endsAt": "2026-11-06T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 41,
-   "teacher": "Corinne Winterberg",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146275481"
-  },
   {
    "id": 146275955,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-06T01:00:00.000Z",
    "endsAt": "2026-11-06T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 42,
+   "spotsLeft": 41,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275955"
