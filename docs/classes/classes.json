@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T12:40:18.991Z",
+ "generatedAt": "2026-11-05T13:57:27.826Z",
  "count": 10,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-05T23:30:00.000Z",
    "endsAt": "2026-11-06T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Corinne Winterberg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275481"
