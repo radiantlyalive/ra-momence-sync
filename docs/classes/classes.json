@@ -1,40 +1,7 @@
 {
- "generatedAt": "2026-11-05T02:01:57.205Z",
- "count": 18,
+ "generatedAt": "2026-11-05T03:00:07.366Z",
+ "count": 15,
  "sessions": [
-  {
-   "id": 146276146,
-   "name": "Class | Hatha",
-   "startsAt": "2026-11-05T02:30:00.000Z",
-   "endsAt": "2026-11-05T04:00:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 44,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276146"
-  },
-  {
-   "id": 146276790,
-   "name": "Class | Inside Flow",
-   "startsAt": "2026-11-05T03:00:00.000Z",
-   "endsAt": "2026-11-05T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 50,
-   "teacher": "Dominika Kerekešová",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276790"
-  },
-  {
-   "id": 146276802,
-   "name": "Class | Beginner Ashtanga",
-   "startsAt": "2026-11-05T03:00:00.000Z",
-   "endsAt": "2026-11-05T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 49,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276802"
-  },
   {
    "id": 146276487,
    "name": "Class | Fly High Yoga",
