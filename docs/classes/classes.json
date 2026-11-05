@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-05T08:26:55.109Z",
- "count": 13,
+ "generatedAt": "2026-11-05T09:30:18.025Z",
+ "count": 12,
  "sessions": [
-  {
-   "id": 146276875,
-   "name": "Class | Beginner Yoga",
-   "startsAt": "2026-11-05T09:00:00.000Z",
-   "endsAt": "2026-11-05T10:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 45,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276875"
-  },
   {
    "id": 146276811,
    "name": "Class | Sound Healing",
    "startsAt": "2026-11-05T10:00:00.000Z",
    "endsAt": "2026-11-05T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276811"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-05T10:00:00.000Z",
    "endsAt": "2026-11-05T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Niken Ismoyo",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276775"
@@ -52,7 +41,7 @@
    "startsAt": "2026-11-06T01:00:00.000Z",
    "endsAt": "2026-11-06T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275955"
@@ -107,7 +96,7 @@
    "startsAt": "2026-11-06T06:00:00.000Z",
    "endsAt": "2026-11-06T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 28,
+   "spotsLeft": 27,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276869"
