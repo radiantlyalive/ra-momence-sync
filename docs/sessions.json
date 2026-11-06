@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T08:22:38.940Z",
+ "generatedAt": "2026-11-06T12:21:47.578Z",
  "count": 11,
  "sessions": [
   {
@@ -10,7 +10,7 @@
    "startsAt": "2026-11-07T09:00:00.000Z",
    "endsAt": "2026-11-07T11:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 15,
+   "spotsLeft": 14,
    "teacher": {
     "name": "Lionel Martinez (Mysticlio)",
     "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/e0091139-c8be-40b6-90be-a2ff22ccc7c6.jpeg"
@@ -29,7 +29,7 @@
    "startsAt": "2026-11-09T09:00:00.000Z",
    "endsAt": "2026-11-09T10:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 60,
+   "spotsLeft": 58,
    "teacher": {
     "name": "Bali Meditation Center",
     "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/118960-picture.jpg?t=1766630325445"
