@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-05T09:30:17.635Z",
- "count": 10,
+ "generatedAt": "2026-11-06T02:59:37.838Z",
+ "count": 11,
  "sessions": [
   {
    "id": 146163433,
@@ -10,16 +10,35 @@
    "startsAt": "2026-11-07T09:00:00.000Z",
    "endsAt": "2026-11-07T11:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 16,
+   "spotsLeft": 15,
    "teacher": {
     "name": "Lionel Martinez (Mysticlio)",
-    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/a792a413-9f5e-4f19-af3e-b1e83637d07c.JPEG"
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/e0091139-c8be-40b6-90be-a2ff22ccc7c6.jpeg"
    },
    "location": "Radiantly Alive Ubud",
    "isInPerson": true,
    "imageUrl": "https://images.momence.com/h/5617/session-banner/3561264b-da06-4cab-9ceb-d0bf0274f6a5.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/146163433"
+  },
+  {
+   "id": 146766200,
+   "name": "Community | Monk Meditation and Mantra Chanting",
+   "type": "Workshop",
+   "description": "<p>Immerse yourself in a unique blend of Monk Meditation and Mantra Chanting at Radiantly Alive. This free event invites you to experience deep inner peace and spiritual awakening through traditional practices, guided by an experienced facilitator. Whether you&#39;re a seasoned practitioner or new to meditation, this session offers a welcoming space to explore and rejuvenate. Donations are appreciated to support future events.</p><p>Attendees will experience reduced stress, improved focus, and a deeper sense of inner calm through guided meditation and mantra chanting.</p><p>What to Prepare: <br>Comfortable clothing that covers the shoulders, long loose pants, and an open mind.</p><p>Schedule:<br>17:00: Arrival and Introduction<br>17:15: Mantra Singing for Deep Connection to Yourself<br>17:30: Guided Monk Meditation<br>18:15: Weekly Wisdom for Spiritual Living / Closing and Reflections<br>18:30: End</p><p>DATE &amp; TIME<br>Every Monday | 17:00 - 18:30</p><p>PRICE<br>By Donation | Donation is donated to yayasan Bali Meditation Center</p><p>ABOUT MONKS FROM THAILAND<br>This meditation session will be led by experienced monks from Thailand, offering an authentic and deeply rooted practice. Participants will have the unique opportunity to learn traditional techniques directly from the monks, allowing for a more profound spiritual experience.</p>",
+   "startsAt": "2026-11-09T09:00:00.000Z",
+   "endsAt": "2026-11-09T10:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 60,
+   "teacher": {
+    "name": "Bali Meditation Center",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/118960-picture.jpg?t=1766630325445"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/eab0c834-2abd-478c-ade4-304265cef980.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146766200"
   },
   {
    "id": 146282407,

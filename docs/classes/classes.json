@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-06T02:02:09.152Z",
- "count": 15,
+ "generatedAt": "2026-11-06T02:59:38.258Z",
+ "count": 14,
  "sessions": [
-  {
-   "id": 146276151,
-   "name": "Class | Hatha",
-   "startsAt": "2026-11-06T02:30:00.000Z",
-   "endsAt": "2026-11-06T04:00:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 45,
-   "teacher": "Maximilien Pierre Leullieux",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276151"
-  },
   {
    "id": 146276431,
    "name": "Class | Vinyasa Krama",
    "startsAt": "2026-11-06T03:00:00.000Z",
    "endsAt": "2026-11-06T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 44,
+   "spotsLeft": 43,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276431"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-06T05:00:00.000Z",
    "endsAt": "2026-11-06T06:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276819"
@@ -74,7 +63,7 @@
    "startsAt": "2026-11-06T10:00:00.000Z",
    "endsAt": "2026-11-06T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276771"
