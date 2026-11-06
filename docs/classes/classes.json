@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-06T05:52:37.244Z",
- "count": 12,
+ "generatedAt": "2026-11-06T07:00:18.223Z",
+ "count": 11,
  "sessions": [
-  {
-   "id": 146276869,
-   "name": "Class | Biomagnetism & Sound Healing",
-   "startsAt": "2026-11-06T06:00:00.000Z",
-   "endsAt": "2026-11-06T07:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 24,
-   "teacher": "Constanza Quintana",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276869"
-  },
   {
    "id": 146276547,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-06T08:00:00.000Z",
    "endsAt": "2026-11-06T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276547"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-06T09:00:00.000Z",
    "endsAt": "2026-11-06T10:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276555"
@@ -85,7 +74,7 @@
    "startsAt": "2026-11-07T03:00:00.000Z",
    "endsAt": "2026-11-07T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276512"
@@ -96,7 +85,7 @@
    "startsAt": "2026-11-07T05:00:00.000Z",
    "endsAt": "2026-11-07T06:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 14,
+   "spotsLeft": 13,
    "teacher": "Ryan Miller",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276495"
