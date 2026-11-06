@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-06T02:59:37.838Z",
- "count": 11,
+ "generatedAt": "2026-11-06T04:51:32.344Z",
+ "count": 12,
  "sessions": [
   {
    "id": 146163433,
@@ -210,6 +210,25 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/50b1248d-5038-41f8-b3c8-95859577e1c3.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/146666398"
+  },
+  {
+   "id": 146768830,
+   "name": "Gratitude Day | Kirtan",
+   "type": "Workshop",
+   "description": "<p>A joyful evening of call-and-response chanting, uniting the community in voice, rhythm, and shared presence.</p><p>Led by Alexandra, Kirtan closes this day with collective song. Through call-and-response chanting, live music, and rhythm, guests experience a sense of unity and joyful celebration.</p><p>A short closing circle follows, where the host gently brings the river back to the intention set during the morning&#39;s opening ceremony, completing the day as one continuous journey.</p><p>DATE &amp; TIME<br>December 1 | 18:00 - 19:30</p><p>PRICE<br>Free of charge</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-01T10:00:00.000Z",
+   "endsAt": "2026-12-01T11:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 30,
+   "teacher": {
+    "name": "Alexandra McRobert",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/162087-picture.jpg?t=1749794132709"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146768830"
   }
  ]
 }

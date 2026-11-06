@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-06T02:59:38.258Z",
- "count": 14,
+ "generatedAt": "2026-11-06T04:51:32.798Z",
+ "count": 13,
  "sessions": [
-  {
-   "id": 146276431,
-   "name": "Class | Vinyasa Krama",
-   "startsAt": "2026-11-06T03:00:00.000Z",
-   "endsAt": "2026-11-06T04:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 43,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276431"
-  },
   {
    "id": 146276819,
    "name": "Class | Yin & TCM",
    "startsAt": "2026-11-06T05:00:00.000Z",
    "endsAt": "2026-11-06T06:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 43,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276819"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-06T06:00:00.000Z",
    "endsAt": "2026-11-06T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 26,
+   "spotsLeft": 25,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276869"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-06T08:00:00.000Z",
    "endsAt": "2026-11-06T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 48,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276547"
@@ -85,7 +74,7 @@
    "startsAt": "2026-11-07T01:00:00.000Z",
    "endsAt": "2026-11-07T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276015"
