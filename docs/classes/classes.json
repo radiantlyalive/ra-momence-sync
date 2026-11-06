@@ -1,29 +1,7 @@
 {
- "generatedAt": "2026-11-06T00:54:30.782Z",
- "count": 17,
+ "generatedAt": "2026-11-06T02:02:09.152Z",
+ "count": 15,
  "sessions": [
-  {
-   "id": 146275955,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-06T01:00:00.000Z",
-   "endsAt": "2026-11-06T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 41,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146275955"
-  },
-  {
-   "id": 146276890,
-   "name": "Class | Black Lotus Vinyasa",
-   "startsAt": "2026-11-06T02:00:00.000Z",
-   "endsAt": "2026-11-06T03:45:00.000Z",
-   "durationInMinutes": 105,
-   "spotsLeft": 47,
-   "teacher": "Laila Elidrissi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276890"
-  },
   {
    "id": 146276151,
    "name": "Class | Hatha",
@@ -41,7 +19,7 @@
    "startsAt": "2026-11-06T03:00:00.000Z",
    "endsAt": "2026-11-06T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276431"
