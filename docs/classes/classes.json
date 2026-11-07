@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-07T00:47:31.473Z",
- "count": 17,
+ "generatedAt": "2026-11-07T01:51:51.169Z",
+ "count": 16,
  "sessions": [
-  {
-   "id": 146276015,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-07T01:00:00.000Z",
-   "endsAt": "2026-11-07T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 47,
-   "teacher": "Lucinda Rose Muldoon",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276015"
-  },
   {
    "id": 146276153,
    "name": "Class | Hatha",
@@ -85,7 +74,7 @@
    "startsAt": "2026-11-07T23:30:00.000Z",
    "endsAt": "2026-11-08T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146275845"
@@ -96,7 +85,7 @@
    "startsAt": "2026-11-08T01:00:00.000Z",
    "endsAt": "2026-11-08T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 28,
+   "spotsLeft": 27,
    "teacher": "Samten Kriya",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276077"
