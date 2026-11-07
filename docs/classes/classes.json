@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-07T09:16:29.156Z",
- "count": 11,
+ "generatedAt": "2026-11-07T10:14:23.440Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 146276777,
-   "name": "Class | Slow Flow",
-   "startsAt": "2026-11-07T10:00:00.000Z",
-   "endsAt": "2026-11-07T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 45,
-   "teacher": "Corinne Winterberg",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276777"
-  },
   {
    "id": 146275845,
    "name": "Class | Gentle Flow",
@@ -52,7 +41,7 @@
    "startsAt": "2026-11-08T02:30:00.000Z",
    "endsAt": "2026-11-08T04:00:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276152"
