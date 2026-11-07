@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-07T02:42:01.795Z",
- "count": 15,
+ "generatedAt": "2026-11-07T03:29:40.422Z",
+ "count": 14,
  "sessions": [
-  {
-   "id": 146276512,
-   "name": "Class | Vinyasa Krama",
-   "startsAt": "2026-11-07T03:00:00.000Z",
-   "endsAt": "2026-11-07T04:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 44,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276512"
-  },
   {
    "id": 146276495,
    "name": "Class | Fly High Yoga",
    "startsAt": "2026-11-07T05:00:00.000Z",
    "endsAt": "2026-11-07T06:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 11,
+   "spotsLeft": 10,
    "teacher": "Ryan Miller",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276495"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-07T08:00:00.000Z",
    "endsAt": "2026-11-07T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 48,
    "teacher": "Corinne Winterberg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276548"
@@ -96,7 +85,7 @@
    "startsAt": "2026-11-08T02:30:00.000Z",
    "endsAt": "2026-11-08T04:00:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276152"
