@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-07T03:29:40.422Z",
- "count": 14,
+ "generatedAt": "2026-11-07T05:17:19.031Z",
+ "count": 13,
  "sessions": [
-  {
-   "id": 146276495,
-   "name": "Class | Fly High Yoga",
-   "startsAt": "2026-11-07T05:00:00.000Z",
-   "endsAt": "2026-11-07T06:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 10,
-   "teacher": "Ryan Miller",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276495"
-  },
   {
    "id": 146276548,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-07T08:00:00.000Z",
    "endsAt": "2026-11-07T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 46,
    "teacher": "Corinne Winterberg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276548"

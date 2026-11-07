@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T00:47:31.052Z",
+ "generatedAt": "2026-11-07T05:17:18.676Z",
  "count": 11,
  "sessions": [
   {
@@ -29,7 +29,7 @@
    "startsAt": "2026-11-09T09:00:00.000Z",
    "endsAt": "2026-11-09T10:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 56,
+   "spotsLeft": 55,
    "teacher": {
     "name": "Bali Meditation Center",
     "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/118960-picture.jpg?t=1766630325445"
