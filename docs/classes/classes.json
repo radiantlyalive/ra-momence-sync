@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T11:36:15.514Z",
+ "generatedAt": "2026-11-07T12:20:44.118Z",
  "count": 10,
  "sessions": [
   {
@@ -74,7 +74,7 @@
    "startsAt": "2026-11-08T05:00:00.000Z",
    "endsAt": "2026-11-08T06:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 43,
+   "spotsLeft": 42,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276816"
