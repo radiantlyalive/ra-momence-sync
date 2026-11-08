@@ -1,36 +1,14 @@
 {
- "generatedAt": "2026-11-08T04:24:17.607Z",
- "count": 13,
+ "generatedAt": "2026-11-08T05:19:44.912Z",
+ "count": 11,
  "sessions": [
-  {
-   "id": 146276876,
-   "name": "Open shala for self practice",
-   "startsAt": "2026-11-08T05:00:00.000Z",
-   "endsAt": "2026-11-08T07:00:00.000Z",
-   "durationInMinutes": 120,
-   "spotsLeft": 49,
-   "teacher": "Radiantly Alive",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276876"
-  },
-  {
-   "id": 146276816,
-   "name": "Class | Yin & TCM",
-   "startsAt": "2026-11-08T05:00:00.000Z",
-   "endsAt": "2026-11-08T06:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 41,
-   "teacher": "Dominika Kerekešová",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276816"
-  },
   {
    "id": 146276879,
    "name": "Class | Gentle Flow Donation Class",
    "startsAt": "2026-11-08T06:30:00.000Z",
    "endsAt": "2026-11-08T07:30:00.000Z",
    "durationInMinutes": 60,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Niken Ismoyo",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276879"
