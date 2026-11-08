@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T08:28:59.003Z",
+ "generatedAt": "2026-11-08T09:22:00.561Z",
  "count": 9,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-08T10:00:00.000Z",
    "endsAt": "2026-11-08T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 43,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276772"
@@ -74,7 +74,7 @@
    "startsAt": "2026-11-09T05:00:00.000Z",
    "endsAt": "2026-11-09T06:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 14,
+   "spotsLeft": 13,
    "teacher": "Ricardo Roestenburg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773940"
