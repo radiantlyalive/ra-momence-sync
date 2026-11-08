@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T05:19:44.912Z",
+ "generatedAt": "2026-11-08T06:17:00.743Z",
  "count": 11,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-08T06:30:00.000Z",
    "endsAt": "2026-11-08T07:30:00.000Z",
    "durationInMinutes": 60,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Niken Ismoyo",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276879"
