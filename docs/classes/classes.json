@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-08T07:34:29.360Z",
- "count": 10,
+ "generatedAt": "2026-11-08T08:28:59.003Z",
+ "count": 9,
  "sessions": [
-  {
-   "id": 146276549,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-08T08:00:00.000Z",
-   "endsAt": "2026-11-08T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 45,
-   "teacher": "Ade Adinata",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276549"
-  },
   {
    "id": 146276772,
    "name": "Class | Yin",
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-08T23:30:00.000Z",
    "endsAt": "2026-11-09T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Joëlle Sleebos",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146772606"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-09T01:00:00.000Z",
    "endsAt": "2026-11-09T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 28,
+   "spotsLeft": 29,
    "teacher": "Samten Kriya",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773176"
