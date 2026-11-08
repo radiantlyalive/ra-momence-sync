@@ -1,29 +1,7 @@
 {
- "generatedAt": "2026-11-08T00:06:21.920Z",
- "count": 17,
+ "generatedAt": "2026-11-08T01:18:26.492Z",
+ "count": 15,
  "sessions": [
-  {
-   "id": 146276077,
-   "name": "Class | Himalayan Kriya Yoga",
-   "startsAt": "2026-11-08T01:00:00.000Z",
-   "endsAt": "2026-11-08T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 24,
-   "teacher": "Samten Kriya",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276077"
-  },
-  {
-   "id": 146276016,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-08T01:00:00.000Z",
-   "endsAt": "2026-11-08T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 39,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276016"
-  },
   {
    "id": 146276152,
    "name": "Class | Hatha",
@@ -63,7 +41,7 @@
    "startsAt": "2026-11-08T05:00:00.000Z",
    "endsAt": "2026-11-08T06:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 41,
+   "spotsLeft": 42,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276816"
