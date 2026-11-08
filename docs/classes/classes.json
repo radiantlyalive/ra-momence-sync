@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-08T06:17:00.743Z",
- "count": 11,
+ "generatedAt": "2026-11-08T07:34:29.360Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 146276879,
-   "name": "Class | Gentle Flow Donation Class",
-   "startsAt": "2026-11-08T06:30:00.000Z",
-   "endsAt": "2026-11-08T07:30:00.000Z",
-   "durationInMinutes": 60,
-   "spotsLeft": 47,
-   "teacher": "Niken Ismoyo",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276879"
-  },
   {
    "id": 146276549,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-08T08:00:00.000Z",
    "endsAt": "2026-11-08T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276549"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-08T10:00:00.000Z",
    "endsAt": "2026-11-08T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276772"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-08T23:30:00.000Z",
    "endsAt": "2026-11-09T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 49,
+   "spotsLeft": 47,
    "teacher": "Joëlle Sleebos",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146772606"
@@ -96,7 +85,7 @@
    "startsAt": "2026-11-09T05:00:00.000Z",
    "endsAt": "2026-11-09T06:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 16,
+   "spotsLeft": 14,
    "teacher": "Ricardo Roestenburg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773940"
