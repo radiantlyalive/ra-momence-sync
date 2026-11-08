@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T03:19:57.214Z",
+ "generatedAt": "2026-11-08T04:24:17.607Z",
  "count": 13,
  "sessions": [
   {
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-08T05:00:00.000Z",
    "endsAt": "2026-11-08T06:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 42,
+   "spotsLeft": 41,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276816"
@@ -41,7 +41,7 @@
    "startsAt": "2026-11-08T08:00:00.000Z",
    "endsAt": "2026-11-08T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276549"
@@ -85,7 +85,7 @@
    "startsAt": "2026-11-09T01:00:00.000Z",
    "endsAt": "2026-11-09T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Joëlle Sleebos",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773177"
