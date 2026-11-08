@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T01:18:26.492Z",
+ "generatedAt": "2026-11-08T02:22:52.641Z",
  "count": 15,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-08T02:30:00.000Z",
    "endsAt": "2026-11-08T04:00:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 44,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276152"
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-08T03:00:00.000Z",
    "endsAt": "2026-11-08T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276789"
@@ -30,7 +30,7 @@
    "startsAt": "2026-11-08T05:00:00.000Z",
    "endsAt": "2026-11-08T07:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Radiantly Alive",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276876"
@@ -52,7 +52,7 @@
    "startsAt": "2026-11-08T06:30:00.000Z",
    "endsAt": "2026-11-08T07:30:00.000Z",
    "durationInMinutes": 60,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Niken Ismoyo",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276879"
