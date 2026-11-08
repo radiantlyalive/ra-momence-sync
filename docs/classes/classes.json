@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-07T23:28:57.977Z",
- "count": 18,
+ "generatedAt": "2026-11-08T00:06:21.920Z",
+ "count": 17,
  "sessions": [
-  {
-   "id": 146275845,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-07T23:30:00.000Z",
-   "endsAt": "2026-11-08T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 34,
-   "teacher": "Ade Adinata",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146275845"
-  },
   {
    "id": 146276077,
    "name": "Class | Himalayan Kriya Yoga",
    "startsAt": "2026-11-08T01:00:00.000Z",
    "endsAt": "2026-11-08T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 26,
+   "spotsLeft": 24,
    "teacher": "Samten Kriya",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276077"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-08T01:00:00.000Z",
    "endsAt": "2026-11-08T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 42,
+   "spotsLeft": 39,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276016"
@@ -52,7 +41,7 @@
    "startsAt": "2026-11-08T03:00:00.000Z",
    "endsAt": "2026-11-08T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146276789"
