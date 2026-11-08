@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-08T09:22:00.561Z",
- "count": 9,
+ "generatedAt": "2026-11-08T10:15:15.971Z",
+ "count": 8,
  "sessions": [
-  {
-   "id": 146276772,
-   "name": "Class | Yin",
-   "startsAt": "2026-11-08T10:00:00.000Z",
-   "endsAt": "2026-11-08T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 43,
-   "teacher": "Maximilien Pierre Leullieux",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146276772"
-  },
   {
    "id": 146772606,
    "name": "Class | Gentle Flow",
