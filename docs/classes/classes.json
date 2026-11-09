@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-09T09:37:06.065Z",
- "count": 10,
+ "generatedAt": "2026-11-09T10:34:32.605Z",
+ "count": 9,
  "sessions": [
-  {
-   "id": 146775106,
-   "name": "Class | Slow Flow",
-   "startsAt": "2026-11-09T10:00:00.000Z",
-   "endsAt": "2026-11-09T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 45,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146775106"
-  },
   {
    "id": 146773043,
    "name": "Class | Gentle Flow",
@@ -63,7 +52,7 @@
    "startsAt": "2026-11-10T03:00:00.000Z",
    "endsAt": "2026-11-10T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775940"
@@ -107,7 +96,7 @@
    "startsAt": "2026-11-10T10:00:00.000Z",
    "endsAt": "2026-11-10T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Constanza Quintana",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146774024"
