@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T12:40:57.888Z",
+ "generatedAt": "2026-11-09T14:53:03.486Z",
  "count": 9,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-09T23:30:00.000Z",
    "endsAt": "2026-11-10T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Alexandra McRobert",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773043"
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-10T01:00:00.000Z",
    "endsAt": "2026-11-10T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Laila Elidrissi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773234"
@@ -85,7 +85,7 @@
    "startsAt": "2026-11-10T10:00:00.000Z",
    "endsAt": "2026-11-10T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775110"
