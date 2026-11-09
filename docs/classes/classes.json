@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-08T23:29:33.730Z",
- "count": 17,
+ "generatedAt": "2026-11-09T00:08:42.555Z",
+ "count": 16,
  "sessions": [
-  {
-   "id": 146772606,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-08T23:30:00.000Z",
-   "endsAt": "2026-11-09T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 38,
-   "teacher": "Joëlle Sleebos",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146772606"
-  },
   {
    "id": 146773176,
    "name": "Class | Himalayan Kriya Yoga",
    "startsAt": "2026-11-09T01:00:00.000Z",
    "endsAt": "2026-11-09T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 29,
+   "spotsLeft": 28,
    "teacher": "Samten Kriya",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773176"
