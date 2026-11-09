@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-09T06:48:51.016Z",
- "count": 11,
+ "generatedAt": "2026-11-09T08:21:20.531Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 146773948,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-09T08:00:00.000Z",
-   "endsAt": "2026-11-09T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 48,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773948"
-  },
   {
    "id": 146775106,
    "name": "Class | Slow Flow",
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-09T23:30:00.000Z",
    "endsAt": "2026-11-10T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Alexandra McRobert",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773043"
@@ -63,7 +52,7 @@
    "startsAt": "2026-11-10T03:00:00.000Z",
    "endsAt": "2026-11-10T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775766"
@@ -85,7 +74,7 @@
    "startsAt": "2026-11-10T08:00:00.000Z",
    "endsAt": "2026-11-10T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773949"
