@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T11:37:05.562Z",
+ "generatedAt": "2026-11-09T12:40:57.888Z",
  "count": 9,
  "sessions": [
   {
@@ -74,7 +74,7 @@
    "startsAt": "2026-11-10T08:00:00.000Z",
    "endsAt": "2026-11-10T09:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775777"
