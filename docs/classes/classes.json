@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-09T02:27:54.813Z",
- "count": 13,
+ "generatedAt": "2026-11-09T03:20:41.172Z",
+ "count": 12,
  "sessions": [
-  {
-   "id": 146775764,
-   "name": "Class | Hatha",
-   "startsAt": "2026-11-09T03:00:00.000Z",
-   "endsAt": "2026-11-09T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 46,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146775764"
-  },
   {
    "id": 146773940,
    "name": "Class | Fly High Yoga",
