@@ -1,36 +1,14 @@
 {
- "generatedAt": "2026-11-10T07:43:32.929Z",
- "count": 11,
+ "generatedAt": "2026-11-10T08:40:14.611Z",
+ "count": 9,
  "sessions": [
-  {
-   "id": 146773949,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-10T08:00:00.000Z",
-   "endsAt": "2026-11-10T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 45,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773949"
-  },
-  {
-   "id": 146775777,
-   "name": "Class | Beginner Yoga",
-   "startsAt": "2026-11-10T08:00:00.000Z",
-   "endsAt": "2026-11-10T09:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 47,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146775777"
-  },
   {
    "id": 146775110,
    "name": "Class | Yin",
    "startsAt": "2026-11-10T10:00:00.000Z",
    "endsAt": "2026-11-10T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 42,
+   "spotsLeft": 40,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775110"
@@ -52,7 +30,7 @@
    "startsAt": "2026-11-11T01:00:00.000Z",
    "endsAt": "2026-11-11T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 48,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773241"
