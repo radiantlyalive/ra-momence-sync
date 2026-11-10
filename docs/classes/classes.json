@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-10T04:23:03.712Z",
- "count": 13,
+ "generatedAt": "2026-11-10T05:24:28.331Z",
+ "count": 12,
  "sessions": [
   {
    "id": 146773949,
@@ -30,21 +30,10 @@
    "startsAt": "2026-11-10T10:00:00.000Z",
    "endsAt": "2026-11-10T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775110"
-  },
-  {
-   "id": 146774024,
-   "name": "Class | Sound Healing",
-   "startsAt": "2026-11-10T10:00:00.000Z",
-   "endsAt": "2026-11-10T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 47,
-   "teacher": "Constanza Quintana",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146774024"
   },
   {
    "id": 146773044,
