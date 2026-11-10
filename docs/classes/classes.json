@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T08:40:14.611Z",
+ "generatedAt": "2026-11-10T09:36:12.624Z",
  "count": 9,
  "sessions": [
   {
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-10T23:30:00.000Z",
    "endsAt": "2026-11-11T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Alexandra McRobert",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773044"
