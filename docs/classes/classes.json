@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-10T09:36:12.624Z",
- "count": 9,
+ "generatedAt": "2026-11-10T10:38:05.249Z",
+ "count": 8,
  "sessions": [
-  {
-   "id": 146775110,
-   "name": "Class | Yin",
-   "startsAt": "2026-11-10T10:00:00.000Z",
-   "endsAt": "2026-11-10T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 40,
-   "teacher": "Lucinda Rose Muldoon",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146775110"
-  },
   {
    "id": 146773044,
    "name": "Class | Gentle Flow",
