@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T10:53:02.065Z",
+ "generatedAt": "2026-11-11T11:49:33.324Z",
  "count": 8,
  "sessions": [
   {
@@ -63,7 +63,7 @@
    "startsAt": "2026-11-12T05:00:00.000Z",
    "endsAt": "2026-11-12T06:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 14,
+   "spotsLeft": 15,
    "teacher": "Ryan Miller",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773944"
