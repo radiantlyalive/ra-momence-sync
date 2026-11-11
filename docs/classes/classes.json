@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-11T00:02:12.158Z",
- "count": 15,
+ "generatedAt": "2026-11-11T01:18:28.247Z",
+ "count": 14,
  "sessions": [
-  {
-   "id": 146773241,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-11T01:00:00.000Z",
-   "endsAt": "2026-11-11T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 46,
-   "teacher": "Denise De La Torre",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773241"
-  },
   {
    "id": 146775901,
    "name": "Class | Black Lotus Vinyasa",
    "startsAt": "2026-11-11T02:00:00.000Z",
    "endsAt": "2026-11-11T03:45:00.000Z",
    "durationInMinutes": 105,
-   "spotsLeft": 46,
+   "spotsLeft": 44,
    "teacher": "Laila Elidrissi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775901"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-11T05:00:00.000Z",
    "endsAt": "2026-11-11T06:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 45,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773958"
