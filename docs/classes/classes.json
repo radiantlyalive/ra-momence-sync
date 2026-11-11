@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-11T07:49:14.929Z",
- "count": 11,
+ "generatedAt": "2026-11-11T08:50:42.315Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 146773950,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-11T08:00:00.000Z",
-   "endsAt": "2026-11-11T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 45,
-   "teacher": "Joëlle Sleebos",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773950"
-  },
   {
    "id": 146774046,
    "name": "Class | Ashtanga Inspired",
    "startsAt": "2026-11-11T09:00:00.000Z",
    "endsAt": "2026-11-11T10:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146774046"
