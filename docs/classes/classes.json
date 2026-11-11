@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-11T02:21:02.270Z",
- "count": 13,
+ "generatedAt": "2026-11-11T03:21:36.455Z",
+ "count": 12,
  "sessions": [
-  {
-   "id": 146775831,
-   "name": "Class | Inside Flow",
-   "startsAt": "2026-11-11T03:00:00.000Z",
-   "endsAt": "2026-11-11T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 50,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146775831"
-  },
   {
    "id": 146773958,
    "name": "Class | Yin & TCM",
    "startsAt": "2026-11-11T05:00:00.000Z",
    "endsAt": "2026-11-11T06:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773958"
@@ -119,7 +108,7 @@
    "endsAt": "2026-11-12T06:15:00.000Z",
    "durationInMinutes": 75,
    "spotsLeft": 14,
-   "teacher": "Ricardo Roestenburg",
+   "teacher": "Ryan Miller",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773944"
   },
