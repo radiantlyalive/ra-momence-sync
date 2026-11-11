@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-11T01:18:28.247Z",
- "count": 14,
+ "generatedAt": "2026-11-11T02:21:02.270Z",
+ "count": 13,
  "sessions": [
-  {
-   "id": 146775901,
-   "name": "Class | Black Lotus Vinyasa",
-   "startsAt": "2026-11-11T02:00:00.000Z",
-   "endsAt": "2026-11-11T03:45:00.000Z",
-   "durationInMinutes": 105,
-   "spotsLeft": 44,
-   "teacher": "Laila Elidrissi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146775901"
-  },
   {
    "id": 146775831,
    "name": "Class | Inside Flow",
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-11T08:00:00.000Z",
    "endsAt": "2026-11-11T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Joëlle Sleebos",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773950"
