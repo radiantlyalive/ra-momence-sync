@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-11T04:28:29.265Z",
- "count": 12,
+ "generatedAt": "2026-11-11T05:29:29.027Z",
+ "count": 11,
  "sessions": [
-  {
-   "id": 146773958,
-   "name": "Class | Yin & TCM",
-   "startsAt": "2026-11-11T05:00:00.000Z",
-   "endsAt": "2026-11-11T06:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 43,
-   "teacher": "Dominika Kerekešová",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773958"
-  },
   {
    "id": 146773950,
    "name": "Class | RA Vinyasa",
@@ -52,7 +41,7 @@
    "startsAt": "2026-11-11T23:30:00.000Z",
    "endsAt": "2026-11-12T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773080"
