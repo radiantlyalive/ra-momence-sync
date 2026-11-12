@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T10:32:04.932Z",
+ "generatedAt": "2026-11-12T11:38:28.834Z",
  "count": 9,
  "sessions": [
   {
@@ -30,7 +30,7 @@
    "startsAt": "2026-11-13T02:00:00.000Z",
    "endsAt": "2026-11-13T03:45:00.000Z",
    "durationInMinutes": 105,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Laila Elidrissi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775904"
@@ -63,7 +63,7 @@
    "startsAt": "2026-11-13T06:00:00.000Z",
    "endsAt": "2026-11-13T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 28,
+   "spotsLeft": 27,
    "teacher": "Adam DiMarco",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147032231"
