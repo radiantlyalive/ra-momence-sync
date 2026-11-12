@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-12T07:02:09.957Z",
- "count": 11,
+ "generatedAt": "2026-11-12T08:25:03.474Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 146773953,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-12T08:00:00.000Z",
-   "endsAt": "2026-11-12T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 46,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773953"
-  },
   {
    "id": 146775107,
    "name": "Class | Slow Flow",
    "startsAt": "2026-11-12T10:00:00.000Z",
    "endsAt": "2026-11-12T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775107"
