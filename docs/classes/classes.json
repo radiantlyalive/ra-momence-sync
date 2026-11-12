@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T05:54:33.966Z",
+ "generatedAt": "2026-11-12T07:02:09.957Z",
  "count": 11,
  "sessions": [
   {
@@ -85,7 +85,7 @@
    "startsAt": "2026-11-13T06:00:00.000Z",
    "endsAt": "2026-11-13T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 29,
+   "spotsLeft": 28,
    "teacher": "Adam DiMarco",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147032231"
