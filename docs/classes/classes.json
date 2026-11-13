@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-13T14:48:44.314Z",
- "count": 8,
+ "generatedAt": "2026-11-13T16:36:27.136Z",
+ "count": 16,
  "sessions": [
   {
    "id": 146773110,
@@ -89,6 +89,94 @@
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775108"
+  },
+  {
+   "id": 146773118,
+   "name": "Class | Gentle Flow",
+   "startsAt": "2026-11-14T23:30:00.000Z",
+   "endsAt": "2026-11-15T00:45:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 44,
+   "teacher": "Dominika Kerekešová",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146773118"
+  },
+  {
+   "id": 146773701,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-15T01:00:00.000Z",
+   "endsAt": "2026-11-15T02:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 47,
+   "teacher": "Ade Adinata",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146773701"
+  },
+  {
+   "id": 146775914,
+   "name": "Class | Black Lotus Vinyasa",
+   "startsAt": "2026-11-15T02:00:00.000Z",
+   "endsAt": "2026-11-15T03:45:00.000Z",
+   "durationInMinutes": 105,
+   "spotsLeft": 45,
+   "teacher": "Laila Elidrissi",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146775914"
+  },
+  {
+   "id": 146775808,
+   "name": "Class | Inside Flow",
+   "startsAt": "2026-11-15T03:00:00.000Z",
+   "endsAt": "2026-11-15T04:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Niko Kisic",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146775808"
+  },
+  {
+   "id": 146775780,
+   "name": "Open shala for self practice",
+   "startsAt": "2026-11-15T05:00:00.000Z",
+   "endsAt": "2026-11-15T07:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": 49,
+   "teacher": "Radiantly Alive",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146775780"
+  },
+  {
+   "id": 146773959,
+   "name": "Class | Yin & TCM",
+   "startsAt": "2026-11-15T05:00:00.000Z",
+   "endsAt": "2026-11-15T06:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 45,
+   "teacher": "Dominika Kerekešová",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146773959"
+  },
+  {
+   "id": 146773957,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-15T08:00:00.000Z",
+   "endsAt": "2026-11-15T09:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Sari Dewi",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146773957"
+  },
+  {
+   "id": 146775161,
+   "name": "Class | Yin",
+   "startsAt": "2026-11-15T10:00:00.000Z",
+   "endsAt": "2026-11-15T11:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 49,
+   "teacher": "Maximilien Pierre Leullieux",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/146775161"
   }
  ]
 }
