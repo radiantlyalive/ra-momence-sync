@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T07:02:09.293Z",
+ "generatedAt": "2026-11-13T03:05:02.967Z",
  "count": 8,
  "sessions": [
   {
@@ -143,7 +143,7 @@
    "startsAt": "2026-12-01T10:00:00.000Z",
    "endsAt": "2026-12-01T11:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 42,
+   "spotsLeft": 41,
    "teacher": {
     "name": "Alexandra McRobert",
     "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/162087-picture.jpg?t=1749794132709"

@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-13T02:13:44.137Z",
- "count": 14,
+ "generatedAt": "2026-11-13T03:05:03.324Z",
+ "count": 13,
  "sessions": [
-  {
-   "id": 146775769,
-   "name": "Class | Hatha",
-   "startsAt": "2026-11-13T03:00:00.000Z",
-   "endsAt": "2026-11-13T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 43,
-   "teacher": "Maximilien Pierre Leullieux",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146775769"
-  },
   {
    "id": 146773995,
    "name": "Class | Yin & TCM",
    "startsAt": "2026-11-13T05:00:00.000Z",
    "endsAt": "2026-11-13T06:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773995"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-13T06:00:00.000Z",
    "endsAt": "2026-11-13T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 23,
+   "spotsLeft": 21,
    "teacher": "Adam DiMarco",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147032231"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-13T08:00:00.000Z",
    "endsAt": "2026-11-13T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773955"
@@ -63,7 +52,7 @@
    "startsAt": "2026-11-13T10:00:00.000Z",
    "endsAt": "2026-11-13T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775151"
@@ -107,7 +96,7 @@
    "startsAt": "2026-11-14T03:00:00.000Z",
    "endsAt": "2026-11-14T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775963"
