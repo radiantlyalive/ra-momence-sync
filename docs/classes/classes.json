@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-13T04:05:42.207Z",
- "count": 13,
+ "generatedAt": "2026-11-13T05:11:14.175Z",
+ "count": 12,
  "sessions": [
-  {
-   "id": 146773995,
-   "name": "Class | Yin & TCM",
-   "startsAt": "2026-11-13T05:00:00.000Z",
-   "endsAt": "2026-11-13T06:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 43,
-   "teacher": "Lucinda Rose Muldoon",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773995"
-  },
   {
    "id": 147032231,
    "name": "Class | Biomagnetism & Sound Healing",
    "startsAt": "2026-11-13T06:00:00.000Z",
    "endsAt": "2026-11-13T07:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 21,
+   "spotsLeft": 19,
    "teacher": "Adam DiMarco",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147032231"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-13T08:00:00.000Z",
    "endsAt": "2026-11-13T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 46,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773955"
@@ -52,7 +41,7 @@
    "startsAt": "2026-11-13T10:00:00.000Z",
    "endsAt": "2026-11-13T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775151"
