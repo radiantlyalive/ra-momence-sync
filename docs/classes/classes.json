@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-14T08:44:19.934Z",
- "count": 10,
+ "generatedAt": "2026-11-14T09:28:46.591Z",
+ "count": 9,
  "sessions": [
-  {
-   "id": 146774048,
-   "name": "Class | Ashtanga Inspired",
-   "startsAt": "2026-11-14T09:00:00.000Z",
-   "endsAt": "2026-11-14T10:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 48,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146774048"
-  },
   {
    "id": 146775108,
    "name": "Class | Slow Flow",
