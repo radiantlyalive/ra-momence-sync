@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-14T07:45:11.968Z",
- "count": 11,
+ "generatedAt": "2026-11-14T08:44:19.934Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 146773956,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-14T08:00:00.000Z",
-   "endsAt": "2026-11-14T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 41,
-   "teacher": "Adam DiMarco",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773956"
-  },
   {
    "id": 146774048,
    "name": "Class | Ashtanga Inspired",
    "startsAt": "2026-11-14T09:00:00.000Z",
    "endsAt": "2026-11-14T10:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 48,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146774048"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-14T10:00:00.000Z",
    "endsAt": "2026-11-14T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 42,
+   "spotsLeft": 38,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775108"
