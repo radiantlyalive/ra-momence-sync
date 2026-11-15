@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-15T00:01:30.818Z",
- "count": 15,
+ "generatedAt": "2026-11-15T01:20:24.771Z",
+ "count": 14,
  "sessions": [
-  {
-   "id": 146773701,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-15T01:00:00.000Z",
-   "endsAt": "2026-11-15T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 44,
-   "teacher": "Ade Adinata",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773701"
-  },
   {
    "id": 146775914,
    "name": "Class | Black Lotus Vinyasa",
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-15T03:00:00.000Z",
    "endsAt": "2026-11-15T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775808"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-15T05:00:00.000Z",
    "endsAt": "2026-11-15T07:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Radiantly Alive",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146775780"
@@ -63,7 +52,7 @@
    "startsAt": "2026-11-15T08:00:00.000Z",
    "endsAt": "2026-11-15T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773957"
