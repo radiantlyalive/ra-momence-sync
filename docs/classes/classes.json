@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T11:12:31.100Z",
+ "generatedAt": "2026-11-15T11:55:31.868Z",
  "count": 8,
  "sessions": [
   {
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-16T01:00:00.000Z",
    "endsAt": "2026-11-16T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Joëlle Sleebos",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182185"
