@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-15T02:23:39.407Z",
- "count": 13,
+ "generatedAt": "2026-11-15T03:17:55.395Z",
+ "count": 12,
  "sessions": [
-  {
-   "id": 146775808,
-   "name": "Class | Inside Flow",
-   "startsAt": "2026-11-15T03:00:00.000Z",
-   "endsAt": "2026-11-15T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 47,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146775808"
-  },
   {
    "id": 146775780,
    "name": "Open shala for self practice",
