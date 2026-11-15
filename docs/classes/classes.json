@@ -1,36 +1,14 @@
 {
- "generatedAt": "2026-11-15T04:26:03.431Z",
- "count": 12,
+ "generatedAt": "2026-11-15T05:24:02.170Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 146775780,
-   "name": "Open shala for self practice",
-   "startsAt": "2026-11-15T05:00:00.000Z",
-   "endsAt": "2026-11-15T07:00:00.000Z",
-   "durationInMinutes": 120,
-   "spotsLeft": 44,
-   "teacher": "Radiantly Alive",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146775780"
-  },
-  {
-   "id": 146773959,
-   "name": "Class | Yin & TCM",
-   "startsAt": "2026-11-15T05:00:00.000Z",
-   "endsAt": "2026-11-15T06:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 38,
-   "teacher": "Dominika Kerekešová",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773959"
-  },
   {
    "id": 146773957,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-15T08:00:00.000Z",
    "endsAt": "2026-11-15T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 41,
+   "spotsLeft": 40,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773957"
@@ -85,7 +63,7 @@
    "startsAt": "2026-11-16T03:00:00.000Z",
    "endsAt": "2026-11-16T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182199"
