@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-14T23:16:25.145Z",
- "count": 16,
+ "generatedAt": "2026-11-15T00:01:30.818Z",
+ "count": 15,
  "sessions": [
-  {
-   "id": 146773118,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-14T23:30:00.000Z",
-   "endsAt": "2026-11-15T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 40,
-   "teacher": "Dominika Kerekešová",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/146773118"
-  },
   {
    "id": 146773701,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-15T01:00:00.000Z",
    "endsAt": "2026-11-15T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773701"
