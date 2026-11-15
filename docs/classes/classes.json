@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T05:24:02.170Z",
+ "generatedAt": "2026-11-15T07:38:09.762Z",
  "count": 10,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-15T08:00:00.000Z",
    "endsAt": "2026-11-15T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 40,
+   "spotsLeft": 36,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/146773957"
@@ -85,7 +85,7 @@
    "startsAt": "2026-11-16T08:00:00.000Z",
    "endsAt": "2026-11-16T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182376"
@@ -107,7 +107,7 @@
    "startsAt": "2026-11-16T10:00:00.000Z",
    "endsAt": "2026-11-16T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 50,
+   "spotsLeft": 46,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182389"
