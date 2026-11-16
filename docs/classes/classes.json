@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-15T23:26:42.011Z",
- "count": 17,
+ "generatedAt": "2026-11-16T00:17:00.134Z",
+ "count": 16,
  "sessions": [
-  {
-   "id": 147182175,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-15T23:30:00.000Z",
-   "endsAt": "2026-11-16T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 41,
-   "teacher": "Joëlle Sleebos",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182175"
-  },
   {
    "id": 147182185,
    "name": "Class | RA Vinyasa",
