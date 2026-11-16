@@ -1,47 +1,14 @@
 {
- "generatedAt": "2026-11-16T07:20:04.846Z",
- "count": 12,
+ "generatedAt": "2026-11-16T10:01:33.997Z",
+ "count": 9,
  "sessions": [
-  {
-   "id": 147182376,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-16T08:00:00.000Z",
-   "endsAt": "2026-11-16T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 45,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182376"
-  },
-  {
-   "id": 147182384,
-   "name": "Class | Ashtanga Inspired",
-   "startsAt": "2026-11-16T09:00:00.000Z",
-   "endsAt": "2026-11-16T10:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 50,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182384"
-  },
-  {
-   "id": 147182389,
-   "name": "Class | Slow Flow",
-   "startsAt": "2026-11-16T10:00:00.000Z",
-   "endsAt": "2026-11-16T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 44,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182389"
-  },
   {
    "id": 147182177,
    "name": "Class | Gentle Flow",
    "startsAt": "2026-11-16T23:30:00.000Z",
    "endsAt": "2026-11-17T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Alexandra McRobert",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182177"
@@ -63,7 +30,7 @@
    "startsAt": "2026-11-17T01:00:00.000Z",
    "endsAt": "2026-11-17T02:00:00.000Z",
    "durationInMinutes": 60,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Michael Green",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182193"
@@ -74,7 +41,7 @@
    "startsAt": "2026-11-17T03:00:00.000Z",
    "endsAt": "2026-11-17T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 46,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182225"
