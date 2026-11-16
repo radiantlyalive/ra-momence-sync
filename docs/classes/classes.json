@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-16T02:50:29.379Z",
- "count": 14,
+ "generatedAt": "2026-11-16T04:00:19.979Z",
+ "count": 13,
  "sessions": [
-  {
-   "id": 147182199,
-   "name": "Class | Hatha",
-   "startsAt": "2026-11-16T03:00:00.000Z",
-   "endsAt": "2026-11-16T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 44,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182199"
-  },
   {
    "id": 147182360,
    "name": "Class | Fly High Yoga",
    "startsAt": "2026-11-16T05:00:00.000Z",
    "endsAt": "2026-11-16T06:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 14,
+   "spotsLeft": 12,
    "teacher": "Ricardo Roestenburg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182360"
@@ -52,7 +41,7 @@
    "startsAt": "2026-11-16T10:00:00.000Z",
    "endsAt": "2026-11-16T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182389"
@@ -107,7 +96,7 @@
    "startsAt": "2026-11-17T03:00:00.000Z",
    "endsAt": "2026-11-17T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182226"
