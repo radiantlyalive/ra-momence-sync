@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T22:29:16.548Z",
+ "generatedAt": "2026-11-16T23:18:45.903Z",
  "count": 18,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-16T23:30:00.000Z",
    "endsAt": "2026-11-17T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 37,
+   "spotsLeft": 36,
    "teacher": "Alexandra McRobert",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182177"
@@ -96,7 +96,7 @@
    "startsAt": "2026-11-17T10:00:00.000Z",
    "endsAt": "2026-11-17T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182772"
