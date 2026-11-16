@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T16:14:40.380Z",
+ "generatedAt": "2026-11-16T18:33:25.126Z",
  "count": 18,
  "sessions": [
   {
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-17T01:00:00.000Z",
    "endsAt": "2026-11-17T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Laila Elidrissi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182187"
