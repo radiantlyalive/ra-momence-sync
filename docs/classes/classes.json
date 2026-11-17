@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-17T01:30:36.146Z",
- "count": 15,
+ "generatedAt": "2026-11-17T02:37:17.299Z",
+ "count": 13,
  "sessions": [
   {
    "id": 147182225,
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-17T03:00:00.000Z",
    "endsAt": "2026-11-17T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 44,
+   "spotsLeft": 42,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182225"
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-17T03:00:00.000Z",
    "endsAt": "2026-11-17T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182226"
@@ -30,7 +30,7 @@
    "startsAt": "2026-11-17T08:00:00.000Z",
    "endsAt": "2026-11-17T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182377"
@@ -45,17 +45,6 @@
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182375"
-  },
-  {
-   "id": 147182373,
-   "name": "Class | Sound Healing",
-   "startsAt": "2026-11-17T10:00:00.000Z",
-   "endsAt": "2026-11-17T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 49,
-   "teacher": "Constanza Quintana",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182373"
   },
   {
    "id": 147182772,
@@ -122,17 +111,6 @@
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182364"
-  },
-  {
-   "id": 147182371,
-   "name": "Class | Biomagnetism & Sound Healing",
-   "startsAt": "2026-11-18T06:00:00.000Z",
-   "endsAt": "2026-11-18T07:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 26,
-   "teacher": "Constanza Quintana",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182371"
   },
   {
    "id": 147182378,
