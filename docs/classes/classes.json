@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-16T23:18:45.903Z",
- "count": 18,
+ "generatedAt": "2026-11-17T00:12:35.825Z",
+ "count": 17,
  "sessions": [
-  {
-   "id": 147182177,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-16T23:30:00.000Z",
-   "endsAt": "2026-11-17T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 36,
-   "teacher": "Alexandra McRobert",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182177"
-  },
   {
    "id": 147182187,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-17T01:00:00.000Z",
    "endsAt": "2026-11-17T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 45,
    "teacher": "Laila Elidrissi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182187"
