@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T10:41:36.623Z",
+ "generatedAt": "2026-11-17T11:31:45.840Z",
  "count": 7,
  "sessions": [
   {
@@ -52,7 +52,7 @@
    "startsAt": "2026-11-18T08:00:00.000Z",
    "endsAt": "2026-11-18T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182378"
