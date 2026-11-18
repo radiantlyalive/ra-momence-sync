@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-18T15:53:16.890Z",
- "count": 8,
+ "generatedAt": "2026-11-18T16:57:10.572Z",
+ "count": 16,
  "sessions": [
   {
    "id": 147182179,
@@ -89,6 +89,94 @@
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182767"
+  },
+  {
+   "id": 147182180,
+   "name": "Class | Gentle Flow",
+   "startsAt": "2026-11-19T23:30:00.000Z",
+   "endsAt": "2026-11-20T00:45:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 47,
+   "teacher": "Niko Kisic",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147182180"
+  },
+  {
+   "id": 147182190,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-20T01:00:00.000Z",
+   "endsAt": "2026-11-20T02:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 48,
+   "teacher": "Lucinda Rose Muldoon",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147182190"
+  },
+  {
+   "id": 147182197,
+   "name": "Class | Black Lotus Vinyasa",
+   "startsAt": "2026-11-20T02:00:00.000Z",
+   "endsAt": "2026-11-20T03:45:00.000Z",
+   "durationInMinutes": 105,
+   "spotsLeft": 47,
+   "teacher": "Laila Elidrissi",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147182197"
+  },
+  {
+   "id": 147182223,
+   "name": "Class | Hatha",
+   "startsAt": "2026-11-20T03:00:00.000Z",
+   "endsAt": "2026-11-20T04:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Maximilien Pierre Leullieux",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147182223"
+  },
+  {
+   "id": 147182370,
+   "name": "Class | Yin & TCM",
+   "startsAt": "2026-11-20T05:00:00.000Z",
+   "endsAt": "2026-11-20T06:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Lucinda Rose Muldoon",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147182370"
+  },
+  {
+   "id": 147182379,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-20T08:00:00.000Z",
+   "endsAt": "2026-11-20T09:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Ade Adinata",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147182379"
+  },
+  {
+   "id": 147182386,
+   "name": "Class | Ashtanga Inspired",
+   "startsAt": "2026-11-20T09:00:00.000Z",
+   "endsAt": "2026-11-20T10:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Sari Dewi",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147182386"
+  },
+  {
+   "id": 147182769,
+   "name": "Class | Yin",
+   "startsAt": "2026-11-20T10:00:00.000Z",
+   "endsAt": "2026-11-20T11:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 47,
+   "teacher": "Maximilien Pierre Leullieux",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147182769"
   }
  ]
 }
