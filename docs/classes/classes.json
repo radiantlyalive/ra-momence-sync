@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-18T22:46:38.992Z",
- "count": 16,
+ "generatedAt": "2026-11-18T23:44:25.485Z",
+ "count": 15,
  "sessions": [
-  {
-   "id": 147182179,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-18T23:30:00.000Z",
-   "endsAt": "2026-11-19T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 39,
-   "teacher": "Dominika Kerekešová",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182179"
-  },
   {
    "id": 147182189,
    "name": "Class | RA Vinyasa",
@@ -85,7 +74,7 @@
    "startsAt": "2026-11-19T10:00:00.000Z",
    "endsAt": "2026-11-19T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 49,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182767"
@@ -107,7 +96,7 @@
    "startsAt": "2026-11-20T01:00:00.000Z",
    "endsAt": "2026-11-20T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182190"
