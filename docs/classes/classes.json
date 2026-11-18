@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T03:50:02.505Z",
+ "generatedAt": "2026-11-18T04:54:30.080Z",
  "count": 11,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-18T08:00:00.000Z",
    "endsAt": "2026-11-18T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 44,
+   "spotsLeft": 43,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182378"
@@ -52,7 +52,7 @@
    "startsAt": "2026-11-19T01:00:00.000Z",
    "endsAt": "2026-11-19T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182189"
