@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T01:59:02.506Z",
+ "generatedAt": "2026-11-19T02:51:56.824Z",
  "count": 13,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-19T03:00:00.000Z",
    "endsAt": "2026-11-19T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 45,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182217"
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-19T03:00:00.000Z",
    "endsAt": "2026-11-19T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 43,
+   "spotsLeft": 40,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182227"
@@ -30,7 +30,7 @@
    "startsAt": "2026-11-19T05:00:00.000Z",
    "endsAt": "2026-11-19T06:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 13,
+   "spotsLeft": 11,
    "teacher": "Ricardo Roestenburg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182361"
