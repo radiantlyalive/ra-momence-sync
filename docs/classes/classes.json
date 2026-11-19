@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-19T09:42:08.660Z",
- "count": 9,
+ "generatedAt": "2026-11-19T10:41:15.104Z",
+ "count": 8,
  "sessions": [
-  {
-   "id": 147182767,
-   "name": "Class | Slow Flow",
-   "startsAt": "2026-11-19T10:00:00.000Z",
-   "endsAt": "2026-11-19T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 40,
-   "teacher": "Dominika Kerekešová",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182767"
-  },
   {
    "id": 147182180,
    "name": "Class | Gentle Flow",
@@ -52,7 +41,7 @@
    "startsAt": "2026-11-20T03:00:00.000Z",
    "endsAt": "2026-11-20T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 47,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182223"
