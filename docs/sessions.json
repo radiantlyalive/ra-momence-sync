@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T02:51:54.553Z",
+ "generatedAt": "2026-11-19T03:51:51.467Z",
  "count": 9,
  "sessions": [
   {
@@ -67,7 +67,7 @@
    "startsAt": "2026-11-24T10:00:00.000Z",
    "endsAt": "2026-11-24T12:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 43,
+   "spotsLeft": 42,
    "teacher": {
     "name": "Constanza Quintana",
     "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/116428-picture.jpg?t=1728448534996"
