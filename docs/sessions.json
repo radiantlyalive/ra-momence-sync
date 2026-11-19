@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-19T06:00:08.393Z",
- "count": 9,
+ "generatedAt": "2026-11-19T07:15:42.168Z",
+ "count": 11,
  "sessions": [
   {
    "id": 146577982,
@@ -58,6 +58,44 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/6084d8ec-b653-40ad-955e-753326213838.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/146580214"
+  },
+  {
+   "id": 147484072,
+   "name": "Workshop | Prop Your Practice",
+   "type": "Workshop",
+   "description": "<p>Props aren&#39;t just tools to make yoga easier, but a way to develop awareness, deepen understanding, and explore our practice.</p><p>BENEFITS<br>Help alignment and stability with blocks and straps<br>Access your body in a deeper way to props<br>Find the balance between strength and ease <br>Discover new possibilities</p><p>WHAT TO BRING<br>Wear comfortable clothes that you can move in easily. <br>Curious mind and playfulness.</p><p>DATE &amp; TIME<br>26 November 2026 | 15:00 - 17:00</p><p>PRICE<br>Free</p>",
+   "startsAt": "2026-11-25T19:00:00.000Z",
+   "endsAt": "2026-11-25T21:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": 30,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/b365eada-6c84-40b7-8893-c062c7fa5960.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/357983ac-6773-4e5c-a24c-7e35996e2360.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147484072"
+  },
+  {
+   "id": 147482951,
+   "name": "Workshop | Embodiment of Freedom",
+   "type": "Workshop",
+   "description": "<p>Join us for a transformative 2-hour journey exploring the connection between body, movement, and spirit. Through fascia release, fluid water-inspired movement, and spiritual embodiment, we will invite you to release tension, reconnect with your natural flow, and awaken your inner power. Explore the balance between strength and softness, deepen your awareness, and discover what it means to live from a place of authenticity and inner freedom. This immersive experience is an invitation to reconnect with yourself, honor your body&#39;s wisdom, and embody your power with courage, presence, and intention.</p><p>Release • Flow • Awaken</p><p>We will begin by exploring the fascinating world of fascia: what it is, how it influences our everyday lives, and how we can better understand, release, and work with it to inhabit our bodies with greater awareness and presence.</p><p>Next, we will move into a fluid, playful, water-inspired vinyasa experience, exploring the balance between strength and softness, and discovering the freedom that comes from trusting, flowing, and surrendering to movement.</p><p>Finally, we will journey inward, exploring our consciousness and uncovering the patterns, beliefs, and limitations that may be holding us back. Through spiritual embodiment and energy awareness, we will reconnect with our inner power, awaken our potential, and create space to step more fully into who we are.</p><p>WHAT TO BRING<br>Wear comfortable clothes that you can move in easily. <br>Bring a notebook for journaling or take notes.</p><p>DATE &amp; TIME<br>26 November 2026 | 08:00 - 10:00</p><p>PRICE<br>Free</p><p>ABOUT THE TEACHERS<br>Alexia is a yoga teacher originally from the Greek Island of Rhodes, with a passion for fluid movement, somatic exploration and weaving in the elements of nature, creativity and self expression.</p><p>Deanna is a spiritual embodiment guide and yoga instructor from the US, working with the energy body to empower others to awaken their inner power and embody their authentic selves.</p><p>Vero is a Mexican yoga teacher, living in Prague. Focused on vinyasa, prenatal and yintelligence facilitation to help other inhabit their body in a more wholesome way.</p>",
+   "startsAt": "2026-11-26T00:00:00.000Z",
+   "endsAt": "2026-11-26T02:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": 30,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/d5ff71be-6eeb-4703-942a-2d7d5272d4d4.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/e611fcc6-d2b0-4bfb-819b-63780f06ce5a.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147482951"
   },
   {
    "id": 146579983,
@@ -136,25 +174,6 @@
    "bookUrl": "https://momence.com/s/147293074"
   },
   {
-   "id": 146774047,
-   "name": "Anniversary Day | Kirtan | Free",
-   "type": "Workshop",
-   "description": "<p>A joyful evening of call-and-response chanting, uniting the community in voice, rhythm, and shared presence.</p><p>Led by Alexandra, Kirtan closes this day with collective song. Through call-and-response chanting, live music, and rhythm, guests experience a sense of unity and joyful celebration.</p><p>A short closing circle follows, where the host gently brings the river back to the intention set during the morning&#39;s opening ceremony, completing the day as one continuous journey.</p><p>DATE &amp; TIME<br>December 1 | 18:00 - 19:30</p><p>PRICE<br>Free of charge</p><p>Donations are welcome throughout this day. 100% of donations will go to Sari Hati, our community partner in Ubud.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
-   "startsAt": "2026-12-01T10:00:00.000Z",
-   "endsAt": "2026-12-01T11:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 8,
-   "teacher": {
-    "name": "Radiantly Alive",
-    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/14fa9201-eadc-41b3-bc49-bd401e3fbe86.jpeg"
-   },
-   "location": "Radiantly Alive Ubud",
-   "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
-   "tags": [],
-   "bookUrl": "https://momence.com/s/146774047"
-  },
-  {
    "id": 147481019,
    "name": "Anniversary Day | Kirtan | Donation",
    "type": "Workshop",
@@ -172,6 +191,25 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147481019"
+  },
+  {
+   "id": 146774047,
+   "name": "Anniversary Day | Kirtan | Free",
+   "type": "Workshop",
+   "description": "<p>A joyful evening of call-and-response chanting, uniting the community in voice, rhythm, and shared presence.</p><p>Led by Alexandra, Kirtan closes this day with collective song. Through call-and-response chanting, live music, and rhythm, guests experience a sense of unity and joyful celebration.</p><p>A short closing circle follows, where the host gently brings the river back to the intention set during the morning&#39;s opening ceremony, completing the day as one continuous journey.</p><p>DATE &amp; TIME<br>December 1 | 18:00 - 19:30</p><p>PRICE<br>Free of charge</p><p>Donations are welcome throughout this day. 100% of donations will go to Sari Hati, our community partner in Ubud.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-01T10:00:00.000Z",
+   "endsAt": "2026-12-01T11:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 8,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/14fa9201-eadc-41b3-bc49-bd401e3fbe86.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146774047"
   }
  ]
 }
