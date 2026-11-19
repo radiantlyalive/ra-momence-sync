@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-19T04:57:34.620Z",
- "count": 11,
+ "generatedAt": "2026-11-19T06:00:08.727Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 147182361,
-   "name": "Class | Fly High Yoga",
-   "startsAt": "2026-11-19T05:00:00.000Z",
-   "endsAt": "2026-11-19T06:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 10,
-   "teacher": "Ricardo Roestenburg",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182361"
-  },
   {
    "id": 147182380,
    "name": "Class | RA Vinyasa",
@@ -118,7 +107,7 @@
    "startsAt": "2026-11-20T10:00:00.000Z",
    "endsAt": "2026-11-20T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182769"
