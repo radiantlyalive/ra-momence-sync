@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T09:31:52.375Z",
+ "generatedAt": "2026-11-20T10:41:32.115Z",
  "count": 12,
  "sessions": [
   {
@@ -156,7 +156,7 @@
   },
   {
    "id": 146666398,
-   "name": "Workshop | YINtrospection: A Journey to Self-Discovery - Cacao, Sound Bath, Journaling and Yin",
+   "name": "Workshop | YINtrospection: Ceremonial Cacao, Sound Healing, Yin and Journaling",
    "type": "Workshop",
    "description": "<p>Step into a sanctuary of stillness and connection — a heart-centered experience designed to nourish your body, calm your mind, and awaken your spirit.</p><p>Join us for a transformative journey that weaves together the heart-opening magic of Ceremonial Cacao, the healing resonance of a Sound Bath, the reflective depth of journaling, and the grounding power of Yin Yoga.</p><p>This experience invites you to slow down, tune in, and reconnect — not just with yourself, but with a deeper sense of presence, purpose, and peace. It includes:<br>- Cacao Ceremony – Open your heart and awaken your senses with this ancient plant medicine, used for centuries to enhance clarity, connection, and inner joy.<br>- Sound Bath – Be carried by the soothing tones of crystal bowls and other healing sounds that restore harmony to your nervous system and energy body.<br>- Guided Journaling – Reflect, express, and align with your intentions through gentle prompts that help you hear the quiet wisdom within.<br>- Yin Yoga – Melt into deep, meditative postures that help release stored tension and encourage stillness and surrender.</p><p>Whether you’re seeking release, renewal, or simply a moment of peace, this journey offers a safe and sacred space to return to yourself.</p><p>Benefits: <br>Reconnect with your authentic self. Make peace with the past. Cultivate inner clarity. Feel more grounded, open, and renewed.</p><p>What to Prepare:<br>Bring a journal, a pen, and an open heart.</p><p>DATE &amp; TIME<br>November 28 | 17:00 - 19:00</p><p>PRICE<br>396.000 IDR</p><p>ABOUT MAXIMILIEN<br>Maximilien has been teaching Yin Yoga and sound healing in Bali since 2023. He has experienced the transformative and healing effects of stillness and sound not only on the physical body, but also on the mind and heart.<br>Since then, through his deep presence, compassion, and emotional intelligence, Maximilien has been holding space for others to reconnect with themselves, awaken, and transform.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
    "startsAt": "2026-11-28T09:00:00.000Z",
@@ -169,7 +169,7 @@
    },
    "location": "Radiantly Alive Ubud",
    "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/50b1248d-5038-41f8-b3c8-95859577e1c3.jpeg",
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/cc9a879b-a26d-40b7-acfe-2452002c5543.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/146666398"
   },
@@ -193,25 +193,6 @@
    "bookUrl": "https://momence.com/s/147293074"
   },
   {
-   "id": 146774047,
-   "name": "Anniversary Day | Kirtan | Free",
-   "type": "Workshop",
-   "description": "<p>A joyful evening of call-and-response chanting, uniting the community in voice, rhythm, and shared presence.</p><p>Led by Alexandra, Kirtan closes this day with collective song. Through call-and-response chanting, live music, and rhythm, guests experience a sense of unity and joyful celebration.</p><p>A short closing circle follows, where the host gently brings the river back to the intention set during the morning&#39;s opening ceremony, completing the day as one continuous journey.</p><p>DATE &amp; TIME<br>December 1 | 18:00 - 19:30</p><p>PRICE<br>Free of charge</p><p>Donations are welcome throughout this day. 100% of donations will go to Sari Hati, our community partner in Ubud.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
-   "startsAt": "2026-12-01T10:00:00.000Z",
-   "endsAt": "2026-12-01T11:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 7,
-   "teacher": {
-    "name": "Radiantly Alive",
-    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/14fa9201-eadc-41b3-bc49-bd401e3fbe86.jpeg"
-   },
-   "location": "Radiantly Alive Ubud",
-   "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
-   "tags": [],
-   "bookUrl": "https://momence.com/s/146774047"
-  },
-  {
    "id": 147481019,
    "name": "Anniversary Day | Kirtan | Donation",
    "type": "Workshop",
@@ -229,6 +210,25 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147481019"
+  },
+  {
+   "id": 146774047,
+   "name": "Anniversary Day | Kirtan | Free",
+   "type": "Workshop",
+   "description": "<p>A joyful evening of call-and-response chanting, uniting the community in voice, rhythm, and shared presence.</p><p>Led by Alexandra, Kirtan closes this day with collective song. Through call-and-response chanting, live music, and rhythm, guests experience a sense of unity and joyful celebration.</p><p>A short closing circle follows, where the host gently brings the river back to the intention set during the morning&#39;s opening ceremony, completing the day as one continuous journey.</p><p>DATE &amp; TIME<br>December 1 | 18:00 - 19:30</p><p>PRICE<br>Free of charge</p><p>Donations are welcome throughout this day. 100% of donations will go to Sari Hati, our community partner in Ubud.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-01T10:00:00.000Z",
+   "endsAt": "2026-12-01T11:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 7,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/14fa9201-eadc-41b3-bc49-bd401e3fbe86.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146774047"
   }
  ]
 }

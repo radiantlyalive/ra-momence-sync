@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-20T09:31:52.826Z",
- "count": 9,
+ "generatedAt": "2026-11-20T10:41:32.444Z",
+ "count": 8,
  "sessions": [
-  {
-   "id": 147182769,
-   "name": "Class | Yin",
-   "startsAt": "2026-11-20T10:00:00.000Z",
-   "endsAt": "2026-11-20T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 41,
-   "teacher": "Maximilien Pierre Leullieux",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182769"
-  },
   {
    "id": 147182182,
    "name": "Class | Gentle Flow",
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-21T01:00:00.000Z",
    "endsAt": "2026-11-21T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 43,
+   "spotsLeft": 42,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182191"
