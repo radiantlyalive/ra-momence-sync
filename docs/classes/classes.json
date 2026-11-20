@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-19T23:27:23.800Z",
- "count": 16,
+ "generatedAt": "2026-11-20T00:17:02.883Z",
+ "count": 15,
  "sessions": [
-  {
-   "id": 147182180,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-19T23:30:00.000Z",
-   "endsAt": "2026-11-20T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 38,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182180"
-  },
   {
    "id": 147182190,
    "name": "Class | RA Vinyasa",
