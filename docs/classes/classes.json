@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T05:45:48.999Z",
+ "generatedAt": "2026-11-20T07:03:51.993Z",
  "count": 11,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-20T08:00:00.000Z",
    "endsAt": "2026-11-20T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 45,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182379"
@@ -30,7 +30,7 @@
    "startsAt": "2026-11-20T10:00:00.000Z",
    "endsAt": "2026-11-20T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 43,
+   "spotsLeft": 42,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182769"
