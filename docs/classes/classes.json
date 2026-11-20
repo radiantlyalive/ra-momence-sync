@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-20T00:17:02.883Z",
- "count": 15,
+ "generatedAt": "2026-11-20T01:43:44.134Z",
+ "count": 14,
  "sessions": [
-  {
-   "id": 147182190,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-20T01:00:00.000Z",
-   "endsAt": "2026-11-20T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 46,
-   "teacher": "Lucinda Rose Muldoon",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182190"
-  },
   {
    "id": 147182197,
    "name": "Class | Black Lotus Vinyasa",
    "startsAt": "2026-11-20T02:00:00.000Z",
    "endsAt": "2026-11-20T03:45:00.000Z",
    "durationInMinutes": 105,
-   "spotsLeft": 42,
+   "spotsLeft": 41,
    "teacher": "Laila Elidrissi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182197"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-20T05:00:00.000Z",
    "endsAt": "2026-11-20T06:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182370"
@@ -74,7 +63,7 @@
    "startsAt": "2026-11-20T10:00:00.000Z",
    "endsAt": "2026-11-20T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182769"
@@ -96,7 +85,7 @@
    "startsAt": "2026-11-21T01:00:00.000Z",
    "endsAt": "2026-11-21T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 45,
+   "spotsLeft": 44,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182191"
