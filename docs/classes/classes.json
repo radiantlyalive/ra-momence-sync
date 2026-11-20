@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-20T02:37:54.192Z",
- "count": 13,
+ "generatedAt": "2026-11-20T03:34:51.524Z",
+ "count": 12,
  "sessions": [
-  {
-   "id": 147182223,
-   "name": "Class | Hatha",
-   "startsAt": "2026-11-20T03:00:00.000Z",
-   "endsAt": "2026-11-20T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 45,
-   "teacher": "Maximilien Pierre Leullieux",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182223"
-  },
   {
    "id": 147182370,
    "name": "Class | Yin & TCM",
