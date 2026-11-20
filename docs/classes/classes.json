@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T13:58:47.864Z",
+ "generatedAt": "2026-11-20T14:53:27.636Z",
  "count": 8,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-20T23:30:00.000Z",
    "endsAt": "2026-11-21T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 42,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182182"
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-21T01:00:00.000Z",
    "endsAt": "2026-11-21T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 43,
+   "spotsLeft": 42,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182191"
