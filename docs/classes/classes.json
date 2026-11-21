@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-21T15:27:45.562Z",
- "count": 6,
+ "generatedAt": "2026-11-21T16:16:47.302Z",
+ "count": 13,
  "sessions": [
   {
    "id": 147182184,
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-21T23:30:00.000Z",
    "endsAt": "2026-11-22T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 45,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182184"
@@ -67,6 +67,83 @@
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182770"
+  },
+  {
+   "id": 147543253,
+   "name": "Class | Gentle Flow",
+   "startsAt": "2026-11-22T23:30:00.000Z",
+   "endsAt": "2026-11-23T00:45:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 46,
+   "teacher": "Joëlle Sleebos",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147543253"
+  },
+  {
+   "id": 134091775,
+   "name": "Short Training | Ashtanga Intensive ",
+   "startsAt": "2026-11-23T00:00:00.000Z",
+   "endsAt": "2026-11-23T08:00:00.000Z",
+   "durationInMinutes": 480,
+   "spotsLeft": 61,
+   "teacher": "David Robson",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/134091775"
+  },
+  {
+   "id": 147543291,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-23T01:00:00.000Z",
+   "endsAt": "2026-11-23T02:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Joëlle Sleebos",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147543291"
+  },
+  {
+   "id": 147544287,
+   "name": "Class | Hatha",
+   "startsAt": "2026-11-23T03:00:00.000Z",
+   "endsAt": "2026-11-23T04:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Sari Dewi",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147544287"
+  },
+  {
+   "id": 147544340,
+   "name": "Class | Fly High Yoga",
+   "startsAt": "2026-11-23T05:00:00.000Z",
+   "endsAt": "2026-11-23T06:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 12,
+   "teacher": "Ricardo Roestenburg",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147544340"
+  },
+  {
+   "id": 147543731,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-23T08:00:00.000Z",
+   "endsAt": "2026-11-23T09:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Niko Kisic",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147543731"
+  },
+  {
+   "id": 147543792,
+   "name": "Class | Slow Flow",
+   "startsAt": "2026-11-23T10:00:00.000Z",
+   "endsAt": "2026-11-23T11:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 49,
+   "teacher": "Niko Kisic",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147543792"
   }
  ]
 }
