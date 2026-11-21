@@ -1,29 +1,7 @@
 {
- "generatedAt": "2026-11-21T02:45:41.680Z",
- "count": 12,
+ "generatedAt": "2026-11-21T03:46:20.582Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 147182224,
-   "name": "Class | Hatha",
-   "startsAt": "2026-11-21T03:00:00.000Z",
-   "endsAt": "2026-11-21T04:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 45,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182224"
-  },
-  {
-   "id": 147182228,
-   "name": "Class | Vinyasa Krama",
-   "startsAt": "2026-11-21T03:00:00.000Z",
-   "endsAt": "2026-11-21T04:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 36,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182228"
-  },
   {
    "id": 147182362,
    "name": "Class | Fly High Yoga",
@@ -63,7 +41,7 @@
    "startsAt": "2026-11-21T10:00:00.000Z",
    "endsAt": "2026-11-21T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 42,
+   "spotsLeft": 43,
    "teacher": "RA Teacher",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182768"
@@ -74,7 +52,7 @@
    "startsAt": "2026-11-21T23:30:00.000Z",
    "endsAt": "2026-11-22T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Dominika Kerekešová",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182184"
