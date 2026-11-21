@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-21T06:57:19.563Z",
- "count": 8,
+ "generatedAt": "2026-11-21T08:10:22.556Z",
+ "count": 7,
  "sessions": [
-  {
-   "id": 147182382,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-21T08:00:00.000Z",
-   "endsAt": "2026-11-21T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 48,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182382"
-  },
   {
    "id": 147182388,
    "name": "Class | Ashtanga Inspired",
