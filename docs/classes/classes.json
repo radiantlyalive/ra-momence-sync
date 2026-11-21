@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-21T04:50:06.999Z",
- "count": 9,
+ "generatedAt": "2026-11-21T05:50:20.837Z",
+ "count": 8,
  "sessions": [
-  {
-   "id": 147182362,
-   "name": "Class | Fly High Yoga",
-   "startsAt": "2026-11-21T05:00:00.000Z",
-   "endsAt": "2026-11-21T06:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 11,
-   "teacher": "Ryan Miller",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182362"
-  },
   {
    "id": 147182382,
    "name": "Class | RA Vinyasa",
