@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-21T08:59:00.629Z",
- "count": 7,
+ "generatedAt": "2026-11-21T09:47:23.543Z",
+ "count": 6,
  "sessions": [
-  {
-   "id": 147182388,
-   "name": "Class | Ashtanga Inspired",
-   "startsAt": "2026-11-21T09:00:00.000Z",
-   "endsAt": "2026-11-21T10:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 42,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147182388"
-  },
   {
    "id": 147182184,
    "name": "Class | Gentle Flow",
@@ -63,7 +52,7 @@
    "startsAt": "2026-11-22T08:00:00.000Z",
    "endsAt": "2026-11-22T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147182383"
