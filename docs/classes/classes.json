@@ -1,18 +1,7 @@
 {
- "generatedAt": "2026-11-22T23:13:49.164Z",
- "count": 12,
+ "generatedAt": "2026-11-22T23:57:31.812Z",
+ "count": 11,
  "sessions": [
-  {
-   "id": 147543253,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-22T23:30:00.000Z",
-   "endsAt": "2026-11-23T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 41,
-   "teacher": "Joëlle Sleebos",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147543253"
-  },
   {
    "id": 134091775,
    "name": "Short Training | Ashtanga Intensive ",
