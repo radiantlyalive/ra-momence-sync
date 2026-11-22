@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T12:16:15.501Z",
+ "generatedAt": "2026-11-22T13:29:24.634Z",
  "count": 7,
  "sessions": [
   {
@@ -52,7 +52,7 @@
    "startsAt": "2026-11-23T05:00:00.000Z",
    "endsAt": "2026-11-23T06:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 11,
+   "spotsLeft": 12,
    "teacher": "Ricardo Roestenburg",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147544340"
