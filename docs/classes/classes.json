@@ -1,36 +1,14 @@
 {
- "generatedAt": "2026-11-22T23:57:31.812Z",
- "count": 11,
+ "generatedAt": "2026-11-23T01:03:37.651Z",
+ "count": 9,
  "sessions": [
-  {
-   "id": 134091775,
-   "name": "Short Training | Ashtanga Intensive ",
-   "startsAt": "2026-11-23T00:00:00.000Z",
-   "endsAt": "2026-11-23T08:00:00.000Z",
-   "durationInMinutes": 480,
-   "spotsLeft": 61,
-   "teacher": "David Robson",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/134091775"
-  },
-  {
-   "id": 147543291,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-23T01:00:00.000Z",
-   "endsAt": "2026-11-23T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 41,
-   "teacher": "Joëlle Sleebos",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147543291"
-  },
   {
    "id": 147544287,
    "name": "Class | Hatha",
    "startsAt": "2026-11-23T03:00:00.000Z",
    "endsAt": "2026-11-23T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 42,
+   "spotsLeft": 41,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147544287"
