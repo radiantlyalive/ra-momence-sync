@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T13:55:38.936Z",
+ "generatedAt": "2026-11-23T14:57:32.332Z",
  "count": 22,
  "sessions": [
   {
@@ -67,7 +67,7 @@
    "startsAt": "2026-11-26T07:00:00.000Z",
    "endsAt": "2026-11-26T09:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 27,
+   "spotsLeft": 28,
    "teacher": {
     "name": "Radiantly Alive",
     "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/b365eada-6c84-40b7-8893-c062c7fa5960.jpeg"
