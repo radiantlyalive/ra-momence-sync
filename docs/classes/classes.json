@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T04:44:20.757Z",
+ "generatedAt": "2026-11-23T05:49:44.688Z",
  "count": 5,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-23T23:30:00.000Z",
    "endsAt": "2026-11-24T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543269"
@@ -41,7 +41,7 @@
    "startsAt": "2026-11-24T08:00:00.000Z",
    "endsAt": "2026-11-24T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543752"
