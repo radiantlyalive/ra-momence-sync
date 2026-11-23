@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T23:57:31.426Z",
+ "generatedAt": "2026-11-23T02:23:11.512Z",
  "count": 10,
  "sessions": [
   {
@@ -10,7 +10,7 @@
    "startsAt": "2026-11-24T10:00:00.000Z",
    "endsAt": "2026-11-24T12:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 40,
+   "spotsLeft": 38,
    "teacher": {
     "name": "Zara Miranda",
     "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/158170-picture.jpg?t=1747984534979"
