@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-23T08:55:52.124Z",
- "count": 14,
+ "generatedAt": "2026-11-23T11:16:46.714Z",
+ "count": 22,
  "sessions": [
   {
    "id": 146580214,
@@ -86,7 +86,7 @@
    "startsAt": "2026-11-27T00:00:00.000Z",
    "endsAt": "2026-11-27T02:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 22,
+   "spotsLeft": 21,
    "teacher": {
     "name": "Radiantly Alive",
     "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/58629b86-2cb3-41e6-acea-64c872b9bd77.jpeg"
@@ -162,7 +162,7 @@
    "startsAt": "2026-12-01T10:00:00.000Z",
    "endsAt": "2026-12-01T11:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 2,
+   "spotsLeft": 1,
    "teacher": {
     "name": "Radiantly Alive",
     "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/14fa9201-eadc-41b3-bc49-bd401e3fbe86.jpeg"
@@ -212,6 +212,44 @@
    "bookUrl": "https://momence.com/s/147649755"
   },
   {
+   "id": 147661845,
+   "name": "Event | Vocal Edging: A Living Laboratory at the Frontier of the Inexpressible",
+   "type": "Workshop",
+   "description": "<p>In this immersive group experience, you&#39;ll enter a safe space of exploration where your voice becomes both the instrument and the teacher. Rather than only learning how to sing, you’ll meet yourself where your frequency becomes a medium for emotional integration, nervous system regulation, creativity, and authentic expression.</p><p>Through playful vocal exploration, guided experiments, and key pieces of awareness,<br>you&#39;ll stretch your comfort zone, flirt with your emotions, give a voice to inner tension, and discover how your voice naturally blossoms when judgment gives away to curiosity and innocence.</p><p>Each exercise is an invitation to observe, feel, and explore, where every sound becomes<br>valuable information and every emotion becomes creative fuel. There is nothing to<br>perform and nothing to get right, only an opportunity to discover new layers of confidence, creativity, and authentic expression.</p><p>No singing experience is needed, only a willingness to explore.</p><p>You may experience:<br>● Emotional release and greater inner freedom<br>● An expanded and more resonant vocal range<br>● Increased confidence in self-expression<br>● A deeper sense of presence and embodiment<br>● Practical tools to continue exploring your voice beyond the session</p><p>DATE &amp; TIME<br>December 5 | 17:00 - 19:00</p><p>PRICE<br>Regular Price: 400.000 IDR<br>Early Bird Price: 330.000 IDR | Valid until December 4</p><p>ABOUT MYSTICLIO<br>Mysticlio is a Vocal Alchemist, Sound Healer, Artist, and Transformational Facilitator who has spent the past decade exploring the connection between voice, consciousness, and human potential. Through his signature methodology, Vocal Alchemy, he guides immersive experiences blending vocal expression, sound healing, embodiment, meditation, and emotional integration. Using the human voice as a catalyst for healing and authentic expression, he supports individuals and groups in reconnecting with their true voice, releasing emotional barriers, and cultivating confidence, presence, and inner freedom. Having facilitated workshops, retreats, private sessions, sound journeys, and performances internationally, he has empowered hundreds of people to experience profound personal transformation.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-05T09:00:00.000Z",
+   "endsAt": "2026-12-05T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": 18,
+   "teacher": {
+    "name": "Lionel Martinez (Mysticlio)",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/e936e880-f3b0-4f6f-b7f0-ad69a4837b40.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/3561264b-da06-4cab-9ceb-d0bf0274f6a5.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147661845"
+  },
+  {
+   "id": 147662319,
+   "name": "Community | Women's Circle",
+   "type": "Workshop",
+   "description": "<p>Women’s Circle is a space for women to gather in community, slow down, and reconnect with themselves and one another.</p><p>Throughout different stages of life, women experience continual changes in their bodies, relationships, identities, responsibilities, and aspirations. Yet there are often few spaces where these experiences can be explored openly and honestly.</p><p>This circle offers an opportunity to step away from the demands of everyday life and create space for reflection, connection, and authentic expression.</p><p>Through guided sharing, conscious listening, embodiment, reflection, and meaningful conversation, we explore themes such as self-worth, relationships, boundaries, emotional expression, feminine identity, life transitions, purpose, and personal growth.</p><p>The intention is not to provide answers or fix what is perceived as a problem. Instead, the circle invites each woman to listen inwardly, share from her own experience, and be witnessed by a supportive community.</p><p>Participants are welcome to share only what feels comfortable for them. There is no requirement to speak, and confidentiality, respect, and compassionate listening are central to the circle.</p><p>DATE &amp; TIME<br>Every Sunday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-12-06T09:00:00.000Z",
+   "endsAt": "2026-12-06T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/04352a43-8156-436e-aaea-aa7a5a5c3016.png"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147662319"
+  },
+  {
    "id": 147649757,
    "name": "Workshop | Breathwork: Somatic Breath",
    "type": "Workshop",
@@ -229,6 +267,44 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/14fdf6f4-a855-457a-a59d-4f8c2de1ca83.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147649757"
+  },
+  {
+   "id": 147662235,
+   "name": "Sound Healing | Vocal Sound Healing",
+   "type": "Workshop",
+   "description": "<p>What if sound could take you somewhere beyond the mind, into a place you recognise but cannot quite explain?  A place that feels like home. A place where you remember something essential about who you are ?</p><p>“The sound was everywhere.” This is something people often share after experiencing the journey. Some  describe vivid inner visions and extraordinary imagery, reminiscent of psychedelic experiences, emerging  naturally through sound alone. Others speak of a profound sense of coming home, of feeling deeply embodied  and fully present, or of reconnecting with themselves on a soul level, as if remembering something they had  always known but somehow forgotten.</p><p>As the vibrations travel through your body, emotions, mind, and inner world, you may find yourself moving  beyond the familiar boundaries of perception. Time can seem to soften, the body can become a landscape of  resonance, and the distinction between listening and feeling can begin to dissolve. There is nothing to achieve  and nowhere to go. Simply an invitation to let go of control, become deeply present, and discover what unfolds  when you allow yourself to truly receive.</p><p>Each journey is intuitively shaped into the moment, inspired by the energy of the group. Through harmonic  singing, overtone resonance, and channeled vocal expression, sound becomes more than something you hear.  It surrounds you, moves through you, and unfolds within you, inviting you into an immersive landscape of  vibration, sensation, and inner discovery.</p><p>Let yourself be enchanted by Mysticlio’s unique multidimensional vocal transmission, lie down, surrender and  receive. You may experience profound relaxation, emotional release, unexpected imagery, expanded  awareness, or a quiet yet powerful reconnection with your authentic essence. There is no experience you need  to have and nothing you need to force. Your journey is entirely your own.</p><p>Enter a space where vibration becomes sensation, listening becomes exploration, and sound becomes a  doorway to remembrance.</p><p>Come as you are. Lie down. Let the sound find you.</p><p>BENEFITS<br>Deep relaxation, emotional release, embodied presence, energetic recalibration, expanded  awareness, vivid inner imagery, and a profound sense of reconnection with your authentic  essence. <br>An immersive experience to integrate, restore inner balance, and remember the feeling of  coming home to yourself through sound.</p><p>DATE &amp; TIME<br>December 12 | 14:00 - 15:30</p><p>PRICE<br>Regular Price: 400.000 IDR<br>Early Bird Price: 350.000 IDR | Valid until December 11</p><p>ABOUT MYSTICLIO<br>Mysticlio is a Vocal Alchemist, Sound Healer, Artist, and Transformational Facilitator who has spent the past decade exploring the connection between voice, consciousness, and human potential. Through his signature methodology, Vocal Alchemy, he guides immersive experiences blending vocal expression, sound healing, embodiment, meditation, and emotional integration. Using the human voice as a catalyst for healing and authentic expression, he supports individuals and groups in reconnecting with their true voice, releasing emotional barriers, and cultivating confidence, presence, and inner freedom. Having facilitated workshops, retreats, private sessions, sound journeys, and performances internationally, he has empowered hundreds of people to experience profound personal transformation.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-12T06:00:00.000Z",
+   "endsAt": "2026-12-12T07:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Lionel Martinez (Mysticlio)",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/4212204a-1368-4ebe-a19a-a1c8abe6674b.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/9bd251a1-017b-44e8-b6df-0651351d72d5.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147662235"
+  },
+  {
+   "id": 147662331,
+   "name": "Community | Women's Circle",
+   "type": "Workshop",
+   "description": "<p>Women’s Circle is a space for women to gather in community, slow down, and reconnect with themselves and one another.</p><p>Throughout different stages of life, women experience continual changes in their bodies, relationships, identities, responsibilities, and aspirations. Yet there are often few spaces where these experiences can be explored openly and honestly.</p><p>This circle offers an opportunity to step away from the demands of everyday life and create space for reflection, connection, and authentic expression.</p><p>Through guided sharing, conscious listening, embodiment, reflection, and meaningful conversation, we explore themes such as self-worth, relationships, boundaries, emotional expression, feminine identity, life transitions, purpose, and personal growth.</p><p>The intention is not to provide answers or fix what is perceived as a problem. Instead, the circle invites each woman to listen inwardly, share from her own experience, and be witnessed by a supportive community.</p><p>Participants are welcome to share only what feels comfortable for them. There is no requirement to speak, and confidentiality, respect, and compassionate listening are central to the circle.</p><p>DATE &amp; TIME<br>Every Sunday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-12-13T09:00:00.000Z",
+   "endsAt": "2026-12-13T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/033f0f3e-4518-4237-b814-0fc6001f65a1.png"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147662331"
   },
   {
    "id": 147649944,
@@ -250,6 +326,44 @@
    "bookUrl": "https://momence.com/s/147649944"
   },
   {
+   "id": 147662200,
+   "name": "Event | Vocal Edging: A Living Laboratory at the Frontier of the Inexpressible",
+   "type": "Workshop",
+   "description": "<p>In this immersive group experience, you&#39;ll enter a safe space of exploration where your voice becomes both the instrument and the teacher. Rather than only learning how to sing, you’ll meet yourself where your frequency becomes a medium for emotional integration, nervous system regulation, creativity, and authentic expression.</p><p>Through playful vocal exploration, guided experiments, and key pieces of awareness,<br>you&#39;ll stretch your comfort zone, flirt with your emotions, give a voice to inner tension, and discover how your voice naturally blossoms when judgment gives away to curiosity and innocence.</p><p>Each exercise is an invitation to observe, feel, and explore, where every sound becomes<br>valuable information and every emotion becomes creative fuel. There is nothing to<br>perform and nothing to get right, only an opportunity to discover new layers of confidence, creativity, and authentic expression.</p><p>No singing experience is needed, only a willingness to explore.</p><p>You may experience:<br>● Emotional release and greater inner freedom<br>● An expanded and more resonant vocal range<br>● Increased confidence in self-expression<br>● A deeper sense of presence and embodiment<br>● Practical tools to continue exploring your voice beyond the session</p><p>DATE &amp; TIME<br>December 19 | 17:00 - 19:00</p><p>PRICE<br>Regular Price: 400.000 IDR<br>Early Bird Price: 330.000 IDR | Valid until December 18</p><p>ABOUT MYSTICLIO<br>Mysticlio is a Vocal Alchemist, Sound Healer, Artist, and Transformational Facilitator who has spent the past decade exploring the connection between voice, consciousness, and human potential. Through his signature methodology, Vocal Alchemy, he guides immersive experiences blending vocal expression, sound healing, embodiment, meditation, and emotional integration. Using the human voice as a catalyst for healing and authentic expression, he supports individuals and groups in reconnecting with their true voice, releasing emotional barriers, and cultivating confidence, presence, and inner freedom. Having facilitated workshops, retreats, private sessions, sound journeys, and performances internationally, he has empowered hundreds of people to experience profound personal transformation.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-19T09:00:00.000Z",
+   "endsAt": "2026-12-19T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": 18,
+   "teacher": {
+    "name": "Lionel Martinez (Mysticlio)",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/93bdf7af-df54-438e-a72b-e624495e0c63.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/3561264b-da06-4cab-9ceb-d0bf0274f6a5.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147662200"
+  },
+  {
+   "id": 147662332,
+   "name": "Community | Women's Circle",
+   "type": "Workshop",
+   "description": "<p>Women’s Circle is a space for women to gather in community, slow down, and reconnect with themselves and one another.</p><p>Throughout different stages of life, women experience continual changes in their bodies, relationships, identities, responsibilities, and aspirations. Yet there are often few spaces where these experiences can be explored openly and honestly.</p><p>This circle offers an opportunity to step away from the demands of everyday life and create space for reflection, connection, and authentic expression.</p><p>Through guided sharing, conscious listening, embodiment, reflection, and meaningful conversation, we explore themes such as self-worth, relationships, boundaries, emotional expression, feminine identity, life transitions, purpose, and personal growth.</p><p>The intention is not to provide answers or fix what is perceived as a problem. Instead, the circle invites each woman to listen inwardly, share from her own experience, and be witnessed by a supportive community.</p><p>Participants are welcome to share only what feels comfortable for them. There is no requirement to speak, and confidentiality, respect, and compassionate listening are central to the circle.</p><p>DATE &amp; TIME<br>Every Sunday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-12-20T09:00:00.000Z",
+   "endsAt": "2026-12-20T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/c653a3f1-acea-4c46-ba84-6fd14eb57093.png"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147662332"
+  },
+  {
    "id": 147649947,
    "name": "Workshop | Breathwork: Somatic Breath",
    "type": "Workshop",
@@ -267,6 +381,44 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/14fdf6f4-a855-457a-a59d-4f8c2de1ca83.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147649947"
+  },
+  {
+   "id": 147662250,
+   "name": "Sound Healing | Vocal Sound Healing",
+   "type": "Workshop",
+   "description": "<p>What if sound could take you somewhere beyond the mind, into a place you recognise but cannot quite explain?  A place that feels like home. A place where you remember something essential about who you are ?</p><p>“The sound was everywhere.” This is something people often share after experiencing the journey. Some  describe vivid inner visions and extraordinary imagery, reminiscent of psychedelic experiences, emerging  naturally through sound alone. Others speak of a profound sense of coming home, of feeling deeply embodied  and fully present, or of reconnecting with themselves on a soul level, as if remembering something they had  always known but somehow forgotten.</p><p>As the vibrations travel through your body, emotions, mind, and inner world, you may find yourself moving  beyond the familiar boundaries of perception. Time can seem to soften, the body can become a landscape of  resonance, and the distinction between listening and feeling can begin to dissolve. There is nothing to achieve  and nowhere to go. Simply an invitation to let go of control, become deeply present, and discover what unfolds  when you allow yourself to truly receive.</p><p>Each journey is intuitively shaped into the moment, inspired by the energy of the group. Through harmonic  singing, overtone resonance, and channeled vocal expression, sound becomes more than something you hear.  It surrounds you, moves through you, and unfolds within you, inviting you into an immersive landscape of  vibration, sensation, and inner discovery.</p><p>Let yourself be enchanted by Mysticlio’s unique multidimensional vocal transmission, lie down, surrender and  receive. You may experience profound relaxation, emotional release, unexpected imagery, expanded  awareness, or a quiet yet powerful reconnection with your authentic essence. There is no experience you need  to have and nothing you need to force. Your journey is entirely your own.</p><p>Enter a space where vibration becomes sensation, listening becomes exploration, and sound becomes a  doorway to remembrance.</p><p>Come as you are. Lie down. Let the sound find you.</p><p>BENEFITS<br>Deep relaxation, emotional release, embodied presence, energetic recalibration, expanded  awareness, vivid inner imagery, and a profound sense of reconnection with your authentic  essence. <br>An immersive experience to integrate, restore inner balance, and remember the feeling of  coming home to yourself through sound.</p><p>DATE &amp; TIME<br>December 26 | 14:00 - 15:30</p><p>PRICE<br>Regular Price: 400.000 IDR<br>Early Bird Price: 350.000 IDR | Valid until December 25</p><p>ABOUT MYSTICLIO<br>Mysticlio is a Vocal Alchemist, Sound Healer, Artist, and Transformational Facilitator who has spent the past decade exploring the connection between voice, consciousness, and human potential. Through his signature methodology, Vocal Alchemy, he guides immersive experiences blending vocal expression, sound healing, embodiment, meditation, and emotional integration. Using the human voice as a catalyst for healing and authentic expression, he supports individuals and groups in reconnecting with their true voice, releasing emotional barriers, and cultivating confidence, presence, and inner freedom. Having facilitated workshops, retreats, private sessions, sound journeys, and performances internationally, he has empowered hundreds of people to experience profound personal transformation.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-26T06:00:00.000Z",
+   "endsAt": "2026-12-26T07:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Lionel Martinez (Mysticlio)",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/3e36cdd2-31ea-4291-ac4a-f45d10c1f13d.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/9bd251a1-017b-44e8-b6df-0651351d72d5.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147662250"
+  },
+  {
+   "id": 147662344,
+   "name": "Community | Women's Circle",
+   "type": "Workshop",
+   "description": "<p>Women’s Circle is a space for women to gather in community, slow down, and reconnect with themselves and one another.</p><p>Throughout different stages of life, women experience continual changes in their bodies, relationships, identities, responsibilities, and aspirations. Yet there are often few spaces where these experiences can be explored openly and honestly.</p><p>This circle offers an opportunity to step away from the demands of everyday life and create space for reflection, connection, and authentic expression.</p><p>Through guided sharing, conscious listening, embodiment, reflection, and meaningful conversation, we explore themes such as self-worth, relationships, boundaries, emotional expression, feminine identity, life transitions, purpose, and personal growth.</p><p>The intention is not to provide answers or fix what is perceived as a problem. Instead, the circle invites each woman to listen inwardly, share from her own experience, and be witnessed by a supportive community.</p><p>Participants are welcome to share only what feels comfortable for them. There is no requirement to speak, and confidentiality, respect, and compassionate listening are central to the circle.</p><p>DATE &amp; TIME<br>Every Sunday | 17:00 - 19:00</p><p>FREE COMMUNITY EVENT<br>Donations are welcome</p>",
+   "startsAt": "2026-12-27T09:00:00.000Z",
+   "endsAt": "2026-12-27T11:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/62a57c3e-f642-45ed-8aee-12e129638d4d.png"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147662344"
   }
  ]
 }
