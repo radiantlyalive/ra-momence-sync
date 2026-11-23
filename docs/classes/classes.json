@@ -1,40 +1,7 @@
 {
- "generatedAt": "2026-11-23T03:27:29.881Z",
- "count": 8,
+ "generatedAt": "2026-11-23T04:44:20.757Z",
+ "count": 5,
  "sessions": [
-  {
-   "id": 147544340,
-   "name": "Class | Fly High Yoga",
-   "startsAt": "2026-11-23T05:00:00.000Z",
-   "endsAt": "2026-11-23T06:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 12,
-   "teacher": "Ricardo Roestenburg",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147544340"
-  },
-  {
-   "id": 147543731,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-23T08:00:00.000Z",
-   "endsAt": "2026-11-23T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 47,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147543731"
-  },
-  {
-   "id": 147543792,
-   "name": "Class | Slow Flow",
-   "startsAt": "2026-11-23T10:00:00.000Z",
-   "endsAt": "2026-11-23T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 47,
-   "teacher": "Niko Kisic",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147543792"
-  },
   {
    "id": 147543269,
    "name": "Class | Gentle Flow",
@@ -85,7 +52,7 @@
    "startsAt": "2026-11-24T10:00:00.000Z",
    "endsAt": "2026-11-24T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 46,
+   "spotsLeft": 44,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147544911"
