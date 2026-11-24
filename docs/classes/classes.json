@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T13:29:54.627Z",
+ "generatedAt": "2026-11-24T14:38:00.248Z",
  "count": 6,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-24T23:30:00.000Z",
    "endsAt": "2026-11-25T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 44,
+   "spotsLeft": 40,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543270"
@@ -19,7 +19,7 @@
    "startsAt": "2026-11-25T01:00:00.000Z",
    "endsAt": "2026-11-25T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 46,
    "teacher": "Adam DiMarco",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543309"
@@ -52,7 +52,7 @@
    "startsAt": "2026-11-25T08:00:00.000Z",
    "endsAt": "2026-11-25T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 47,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543774"
@@ -63,7 +63,7 @@
    "startsAt": "2026-11-25T10:00:00.000Z",
    "endsAt": "2026-11-25T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 49,
+   "spotsLeft": 48,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147544910"
