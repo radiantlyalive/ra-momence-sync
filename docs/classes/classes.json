@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-23T23:22:47.622Z",
- "count": 11,
+ "generatedAt": "2026-11-24T00:17:21.208Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 147543269,
-   "name": "Class | Gentle Flow",
-   "startsAt": "2026-11-23T23:30:00.000Z",
-   "endsAt": "2026-11-24T00:45:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 41,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147543269"
-  },
   {
    "id": 147543307,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-24T01:00:00.000Z",
    "endsAt": "2026-11-24T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 44,
+   "spotsLeft": 43,
    "teacher": "Laila Elidrissi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543307"
