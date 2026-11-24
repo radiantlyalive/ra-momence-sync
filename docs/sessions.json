@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T03:53:25.572Z",
+ "generatedAt": "2026-11-24T04:59:18.045Z",
  "count": 22,
  "sessions": [
   {
@@ -10,7 +10,7 @@
    "startsAt": "2026-11-24T10:00:00.000Z",
    "endsAt": "2026-11-24T12:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 35,
+   "spotsLeft": 33,
    "teacher": {
     "name": "Zara Miranda",
     "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/158170-picture.jpg?t=1747984534979"
@@ -29,7 +29,7 @@
    "startsAt": "2026-11-26T00:00:00.000Z",
    "endsAt": "2026-11-26T02:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 23,
+   "spotsLeft": 22,
    "teacher": {
     "name": "Radiantly Alive",
     "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/d5ff71be-6eeb-4703-942a-2d7d5272d4d4.jpeg"
@@ -86,7 +86,7 @@
    "startsAt": "2026-11-27T00:00:00.000Z",
    "endsAt": "2026-11-27T02:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 20,
+   "spotsLeft": 19,
    "teacher": {
     "name": "Radiantly Alive",
     "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/58629b86-2cb3-41e6-acea-64c872b9bd77.jpeg"
@@ -155,25 +155,6 @@
    "bookUrl": "https://momence.com/s/147293074"
   },
   {
-   "id": 146774047,
-   "name": "Anniversary Day | Kirtan | Free",
-   "type": "Workshop",
-   "description": "<p>A joyful evening of call-and-response chanting, uniting the community in voice, rhythm, and shared presence.</p><p>Led by Alexandra, Kirtan closes this day with collective song. Through call-and-response chanting, live music, and rhythm, guests experience a sense of unity and joyful celebration.</p><p>A short closing circle follows, where the host gently brings the river back to the intention set during the morning&#39;s opening ceremony, completing the day as one continuous journey.</p><p>DATE &amp; TIME<br>December 1 | 18:00 - 19:30</p><p>PRICE<br>Free of charge</p><p>Donations are welcome throughout this day. 100% of donations will go to Sari Hati, our community partner in Ubud.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
-   "startsAt": "2026-12-01T10:00:00.000Z",
-   "endsAt": "2026-12-01T11:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 8,
-   "teacher": {
-    "name": "Radiantly Alive",
-    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/14fa9201-eadc-41b3-bc49-bd401e3fbe86.jpeg"
-   },
-   "location": "Radiantly Alive Ubud",
-   "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
-   "tags": [],
-   "bookUrl": "https://momence.com/s/146774047"
-  },
-  {
    "id": 147481019,
    "name": "Anniversary Day | Kirtan | Donation",
    "type": "Workshop",
@@ -191,6 +172,25 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147481019"
+  },
+  {
+   "id": 146774047,
+   "name": "Anniversary Day | Kirtan | Free",
+   "type": "Workshop",
+   "description": "<p>A joyful evening of call-and-response chanting, uniting the community in voice, rhythm, and shared presence.</p><p>Led by Alexandra, Kirtan closes this day with collective song. Through call-and-response chanting, live music, and rhythm, guests experience a sense of unity and joyful celebration.</p><p>A short closing circle follows, where the host gently brings the river back to the intention set during the morning&#39;s opening ceremony, completing the day as one continuous journey.</p><p>DATE &amp; TIME<br>December 1 | 18:00 - 19:30</p><p>PRICE<br>Free of charge</p><p>Donations are welcome throughout this day. 100% of donations will go to Sari Hati, our community partner in Ubud.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-01T10:00:00.000Z",
+   "endsAt": "2026-12-01T11:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 7,
+   "teacher": {
+    "name": "Radiantly Alive",
+    "pictureUrl": "https://images.momence.com/h/5617/session-host-photo/14fa9201-eadc-41b3-bc49-bd401e3fbe86.jpeg"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146774047"
   },
   {
    "id": 147649755,
@@ -245,7 +245,7 @@
    },
    "location": "Radiantly Alive Ubud",
    "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/22066cd7-bc54-4e3f-ae8d-de56159275b7.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147662319"
   },
@@ -302,7 +302,7 @@
    },
    "location": "Radiantly Alive Ubud",
    "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/5b4a0898-abfa-4e58-bd60-0bcb458860f7.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147662331"
   },
@@ -359,7 +359,7 @@
    },
    "location": "Radiantly Alive Ubud",
    "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/73e61270-04c4-43b4-a46e-d335c2d0300a.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147662332"
   },
@@ -416,7 +416,7 @@
    },
    "location": "Radiantly Alive Ubud",
    "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/69c73bd6-fe35-437f-93ea-aa4683ea6b3c.jpeg",
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/69622ca2-afc6-4283-86ee-ee1852edc9cc.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147662344"
   }
