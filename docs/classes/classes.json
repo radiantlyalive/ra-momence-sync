@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-24T02:50:37.477Z",
- "count": 9,
+ "generatedAt": "2026-11-24T03:53:26.020Z",
+ "count": 8,
  "sessions": [
-  {
-   "id": 147547419,
-   "name": "Class | Vinyasa Krama",
-   "startsAt": "2026-11-24T03:00:00.000Z",
-   "endsAt": "2026-11-24T04:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 32,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147547419"
-  },
   {
    "id": 147543752,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-24T08:00:00.000Z",
    "endsAt": "2026-11-24T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 44,
+   "spotsLeft": 42,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543752"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-24T10:00:00.000Z",
    "endsAt": "2026-11-24T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 40,
+   "spotsLeft": 41,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147544911"
