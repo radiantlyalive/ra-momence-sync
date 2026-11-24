@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-24T16:58:27.875Z",
- "count": 24,
+ "generatedAt": "2026-11-24T17:53:12.611Z",
+ "count": 25,
  "sessions": [
   {
    "id": 147482951,
@@ -248,6 +248,25 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/22066cd7-bc54-4e3f-ae8d-de56159275b7.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147662319"
+  },
+  {
+   "id": 147738650,
+   "name": "Workshop | Arm Balance & Inversion",
+   "type": "Workshop",
+   "description": "<p>Are you curious to learn and break down inversions and arm balances, and feel confident while practicing them? This workshop is for everyone—yes, all levels of practitioners are welcome!</p><p>Let’s turn your world upside down and gain a better understanding of the technique and alignment behind these beneficial—yet for some, intimidating—asanas in a fun, dynamic, and interactive way.</p><p>We will break down poses like Crow, Headstand, Forearm Balance, Handstand, and more. Props (including the wall) will be used to enhance subtle body awareness, and all your questions are welcome.</p><p>Come and play!</p><p>Benefits:<br>● Arm-balances<br>● Inversions</p><p>*All levels are welcome</p><p>DATE &amp; TIME<br>December 7 | 11:30 - 13:30</p><p>PRICE<br>Regular price: 400.000 IDR<br>Early bird price: 350.000 IDR | Valid until December 1</p><p>ABOUT JOËLLE<br>Joëlle Sleebos’ heart sings for the transformative power of yoga, Ayurveda, and the sacred rituals that connect us with ourselves, each other, and Mother Earth. She especially loves the dynamic Vinyasa style as her preferred asana practice.</p><p>Joëlle is passionate about guiding others to explore the profound depths of their being and to discover their own unique dharma—on and off the mat. She lives and works between Bali, South Africa, and Europe, and wherever she is, yoga helps her stay connected to herself and navigate life more gracefully.<br>She leads the Radiantly Alive 200-hour YTT and has also completed multiple 300-hour Yoga Teacher Trainings with Daniel Aaron and Carlos Tao in Ubud, Bali.</p><p>With Joëlle, expect a deep inner journey—and at the same time—a playful yoga experience.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-07T03:30:00.000Z",
+   "endsAt": "2026-12-07T05:30:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Joëlle Sleebos",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/54968-picture.jpg?t=1681180684091"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/c2eb828c-4629-47c7-b9fa-a89c6d633614.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147738650"
   },
   {
    "id": 147649757,
