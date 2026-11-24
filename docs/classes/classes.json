@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T16:58:28.221Z",
+ "generatedAt": "2026-11-24T18:52:54.615Z",
  "count": 16,
  "sessions": [
   {
@@ -30,7 +30,7 @@
    "startsAt": "2026-11-25T03:00:00.000Z",
    "endsAt": "2026-11-25T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 49,
+   "spotsLeft": 47,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147547425"
