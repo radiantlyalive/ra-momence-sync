@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T08:15:32.022Z",
+ "generatedAt": "2026-11-25T09:44:31.642Z",
  "count": 11,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-25T10:00:00.000Z",
    "endsAt": "2026-11-25T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 43,
+   "spotsLeft": 40,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147544910"
