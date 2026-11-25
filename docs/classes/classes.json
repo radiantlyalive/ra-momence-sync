@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-25T00:36:18.302Z",
- "count": 15,
+ "generatedAt": "2026-11-25T02:04:12.378Z",
+ "count": 14,
  "sessions": [
-  {
-   "id": 147543309,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-25T01:00:00.000Z",
-   "endsAt": "2026-11-25T02:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 44,
-   "teacher": "Adam DiMarco",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147543309"
-  },
   {
    "id": 147547425,
    "name": "Class | Inside Flow",
    "startsAt": "2026-11-25T03:00:00.000Z",
    "endsAt": "2026-11-25T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 47,
+   "spotsLeft": 46,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147547425"

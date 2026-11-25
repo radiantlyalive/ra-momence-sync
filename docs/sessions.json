@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T00:36:17.916Z",
+ "generatedAt": "2026-11-25T02:04:11.744Z",
  "count": 25,
  "sessions": [
   {
@@ -105,7 +105,7 @@
    "startsAt": "2026-11-28T09:00:00.000Z",
    "endsAt": "2026-11-28T11:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 14,
+   "spotsLeft": 13,
    "teacher": {
     "name": "Maximilien Pierre Leullieux",
     "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/87224-picture.jpg?t=1707894555256"
