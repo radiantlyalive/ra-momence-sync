@@ -1,25 +1,14 @@
 {
- "generatedAt": "2026-11-25T04:22:48.557Z",
- "count": 13,
+ "generatedAt": "2026-11-25T05:32:22.695Z",
+ "count": 12,
  "sessions": [
-  {
-   "id": 147544508,
-   "name": "Class | Yin & TCM",
-   "startsAt": "2026-11-25T05:00:00.000Z",
-   "endsAt": "2026-11-25T06:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 46,
-   "teacher": "Dominika Kerekešová",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147544508"
-  },
   {
    "id": 147543774,
    "name": "Class | RA Vinyasa",
    "startsAt": "2026-11-25T08:00:00.000Z",
    "endsAt": "2026-11-25T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 46,
+   "spotsLeft": 45,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543774"
@@ -30,7 +19,7 @@
    "startsAt": "2026-11-25T10:00:00.000Z",
    "endsAt": "2026-11-25T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 47,
+   "spotsLeft": 45,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147544910"
@@ -41,7 +30,7 @@
    "startsAt": "2026-11-25T23:30:00.000Z",
    "endsAt": "2026-11-26T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 43,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543271"
