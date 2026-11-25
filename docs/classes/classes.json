@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T14:18:31.569Z",
+ "generatedAt": "2026-11-25T15:33:06.235Z",
  "count": 10,
  "sessions": [
   {
@@ -52,7 +52,7 @@
    "startsAt": "2026-11-26T03:00:00.000Z",
    "endsAt": "2026-11-26T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 49,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147547420"
