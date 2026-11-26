@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-26T04:17:44.215Z",
- "count": 24,
+ "generatedAt": "2026-11-26T05:32:25.408Z",
+ "count": 28,
  "sessions": [
   {
    "id": 147484072,
@@ -174,6 +174,25 @@
    "bookUrl": "https://momence.com/s/147736871"
   },
   {
+   "id": 147830049,
+   "name": "Sound Healing | Tibetan Sound Healing",
+   "type": "Workshop",
+   "description": "<p>Imagine lying down, your body cradled by the earth, as the ancient, resonant tones of Tibetan singing bowls wash over you. This is not merely a listening experience; it is a deep, cellular immersion. Using the profound principles of traditional Tibetan sound healing, we invite you to journey inward, where the vibrations work on multiple layers of your being—physical, mental, and energetic.</p><p>The soothing vibrations, rich with harmonic overtones, resonate through every cell, every tissue, and every subtle channel of your body. This is a therapeutic process that bypasses the analytical mind, speaking directly to the body&#39;s innate wisdom. You will feel tension melt away, stress dissolve, and a profound sense of inner peace begin to emerge.</p><p>This is a practice of conscious choice. In this sacred space, you actively choose:<br>• Stillness over rush: Allowing the vibrations to slow your racing thoughts and anchor you in the present moment.<br>• Gratitude over worry: Creating a shift in your emotional frequency, opening your heart to peace and appreciation.<br>• Presence over distraction: Turning your awareness inward, away from the noise of the outside world, and connecting with your truest self.</p><p>DATE &amp; TIME<br>December 5 | 13:00 - 14:15</p><p>PRICE<br>Regular Price: 250.000 IDR<br>Early Bird Price: 200.000 IDR | Valid until December 2</p><p>ABOUT RICARDO<br>Ricardo is a Yoga Alliance Registered Teacher (RYT 500+ hours) who brings unique expertise to his global yoga practice. Teaching in diverse settings, he offers a multicultural learning experience. His deep understanding of the body–mind connection enhances transformative yoga experiences for students of all levels.</p><p>Committed to dynamic and somatic self-exploration, he fosters a holistic approach to well-being, guiding students through a meaningful and transformative journey. Ricardo creates enriching and empowering yoga experiences.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-05T05:00:00.000Z",
+   "endsAt": "2026-12-05T06:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Ricardo Roestenburg",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/293348-picture.jpg?t=1767154373620"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/48d6bc31-6513-4486-b18c-e314c621892a.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147830049"
+  },
+  {
    "id": 147661845,
    "name": "Event | Vocal Edging: A Living Laboratory at the Frontier of the Inexpressible",
    "type": "Workshop",
@@ -288,6 +307,25 @@
    "bookUrl": "https://momence.com/s/147662235"
   },
   {
+   "id": 147830054,
+   "name": "Sound Healing | Reiki Sound Healing Chakra Meditation",
+   "type": "Workshop",
+   "description": "<p>Reiki Sound Healing is a transformational healing journey into the subtle energetic centers of the chakras and the auric field, helping to release stagnant energy from the physical, emotional, mental, and spiritual bodies.</p><p>Be bathed in the celestial voice of Devi Ma as she transmits healing light frequencies and sacred mantras for the deep healing of stress, anxiety, depression, grief, and general feelings of being out of balance, assisting you in realigning your body, mind, and spirit and returning you to the center of your heart.</p><p>Devi will take you on a deep inner journey through the chakras with a guided meditation and healing sounds using instruments such as crystal bowls, a shruti box, a shamanic drum, and a rattle.</p><p>Devi will create a high-vibrational healing container, working with Reiki symbols, celestial sounds, and crystal bowls. Devi Ma will open a portal of pure light, assisted by the Council of Light, Reiki guides, and angelic beings, who will support energetic clearing, light-body activation, and your return to your True Self.</p><p>BENEFITS<br>With a sound and Reiki healing session, you will experience deep relaxation, peace of mind, and a deeper connection to your spiritual Self and the path of Love.</p><p>DATE &amp; TIME<br>December 13 | 17:00 - 18:30</p><p>PRICE<br>Regular price: 300.000 IDR<br>Early bird price: 250.000 IDR | valid until December 10</p><p>ABOUT DEVI MA<br>Devi Ma is a Reiki Master, Teacher, Oracle of Multi-Dimensional Wisdom, Medicine Woman, Shamanic Sound Healer, and Women&#39;s Empowerment Facilitator. She is the Founder of the Priestesses of the Golden Age Women&#39;s Facilitators Trainings in Bali.</p><p>Devi combines traditional Reiki with shamanic practices to assist in grounding, protecting, and opening the light body to embody the celestial healing light of Shamanic Reiki.</p><p>Devi Ma is an international healer and teacher who has been empowering women through ancient Priestess Healing Arts, Reiki, and Shamanic Sound Journeys. Devi Ma is a gifted healer and multidimensional channel of the Ascended Masters, Council of Divine Mother, and Angels, who support planetary ascension and the awakening of Divine Love through the healing arts.</p><p>Passionate about supporting people in healing and living a life of self-empowerment, Devi holds a space of loving presence in service to the awakening of humanity.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-13T09:00:00.000Z",
+   "endsAt": "2026-12-13T10:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 30,
+   "teacher": {
+    "name": "Devi Ma",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/2860-picture.jpg?t=1657533113"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/d1c5c50b-a9b6-4134-a5bd-1f6d5082f460.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147830054"
+  },
+  {
    "id": 147662331,
    "name": "Community | Women's Circle",
    "type": "Workshop",
@@ -364,6 +402,25 @@
    "bookUrl": "https://momence.com/s/147737410"
   },
   {
+   "id": 147830050,
+   "name": "Sound Healing | Tibetan Sound Healing",
+   "type": "Workshop",
+   "description": "<p>Imagine lying down, your body cradled by the earth, as the ancient, resonant tones of Tibetan singing bowls wash over you. This is not merely a listening experience; it is a deep, cellular immersion. Using the profound principles of traditional Tibetan sound healing, we invite you to journey inward, where the vibrations work on multiple layers of your being—physical, mental, and energetic.</p><p>The soothing vibrations, rich with harmonic overtones, resonate through every cell, every tissue, and every subtle channel of your body. This is a therapeutic process that bypasses the analytical mind, speaking directly to the body&#39;s innate wisdom. You will feel tension melt away, stress dissolve, and a profound sense of inner peace begin to emerge.</p><p>This is a practice of conscious choice. In this sacred space, you actively choose:<br>• Stillness over rush: Allowing the vibrations to slow your racing thoughts and anchor you in the present moment.<br>• Gratitude over worry: Creating a shift in your emotional frequency, opening your heart to peace and appreciation.<br>• Presence over distraction: Turning your awareness inward, away from the noise of the outside world, and connecting with your truest self.</p><p>DATE &amp; TIME<br>December 19 | 13:00 - 14:15</p><p>PRICE<br>Regular Price: 250.000 IDR<br>Early Bird Price: 200.000 IDR | Valid until December 16</p><p>ABOUT RICARDO<br>Ricardo is a Yoga Alliance Registered Teacher (RYT 500+ hours) who brings unique expertise to his global yoga practice. Teaching in diverse settings, he offers a multicultural learning experience. His deep understanding of the body–mind connection enhances transformative yoga experiences for students of all levels.</p><p>Committed to dynamic and somatic self-exploration, he fosters a holistic approach to well-being, guiding students through a meaningful and transformative journey. Ricardo creates enriching and empowering yoga experiences.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-19T05:00:00.000Z",
+   "endsAt": "2026-12-19T06:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Ricardo Roestenburg",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/293348-picture.jpg?t=1767154373620"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/48d6bc31-6513-4486-b18c-e314c621892a.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147830050"
+  },
+  {
    "id": 147662200,
    "name": "Event | Vocal Edging: A Living Laboratory at the Frontier of the Inexpressible",
    "type": "Workshop",
@@ -438,6 +495,25 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/9bd251a1-017b-44e8-b6df-0651351d72d5.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147662250"
+  },
+  {
+   "id": 147830052,
+   "name": "Sound Healing | Tibetan Sound Healing",
+   "type": "Workshop",
+   "description": "<p>Imagine lying down, your body cradled by the earth, as the ancient, resonant tones of Tibetan singing bowls wash over you. This is not merely a listening experience; it is a deep, cellular immersion. Using the profound principles of traditional Tibetan sound healing, we invite you to journey inward, where the vibrations work on multiple layers of your being—physical, mental, and energetic.</p><p>The soothing vibrations, rich with harmonic overtones, resonate through every cell, every tissue, and every subtle channel of your body. This is a therapeutic process that bypasses the analytical mind, speaking directly to the body&#39;s innate wisdom. You will feel tension melt away, stress dissolve, and a profound sense of inner peace begin to emerge.</p><p>This is a practice of conscious choice. In this sacred space, you actively choose:<br>• Stillness over rush: Allowing the vibrations to slow your racing thoughts and anchor you in the present moment.<br>• Gratitude over worry: Creating a shift in your emotional frequency, opening your heart to peace and appreciation.<br>• Presence over distraction: Turning your awareness inward, away from the noise of the outside world, and connecting with your truest self.</p><p>DATE &amp; TIME<br>December 27 | 13:00 - 14:15</p><p>PRICE<br>Regular Price: 250.000 IDR<br>Early Bird Price: 200.000 IDR | Valid until December 24</p><p>ABOUT RICARDO<br>Ricardo is a Yoga Alliance Registered Teacher (RYT 500+ hours) who brings unique expertise to his global yoga practice. Teaching in diverse settings, he offers a multicultural learning experience. His deep understanding of the body–mind connection enhances transformative yoga experiences for students of all levels.</p><p>Committed to dynamic and somatic self-exploration, he fosters a holistic approach to well-being, guiding students through a meaningful and transformative journey. Ricardo creates enriching and empowering yoga experiences.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-27T05:00:00.000Z",
+   "endsAt": "2026-12-27T06:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Ricardo Roestenburg",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/293348-picture.jpg?t=1767154373620"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/48d6bc31-6513-4486-b18c-e314c621892a.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147830052"
   },
   {
    "id": 147662344,
