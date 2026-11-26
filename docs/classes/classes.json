@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-26T12:47:46.893Z",
- "count": 9,
+ "generatedAt": "2026-11-26T22:10:00.618Z",
+ "count": 16,
  "sessions": [
   {
    "id": 147543272,
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-26T23:30:00.000Z",
    "endsAt": "2026-11-27T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 43,
+   "spotsLeft": 41,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543272"
@@ -74,7 +74,7 @@
    "startsAt": "2026-11-27T08:00:00.000Z",
    "endsAt": "2026-11-27T09:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 46,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543775"
@@ -100,6 +100,83 @@
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147544754"
+  },
+  {
+   "id": 147543273,
+   "name": "Class | Gentle Flow",
+   "startsAt": "2026-11-27T23:30:00.000Z",
+   "endsAt": "2026-11-28T00:45:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 46,
+   "teacher": "Lucinda Rose Muldoon",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147543273"
+  },
+  {
+   "id": 147543317,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-28T01:00:00.000Z",
+   "endsAt": "2026-11-28T02:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 48,
+   "teacher": "Lucinda Rose Muldoon",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147543317"
+  },
+  {
+   "id": 147544294,
+   "name": "Class | Hatha",
+   "startsAt": "2026-11-28T03:00:00.000Z",
+   "endsAt": "2026-11-28T04:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 49,
+   "teacher": "Niko Kisic",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147544294"
+  },
+  {
+   "id": 147547421,
+   "name": "Class | Vinyasa Krama",
+   "startsAt": "2026-11-28T03:00:00.000Z",
+   "endsAt": "2026-11-28T04:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 48,
+   "teacher": "Nitin Bartwal",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147547421"
+  },
+  {
+   "id": 147543772,
+   "name": "Class | RA Vinyasa",
+   "startsAt": "2026-11-28T08:00:00.000Z",
+   "endsAt": "2026-11-28T09:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Sari Dewi",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147543772"
+  },
+  {
+   "id": 147544544,
+   "name": "Class | Ashtanga Inspired",
+   "startsAt": "2026-11-28T09:00:00.000Z",
+   "endsAt": "2026-11-28T10:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 50,
+   "teacher": "Nitin Bartwal",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147544544"
+  },
+  {
+   "id": 147544055,
+   "name": "Class | Slow Flow",
+   "startsAt": "2026-11-28T10:00:00.000Z",
+   "endsAt": "2026-11-28T11:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": 50,
+   "teacher": "RA Teacher",
+   "location": "Radiantly Alive Ubud",
+   "bookUrl": "https://momence.com/s/147544055"
   }
  ]
 }
