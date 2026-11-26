@@ -1,36 +1,14 @@
 {
- "generatedAt": "2026-11-26T09:28:16.485Z",
- "count": 11,
+ "generatedAt": "2026-11-26T10:33:09.729Z",
+ "count": 9,
  "sessions": [
-  {
-   "id": 147545259,
-   "name": "Class | Sound Healing",
-   "startsAt": "2026-11-26T10:00:00.000Z",
-   "endsAt": "2026-11-26T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 45,
-   "teacher": "Adam DiMarco",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147545259"
-  },
-  {
-   "id": 147544053,
-   "name": "Class | Slow Flow",
-   "startsAt": "2026-11-26T10:00:00.000Z",
-   "endsAt": "2026-11-26T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 48,
-   "teacher": "Dominika Kerekešová",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147544053"
-  },
   {
    "id": 147543272,
    "name": "Class | Gentle Flow",
    "startsAt": "2026-11-26T23:30:00.000Z",
    "endsAt": "2026-11-27T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 44,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543272"
