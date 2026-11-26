@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:33:09.729Z",
+ "generatedAt": "2026-11-26T11:39:43.974Z",
  "count": 9,
  "sessions": [
   {
@@ -8,7 +8,7 @@
    "startsAt": "2026-11-26T23:30:00.000Z",
    "endsAt": "2026-11-27T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 44,
+   "spotsLeft": 43,
    "teacher": "Denise De La Torre",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543272"
