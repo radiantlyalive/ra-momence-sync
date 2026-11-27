@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-27T04:15:52.165Z",
- "count": 26,
+ "generatedAt": "2026-11-27T14:10:35.499Z",
+ "count": 28,
  "sessions": [
   {
    "id": 146665971,
@@ -29,7 +29,7 @@
    "startsAt": "2026-11-28T09:00:00.000Z",
    "endsAt": "2026-11-28T11:00:00.000Z",
    "durationInMinutes": 120,
-   "spotsLeft": 13,
+   "spotsLeft": 11,
    "teacher": {
     "name": "Maximilien Pierre Leullieux",
     "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/87224-picture.jpg?t=1707894555256"
@@ -60,6 +60,25 @@
    "bookUrl": "https://momence.com/s/147293074"
   },
   {
+   "id": 146774047,
+   "name": "Anniversary Day | Kirtan | Free",
+   "type": "Workshop",
+   "description": "<p>A joyful evening of call-and-response chanting, uniting the community in voice, rhythm, and shared presence.</p><p>Led by Alexandra, Kirtan closes this day with collective song. Through call-and-response chanting, live music, and rhythm, guests experience a sense of unity and joyful celebration.</p><p>A short closing circle follows, where the host gently brings the river back to the intention set during the morning&#39;s opening ceremony, completing the day as one continuous journey.</p><p>DATE &amp; TIME<br>December 1 | 18:00 - 19:30</p><p>PRICE<br>Free of charge</p><p>Donations are welcome throughout this day. 100% of donations will go to Sari Hati, our community partner in Ubud.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-01T10:00:00.000Z",
+   "endsAt": "2026-12-01T11:30:00.000Z",
+   "durationInMinutes": 90,
+   "spotsLeft": 2,
+   "teacher": {
+    "name": "Alexandra McRobert",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/162087-picture.jpg?t=1749794132709"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/146774047"
+  },
+  {
    "id": 147481019,
    "name": "Anniversary Day | Kirtan | Donation",
    "type": "Workshop",
@@ -77,25 +96,6 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147481019"
-  },
-  {
-   "id": 146774047,
-   "name": "Anniversary Day | Kirtan | Free",
-   "type": "Workshop",
-   "description": "<p>A joyful evening of call-and-response chanting, uniting the community in voice, rhythm, and shared presence.</p><p>Led by Alexandra, Kirtan closes this day with collective song. Through call-and-response chanting, live music, and rhythm, guests experience a sense of unity and joyful celebration.</p><p>A short closing circle follows, where the host gently brings the river back to the intention set during the morning&#39;s opening ceremony, completing the day as one continuous journey.</p><p>DATE &amp; TIME<br>December 1 | 18:00 - 19:30</p><p>PRICE<br>Free of charge</p><p>Donations are welcome throughout this day. 100% of donations will go to Sari Hati, our community partner in Ubud.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
-   "startsAt": "2026-12-01T10:00:00.000Z",
-   "endsAt": "2026-12-01T11:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 5,
-   "teacher": {
-    "name": "Alexandra McRobert",
-    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/162087-picture.jpg?t=1749794132709"
-   },
-   "location": "Radiantly Alive Ubud",
-   "isInPerson": true,
-   "imageUrl": "https://images.momence.com/h/5617/session-banner/8fae6896-5992-47ec-be5c-3c5ab84915ce.jpeg",
-   "tags": [],
-   "bookUrl": "https://momence.com/s/146774047"
   },
   {
    "id": 147649755,
@@ -421,6 +421,25 @@
    "bookUrl": "https://momence.com/s/147662332"
   },
   {
+   "id": 147898078,
+   "name": "Event | Full Moon Ceremony",
+   "type": "Workshop",
+   "description": "<p>This Full Moon Ceremony is held as a sacred and intentional circle. This two-hour experience weaves together somatic movement, cleansing practices, fire ritual and guided meditation to  support emotional release and renewal. It brings people together in shared presence, creating  space to work with the heightened energy of the Full Moon through grounded ceremonial practices.</p><p>Full Moons are powerful monthly thresholds, marking the peak of the lunar cycle and offering an opportunity to pause and acknowledge what is unfolding within us. Their illuminating quality can  bring emotional needs, attachments and patterns into focus, particularly those that shape our sense of belonging and security.</p><p>Aligned with Cancer energy, this ceremony explores the themes of emotional nourishment, self care and unconditional love. Cancer carries the archetype of the nurturer, reminding us of the  importance of creating a safe and supportive foundation within ourselves. It draws attention to  our relationship with home, family and belonging, and the ways in which we give and receive care.</p><p>Opposing the Sun in Capricorn, this Full Moon highlights the balance between our external re sponsibilities and our inner needs. It asks us to consider where we may have become so focused  on doing, achieving and holding everything together that we&#39;ve neglected the parts of ourselves  that need tenderness and attention.</p><p>The deeper intention is to honour our emotional truth, let go of patterns that no longer serve us, and cultivate greater inner security, compassion and connection. It is a chance to come home to  ourselves and replenish our emotional reserves, recognising that caring for ourselves is an essen tial part of how we care for others.</p><p>Supported by the four directions and elemental forces, the experience provides a grounding  framework for the work. Through the practices, there is space to slow down, settle the nervous system and reconnect with the body. The aim is to leave feeling more centred, balanced and at ease, with a renewed sense of connection and vitality.</p><p>AGENDA:<br>* Arrival, welcome, and anointing ritual <br>* Introduction to the ceremonial container <br>* Overview of the energetics of the Full Moon in cancer <br>* Opening Circle <br>* Somatic movement to support energetic alignment <br>* Cleansing rituals <br>* Guided journaling for reflection and intention <br>* Fire ritual <br>* Calming and grounding practices to prepare the body and nervous system <br>* Guided alchemical meditation <br>* Closing circle with optional sharing and integration</p><p>BENEFITS: <br>- Supports emotional clearing and energetic release<br>- Encourages balance, harmony, and inner recalibration<br>- Facilitates nervous system regulation and embodied presence<br>- Supports self-reflection and conscious integration<br>- Enhances emotional awareness and intuitive insight<br>- Fosters connection, belonging, and shared presence</p><p>*No prior experience required.<br>*To prepare for the ceremony, wear comfortable clothing that allows ease of movement and bring a journal for reflection.</p><p>DATE &amp; TIME<br>December 23 | 18:00 - 20:00</p><p>PRICE<br>Regular price: 550.000 IDR<br>Early bird price: 440.000 IDR | Valid until December 18</p><p>ABOUT ZARA<br>Zara is an initiated priestess in the Brotherhood and Sisterhood of Light. A Reiki practitioner and intuitive healer, her work is informed by psychic and mediumistic abilities, as well as a deep understanding of esoteric wisdom.</p><p>As a mentor and guide, she has been facilitating moon ceremonies and women’s circles for many years, creating grounded, sacred spaces for reflection, transformation, and embodied awareness.</p><p>Also an accredited senior yoga teacher, her work is rooted in presence, integrity, and years of lived experience.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-23T10:00:00.000Z",
+   "endsAt": "2026-12-23T12:00:00.000Z",
+   "durationInMinutes": 120,
+   "spotsLeft": 44,
+   "teacher": {
+    "name": "Zara Miranda",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/158170-picture.jpg?t=1747984534979"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/88497501-8094-4bcc-a4d6-b74a898d85e6.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147898078"
+  },
+  {
    "id": 147649947,
    "name": "Workshop | Breathwork: Somatic Breath",
    "type": "Workshop",
@@ -438,6 +457,25 @@
    "imageUrl": "https://images.momence.com/h/5617/session-banner/14fdf6f4-a855-457a-a59d-4f8c2de1ca83.jpeg",
    "tags": [],
    "bookUrl": "https://momence.com/s/147649947"
+  },
+  {
+   "id": 147898259,
+   "name": "Event | Yantra Mantra Mudra Meditation",
+   "type": "Workshop",
+   "description": "<p>Yantra, Mantra, Mudra Meditation, where we use ancient Tibetan singing bowls.</p><p>Explore three traditional yogic practices that bring together sound, visualisation, and gesture to deepen your meditation experience.</p><p>Through the repetition of mantra, focused awareness on sacred geometry (yantra), and symbolic hand gestures (mudra), this guided session offers different ways to cultivate concentration, quiet the mind, and connect with your inner awareness.</p><p>Whether you are new to meditation or have an established practice, this is an opportunity to slow down, turn inward, and experience meditation through these three complementary approaches.</p><p>Come as you are, with an open mind and a willingness to explore.</p><p>Benefits of the Practice<br>- Inner harmony <br>- Flow of vital energy through the body <br>- Improved focus and concentration<br>- Deeper states of relaxation <br>- Deeper self-awareness<br>- A greater sense of grounding<br>- Receiving the soothing sounds of the Tibetan singing bowls</p><p>DATE &amp; TIME<br>December 26 | 13:00 - 14:15</p><p>PRICE<br>Regular Price: 250.000 IDR<br>Early Bird Price: 200.000 IDR | Valid until December 23</p><p>ABOUT RICARDO<br>Ricardo is a Yoga Alliance Registered Teacher (RYT 500+ hours) who brings unique expertise to his global yoga practice. Teaching in diverse settings, he offers a multicultural learning experience. His deep understanding of the body–mind connection enhances transformative yoga experiences for students of all levels.</p><p>Committed to dynamic and somatic self-exploration, he fosters a holistic approach to well-being, guiding students through a meaningful and transformative journey. Ricardo creates enriching and empowering yoga experiences.</p><p>Terms of service: https://www.radiantlyalive.com/terms-of-service-studio</p>",
+   "startsAt": "2026-12-26T05:00:00.000Z",
+   "endsAt": "2026-12-26T06:15:00.000Z",
+   "durationInMinutes": 75,
+   "spotsLeft": null,
+   "teacher": {
+    "name": "Ricardo Roestenburg",
+    "pictureUrl": "https://ribbon-technologes-images.s3.us-east-2.amazonaws.com/293348-picture.jpg?t=1767154373620"
+   },
+   "location": "Radiantly Alive Ubud",
+   "isInPerson": true,
+   "imageUrl": "https://images.momence.com/h/5617/session-banner/727de54a-f5ca-47ed-a2eb-1487eee3a4ba.jpeg",
+   "tags": [],
+   "bookUrl": "https://momence.com/s/147898259"
   },
   {
    "id": 147662250,

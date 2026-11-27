@@ -1,69 +1,14 @@
 {
- "generatedAt": "2026-11-27T04:15:52.489Z",
- "count": 12,
+ "generatedAt": "2026-11-27T14:10:35.921Z",
+ "count": 7,
  "sessions": [
-  {
-   "id": 147544504,
-   "name": "Class | Yin & TCM",
-   "startsAt": "2026-11-27T05:00:00.000Z",
-   "endsAt": "2026-11-27T06:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 47,
-   "teacher": "Lucinda Rose Muldoon",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147544504"
-  },
-  {
-   "id": 147545260,
-   "name": "Class | Biomagnetism & Sound Healing",
-   "startsAt": "2026-11-27T06:00:00.000Z",
-   "endsAt": "2026-11-27T07:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 22,
-   "teacher": "Adam DiMarco",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147545260"
-  },
-  {
-   "id": 147543775,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-27T08:00:00.000Z",
-   "endsAt": "2026-11-27T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 45,
-   "teacher": "Denise De La Torre",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147543775"
-  },
-  {
-   "id": 147544543,
-   "name": "Class | Ashtanga Inspired",
-   "startsAt": "2026-11-27T09:00:00.000Z",
-   "endsAt": "2026-11-27T10:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 46,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147544543"
-  },
-  {
-   "id": 147544754,
-   "name": "Class | Yin",
-   "startsAt": "2026-11-27T10:00:00.000Z",
-   "endsAt": "2026-11-27T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 50,
-   "teacher": "Maximilien Pierre Leullieux",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147544754"
-  },
   {
    "id": 147543273,
    "name": "Class | Gentle Flow",
    "startsAt": "2026-11-27T23:30:00.000Z",
    "endsAt": "2026-11-28T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 45,
+   "spotsLeft": 42,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543273"
@@ -74,7 +19,7 @@
    "startsAt": "2026-11-28T01:00:00.000Z",
    "endsAt": "2026-11-28T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Lucinda Rose Muldoon",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543317"
@@ -96,7 +41,7 @@
    "startsAt": "2026-11-28T03:00:00.000Z",
    "endsAt": "2026-11-28T04:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 47,
    "teacher": "Nitin Bartwal",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147547421"
