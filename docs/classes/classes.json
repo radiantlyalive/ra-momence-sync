@@ -1,47 +1,14 @@
 {
- "generatedAt": "2026-11-28T04:18:59.175Z",
- "count": 13,
+ "generatedAt": "2026-11-28T13:27:27.119Z",
+ "count": 10,
  "sessions": [
-  {
-   "id": 147543772,
-   "name": "Class | RA Vinyasa",
-   "startsAt": "2026-11-28T08:00:00.000Z",
-   "endsAt": "2026-11-28T09:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 49,
-   "teacher": "Sari Dewi",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147543772"
-  },
-  {
-   "id": 147544544,
-   "name": "Class | Ashtanga Inspired",
-   "startsAt": "2026-11-28T09:00:00.000Z",
-   "endsAt": "2026-11-28T10:30:00.000Z",
-   "durationInMinutes": 90,
-   "spotsLeft": 50,
-   "teacher": "Nitin Bartwal",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147544544"
-  },
-  {
-   "id": 147544055,
-   "name": "Class | Slow Flow",
-   "startsAt": "2026-11-28T10:00:00.000Z",
-   "endsAt": "2026-11-28T11:15:00.000Z",
-   "durationInMinutes": 75,
-   "spotsLeft": 47,
-   "teacher": "RA Teacher",
-   "location": "Radiantly Alive Ubud",
-   "bookUrl": "https://momence.com/s/147544055"
-  },
   {
    "id": 147543275,
    "name": "Class | Gentle Flow",
    "startsAt": "2026-11-28T23:30:00.000Z",
    "endsAt": "2026-11-29T00:45:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 38,
+   "spotsLeft": 36,
    "teacher": "Sari Dewi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543275"
@@ -63,7 +30,7 @@
    "startsAt": "2026-11-29T01:00:00.000Z",
    "endsAt": "2026-11-29T02:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 48,
+   "spotsLeft": 46,
    "teacher": "Ade Adinata",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147543319"
@@ -74,7 +41,7 @@
    "startsAt": "2026-11-29T02:00:00.000Z",
    "endsAt": "2026-11-29T03:45:00.000Z",
    "durationInMinutes": 105,
-   "spotsLeft": 49,
+   "spotsLeft": 45,
    "teacher": "Laila Elidrissi",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147547430"
@@ -85,7 +52,7 @@
    "startsAt": "2026-11-29T03:00:00.000Z",
    "endsAt": "2026-11-29T04:30:00.000Z",
    "durationInMinutes": 90,
-   "spotsLeft": 50,
+   "spotsLeft": 49,
    "teacher": "Niko Kisic",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147547428"
@@ -140,7 +107,7 @@
    "startsAt": "2026-11-29T10:00:00.000Z",
    "endsAt": "2026-11-29T11:15:00.000Z",
    "durationInMinutes": 75,
-   "spotsLeft": 48,
+   "spotsLeft": 46,
    "teacher": "Maximilien Pierre Leullieux",
    "location": "Radiantly Alive Ubud",
    "bookUrl": "https://momence.com/s/147544978"
